@@ -37,7 +37,7 @@ def main():
     for it in tr: trbyw[it[3]].append(it)
     tok=AutoTokenizer.from_pretrained(MODEL); mod=AutoModel.from_pretrained(MODEL).to(DEV).eval()
     # cross-encoder predictions on te
-    m=XEnc().to(DEV); m.load_state_dict(torch.load("out/wsd_xenc2_uncased_s0.pt",map_location=DEV)); m.eval()
+    m=XEnc().to(DEV); m.load_state_dict(torch.load("out/wsd_xenc2.pt",map_location=DEV)); m.eval()
     xe_pred={}
     with torch.no_grad():
         for i in range(0,len(te),16):
