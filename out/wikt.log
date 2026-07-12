@@ -1,0 +1,24 @@
+distinct (target, pos) in pilot: 264
+  fetched 40/264
+  fetched 80/264
+  fetched 120/264
+  fetched 160/264
+  fetched 200/264
+  fetched 240/264
+
+fetched senses for 201/264 targets
+  mean senses  WordNet 7.80   Wiktionary 7.34
+  median       WordNet 5      Wiktionary 4
+  Wiktionary coarser on 95/201 words, finer on 92
+
+the words that broke test-retest agreement:
+  word       pos  WordNet  Wiktionary
+  be           v       13          27
+  early        a        6           6
+  had          v       19           3
+  have         v       19          33
+  is           v       13           3
+  work         n        7          22
+  work         v       27          34
+
+example — 'hijacker':

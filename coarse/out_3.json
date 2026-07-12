@@ -1,0 +1,1246 @@
+[
+ {
+  "word": "was",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Copula: quality, identity, equation",
+    "cue": "Links subject to adjective, noun, or predicate; be + complement"
+   },
+   {
+    "gloss": "Existential or locative: exist, be located",
+    "cue": "Indicates existence or position; where is X? there is/was X"
+   },
+   {
+    "gloss": "Event: occur or take place",
+    "cue": "Something happened; during a time; temporal situation"
+   }
+  ]
+ },
+ {
+  "word": "early",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Before expected or usual time",
+    "cue": "Sooner than anticipated; ahead of schedule; premature"
+   },
+   {
+    "gloss": "In initial phase or stage",
+    "cue": "Near start of period; beginning of development; nascent"
+   }
+  ]
+ },
+ {
+  "word": "given",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Provide or supply something",
+    "cue": "Give information, access, item; furnish; deliver"
+   },
+   {
+    "gloss": "Transfer possession or ownership",
+    "cue": "Give money, gift, property; ownership changes hands"
+   },
+   {
+    "gloss": "Cause to have or produce",
+    "cue": "Result in; bring about; cause effect or outcome"
+   },
+   {
+    "gloss": "Execute or perform",
+    "cue": "Hold event, give speech, issue order, organize"
+   }
+  ]
+ },
+ {
+  "word": "believed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Accept as true",
+    "cue": "Think true; trust; accept claim or account"
+   },
+   {
+    "gloss": "Hold as opinion or judgment",
+    "cue": "Regard as; suppose; consider to be; think"
+   }
+  ]
+ },
+ {
+  "word": "see",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Perceive with eyes; visual perception",
+    "cue": "Look at; watch; observe with sight; witness"
+   },
+   {
+    "gloss": "Understand mentally; comprehend",
+    "cue": "Grasp meaning; perceive idea; realize; get point"
+   },
+   {
+    "gloss": "Meet or visit in person",
+    "cue": "Encounter; visit somebody; go to see; social visit"
+   }
+  ]
+ },
+ {
+  "word": "argument",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Reason or evidence supporting position",
+    "cue": "Logical claim; assertion offered as proof; premise"
+   },
+   {
+    "gloss": "Dispute or contentious disagreement",
+    "cue": "Quarrel; conflicting viewpoints; heated exchange"
+   },
+   {
+    "gloss": "Summary or plot outline",
+    "cue": "Overview of content; synopsis of work; abstract"
+   },
+   {
+    "gloss": "Input parameter or variable",
+    "cue": "Function input; computational parameter; data value"
+   }
+  ]
+ },
+ {
+  "word": "year",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Calendar period of 365 or 366 days",
+    "cue": "Annual cycle; twelve-month span; specific year"
+   },
+   {
+    "gloss": "Period devoted to activity or role",
+    "cue": "School year; fiscal year; seasonal period; phase"
+   },
+   {
+    "gloss": "Cohort or group graduating together",
+    "cue": "Class group; birth cohort; age group; same year"
+   }
+  ]
+ },
+ {
+  "word": "helps",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Give assistance or aid",
+    "cue": "Support; provide help; assist person; lend hand"
+   },
+   {
+    "gloss": "Improve or make better",
+    "cue": "Beneficial effect; enhance; ameliorate condition"
+   },
+   {
+    "gloss": "Contribute to outcome",
+    "cue": "Facilitate; further; contribute to result; enable"
+   }
+  ]
+ },
+ {
+  "word": "shot",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Hit or kill with projectile",
+    "cue": "Fire weapon; shoot gun; strike with missile; kill"
+   },
+   {
+    "gloss": "Photograph or film",
+    "cue": "Take picture; make recording; capture on film"
+   },
+   {
+    "gloss": "Move rapidly or suddenly",
+    "cue": "Dart; rush; move fast; go quickly; flee"
+   },
+   {
+    "gloss": "Throw or propel in sports",
+    "cue": "Throw ball; shoot goal; score; propel forcefully"
+   }
+  ]
+ },
+ {
+  "word": "manufacturer",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Business making products",
+    "cue": "Company; factory; production firm"
+   },
+   {
+    "gloss": "Person engaged in manufacturing",
+    "cue": "Producer; maker; craftsperson; factory worker"
+   }
+  ]
+ },
+ {
+  "word": "reassure",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Restore confidence; alleviate fear",
+    "cue": "Comfort; make feel safe; calm; give assurance"
+   },
+   {
+    "gloss": "Reinsure in insurance sense",
+    "cue": "Insurance; underwrite; transfer risk; reinsure"
+   }
+  ]
+ },
+ {
+  "word": "get rid of",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Remove or eliminate",
+    "cue": "Discard; dispose; free from; remove; eliminate"
+   }
+  ]
+ },
+ {
+  "word": "washed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Clean with water and soap",
+    "cue": "Cleanse; scrub; rinse; clean body or object"
+   },
+   {
+    "gloss": "Erode or sweep away",
+    "cue": "Move by water; carry away; erode channel; flow"
+   },
+   {
+    "gloss": "Apply thin coating",
+    "cue": "Paint thinly; cover surface; apply layer"
+   }
+  ]
+ },
+ {
+  "word": "stimulating",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Arousing interest or engagement",
+    "cue": "Engaging; thought-provoking; exciting; rousing interest"
+   }
+  ]
+ },
+ {
+  "word": "means",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Method or way to achieve end",
+    "cue": "Instrument; tool; way; instrumentality; agency"
+   },
+   {
+    "gloss": "Resources or wealth",
+    "cue": "Money; income; capital; financial resources"
+   },
+   {
+    "gloss": "Average or statistical mean",
+    "cue": "Mathematical average; numerical mean"
+   }
+  ]
+ },
+ {
+  "word": "problems",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Difficulty needing resolution",
+    "cue": "Challenge; trouble; issue; situation to solve"
+   },
+   {
+    "gloss": "Question or puzzle to solve",
+    "cue": "Exercise; riddle; problem set; homework item"
+   }
+  ]
+ },
+ {
+  "word": "held",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Grasp or keep with hand",
+    "cue": "Grip; clutch; hold in hand; physically hold"
+   },
+   {
+    "gloss": "Contain or have within",
+    "cue": "Carry; accommodate; include; have capacity for"
+   },
+   {
+    "gloss": "Retain or keep stored",
+    "cue": "Keep; retain; preserve; maintain in memory"
+   },
+   {
+    "gloss": "Maintain position or state",
+    "cue": "Support; sustain; keep steady; remain in place"
+   },
+   {
+    "gloss": "Organize or conduct",
+    "cue": "Hold meeting; run event; conduct; organize"
+   },
+   {
+    "gloss": "Believe or maintain opinion",
+    "cue": "Assert; maintain view; hold belief; think"
+   }
+  ]
+ },
+ {
+  "word": "ending",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Come to conclusion or finish",
+    "cue": "Terminate; conclude; finish; come to end"
+   },
+   {
+    "gloss": "Cause to end",
+    "cue": "Finish something; bring to conclusion; halt"
+   }
+  ]
+ },
+ {
+  "word": "were",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Copula: quality, identity, equation",
+    "cue": "Links subject to adjective, noun, or complement"
+   },
+   {
+    "gloss": "Existential or locative",
+    "cue": "Indicates existence or position; there were"
+   },
+   {
+    "gloss": "Event or occurrence",
+    "cue": "Something happened; take place; occur"
+   }
+  ]
+ },
+ {
+  "word": "analysis",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Detailed examination of components",
+    "cue": "Investigation; breakdown; study of parts; examine"
+   },
+   {
+    "gloss": "Literary or textual examination",
+    "cue": "Study of structure; literary criticism; text analysis"
+   },
+   {
+    "gloss": "Psychoanalytic method",
+    "cue": "Mental health treatment; psychotherapy; therapeutic"
+   },
+   {
+    "gloss": "Mathematical or statistical method",
+    "cue": "Calculus; math analysis; statistical study"
+   }
+  ]
+ },
+ {
+  "word": "appeared",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Come into view or sight",
+    "cue": "Become visible; show up; emerge; come into view"
+   },
+   {
+    "gloss": "Seem or give impression",
+    "cue": "Appear to be; give appearance; seem; look"
+   },
+   {
+    "gloss": "Be published or released",
+    "cue": "Come out; be issued; get published; be released"
+   },
+   {
+    "gloss": "Come into existence",
+    "cue": "Arise; emerge; come into being; materialize"
+   },
+   {
+    "gloss": "Perform or present formally",
+    "cue": "Appear on stage; perform; present oneself; appear in court"
+   }
+  ]
+ },
+ {
+  "word": "ball",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Spherical object or shape",
+    "cue": "Round ball; sphere; ball-shaped object"
+   },
+   {
+    "gloss": "Ball used in sports",
+    "cue": "Sports equipment; play ball; game ball"
+   },
+   {
+    "gloss": "Compact mass or cluster",
+    "cue": "Lump; ball of material; rounded cluster"
+   },
+   {
+    "gloss": "Formal dance event",
+    "cue": "Formal dance; gala; ball event; dance party"
+   },
+   {
+    "gloss": "Projectile or ammunition",
+    "cue": "Cannonball; shot; ammunition; missile"
+   }
+  ]
+ },
+ {
+  "word": "feed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Give food to nourish",
+    "cue": "Provide food; feed person; nourish; give meal"
+   },
+   {
+    "gloss": "Consume or eat food",
+    "cue": "Eat; take in food; consume; feed (animals)"
+   },
+   {
+    "gloss": "Supply or input to machine",
+    "cue": "Insert; supply; input to; furnish to device"
+   },
+   {
+    "gloss": "Exploit or take advantage of",
+    "cue": "Feed on; exploit; profit from; sustain on"
+   }
+  ]
+ },
+ {
+  "word": "scours",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Diarrhea in livestock",
+    "cue": "Disease; digestive illness; intestinal infection"
+   },
+   {
+    "gloss": "Eroded channel or area",
+    "cue": "Scoured place; erosion channel; eroded area"
+   }
+  ]
+ },
+ {
+  "word": "acting",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Perform action or deed",
+    "cue": "Do; execute; perform; carry out action"
+   },
+   {
+    "gloss": "Behave or conduct oneself",
+    "cue": "Act as; function; serve role; conduct; behave"
+   },
+   {
+    "gloss": "Perform on stage",
+    "cue": "Perform theatrical role; act in play; perform"
+   },
+   {
+    "gloss": "Pretend or feign",
+    "cue": "Act false; pretend; fake; display false behavior"
+   }
+  ]
+ },
+ {
+  "word": "literature",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Creative and artistic writings",
+    "cue": "Novels; poetry; drama; fiction; artistic writing"
+   },
+   {
+    "gloss": "Academic or scholarly writings",
+    "cue": "Technical papers; research; scholarly works"
+   },
+   {
+    "gloss": "Study or criticism of literature",
+    "cue": "Literary scholarship; literary study; criticism"
+   }
+  ]
+ },
+ {
+  "word": "prepared",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Make ready or suitable",
+    "cue": "Ready; equip; arrange; prepare for use"
+   },
+   {
+    "gloss": "Cook food",
+    "cue": "Cook; prepare meal; prepare food"
+   },
+   {
+    "gloss": "Compose or write",
+    "cue": "Draft; write; author; compose"
+   },
+   {
+    "gloss": "Train or educate",
+    "cue": "Teach; train; develop skills; educate"
+   }
+  ]
+ },
+ {
+  "word": "happening",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Come to pass or occur",
+    "cue": "Take place; transpire; occur; happen"
+   },
+   {
+    "gloss": "Occur by chance",
+    "cue": "Happen by accident; chance to; fortuitously"
+   }
+  ]
+ },
+ {
+  "word": "morally",
+  "pos": "r",
+  "senses": [
+   {
+    "gloss": "Ethically or according to morals",
+    "cue": "Ethics; moral principles; right and wrong"
+   },
+   {
+    "gloss": "Practically or in effect",
+    "cue": "Essentially; in effect; practically; to all intents"
+   }
+  ]
+ },
+ {
+  "word": "break",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Separate into pieces or fracture",
+    "cue": "Shatter; crack; split; break apart; fragment"
+   },
+   {
+    "gloss": "Damage or render non-functional",
+    "cue": "Make inoperable; damage; ruin; stop working"
+   },
+   {
+    "gloss": "Violate or breach",
+    "cue": "Violate law; breach promise; fail to adhere"
+   },
+   {
+    "gloss": "Interrupt or discontinue",
+    "cue": "Stop; pause; interrupt; cease; halt"
+   },
+   {
+    "gloss": "Escape or flee",
+    "cue": "Get away; break free; flee; escape"
+   },
+   {
+    "gloss": "Make submissive or obedient",
+    "cue": "Tame; train; make obedient; master; subdue"
+   }
+  ]
+ },
+ {
+  "word": "honey",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Sweet substance made by bees",
+    "cue": "Bee product; sweet food; golden liquid"
+   },
+   {
+    "gloss": "Term of endearment; beloved",
+    "cue": "Dear; darling; sweetheart; beloved person"
+   },
+   {
+    "gloss": "Desirable or attractive person",
+    "cue": "Attractive; desirable; pleasing; appealing"
+   }
+  ]
+ },
+ {
+  "word": "disrupted",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Break continuity or flow",
+    "cue": "Interrupt; stop flow; break sequence"
+   },
+   {
+    "gloss": "Throw into disorder",
+    "cue": "Disturb; disrupt order; throw into chaos"
+   }
+  ]
+ },
+ {
+  "word": "use",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Act of using or application",
+    "cue": "Utilization; application; employ; put to work"
+   },
+   {
+    "gloss": "Purpose or function",
+    "cue": "What is used for; function; purpose; intended role"
+   },
+   {
+    "gloss": "Benefit or service",
+    "cue": "Value; practical value; usefulness; service"
+   },
+   {
+    "gloss": "Manipulation or exploitation",
+    "cue": "Unfair use; advantage; exploitation; manipulation"
+   }
+  ]
+ },
+ {
+  "word": "teams",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Group working together",
+    "cue": "Cooperative unit; sports team; work group"
+   },
+   {
+    "gloss": "Harnessed draft animals",
+    "cue": "Yoked animals; paired animals; animal team"
+   }
+  ]
+ },
+ {
+  "word": "set",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Put in place or position",
+    "cue": "Place; locate; position; put down"
+   },
+   {
+    "gloss": "Fix or determine",
+    "cue": "Establish; fix; decide; determine; set rule"
+   },
+   {
+    "gloss": "Prepare or make ready",
+    "cue": "Ready; arrange; prepare for use; set up"
+   },
+   {
+    "gloss": "Put into state or condition",
+    "cue": "Cause state; create condition; set into"
+   },
+   {
+    "gloss": "Become fixed or solidify",
+    "cue": "Harden; congeal; solidify; thicken; freeze"
+   }
+  ]
+ },
+ {
+  "word": "jet",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Stream of fluid or gas",
+    "cue": "Flow; stream; spray; projectile stream"
+   },
+   {
+    "gloss": "Airplane with jet engine",
+    "cue": "Jet aircraft; jet plane; aircraft"
+   },
+   {
+    "gloss": "Engine or turbine",
+    "cue": "Jet engine; propulsion; turbine; motor"
+   },
+   {
+    "gloss": "Hard black coal",
+    "cue": "Jet coal; coal; gemstone material"
+   },
+   {
+    "gloss": "Deep grey or black color",
+    "cue": "Dark grey; deep black; coal color"
+   }
+  ]
+ },
+ {
+  "word": "eye",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Organ of vision",
+    "cue": "Visual organ; sees with; perceive light"
+   },
+   {
+    "gloss": "Visual perception or sight",
+    "cue": "Ability to see; visual sense; eyesight"
+   },
+   {
+    "gloss": "Discernment or keen perception",
+    "cue": "Eye for; keen sense; appreciation; perception"
+   },
+   {
+    "gloss": "Attention or notice",
+    "cue": "Catch eye; draw attention; attract notice"
+   },
+   {
+    "gloss": "Opening or hole",
+    "cue": "Hole; loop; opening; eye of needle; storm center"
+   }
+  ]
+ },
+ {
+  "word": "affirmed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Establish or confirm",
+    "cue": "Verify; substantiate; confirm; establish"
+   },
+   {
+    "gloss": "Declare solemnly",
+    "cue": "Assert formally; swear; testify; declare"
+   }
+  ]
+ },
+ {
+  "word": "project",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Planned undertaking or task",
+    "cue": "Work; endeavor; task; planned effort"
+   },
+   {
+    "gloss": "Urban low-income housing",
+    "cue": "Public housing; housing development; housing project"
+   },
+   {
+    "gloss": "Impractical scheme or design",
+    "cue": "Unrealistic plan; impractical design; failed scheme"
+   }
+  ]
+ },
+ {
+  "word": "alteration",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Change or modification",
+    "cue": "Alteration; change; modification; amendment"
+   },
+   {
+    "gloss": "Clothing adjustment",
+    "cue": "Hemming; shortening; fit adjustment; tailoring"
+   },
+   {
+    "gloss": "Changed state or condition",
+    "cue": "Changed state; new condition; alteration result"
+   }
+  ]
+ },
+ {
+  "word": "flexible",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Can bend without breaking",
+    "cue": "Bendable; pliable; supple; physically flexible"
+   },
+   {
+    "gloss": "Adaptable or adjustable",
+    "cue": "Changeable; can adjust; adaptable; accommodating"
+   },
+   {
+    "gloss": "Willing to compromise",
+    "cue": "Yielding; not rigid; willing to bend; adaptable"
+   }
+  ]
+ },
+ {
+  "word": "persons",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Individual human being",
+    "cue": "Person; individual; human; human being"
+   },
+   {
+    "gloss": "Human body or physical form",
+    "cue": "Body; physical form; bodily form"
+   }
+  ]
+ },
+ {
+  "word": "marketing",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Commercial selling and promotion",
+    "cue": "Selling; promoting; distributing products"
+   },
+   {
+    "gloss": "Business processes of sales",
+    "cue": "Commercial activity; business process; commerce"
+   },
+   {
+    "gloss": "Shopping or purchasing",
+    "cue": "Shopping; buying; purchasing; retail activity"
+   }
+  ]
+ },
+ {
+  "word": "wagons",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Wheeled vehicle drawn by animal",
+    "cue": "Cart; wagon; vehicle; horse-drawn; transport"
+   },
+   {
+    "gloss": "Police transport van",
+    "cue": "Police wagon; transport van; prisoner transport"
+   },
+   {
+    "gloss": "Child's toy cart",
+    "cue": "Toy cart; play wagon; child's vehicle"
+   },
+   {
+    "gloss": "Station wagon car",
+    "cue": "Car; automobile; station wagon; long vehicle"
+   }
+  ]
+ },
+ {
+  "word": "public",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Open to general view",
+    "cue": "Not private; open; visible; known to all"
+   },
+   {
+    "gloss": "Concerning all people",
+    "cue": "Community; general; collective; communal"
+   },
+   {
+    "gloss": "Provided by government",
+    "cue": "State; official; government; public service"
+   },
+   {
+    "gloss": "Well-known or famous",
+    "cue": "Famous; prominent; well-known; public figure"
+   }
+  ]
+ },
+ {
+  "word": "relationship",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Connection or association",
+    "cue": "Link; tie; connection; relatedness"
+   },
+   {
+    "gloss": "Emotional or personal bond",
+    "cue": "Bond; attachment; emotional connection"
+   },
+   {
+    "gloss": "Romantic or sexual involvement",
+    "cue": "Dating; romantic; intimate; partnership"
+   },
+   {
+    "gloss": "Kinship or blood relation",
+    "cue": "Family; kinship; blood relation; family tie"
+   },
+   {
+    "gloss": "Interaction or dealing",
+    "cue": "Interaction; working relationship; dealings"
+   }
+  ]
+ },
+ {
+  "word": "youth",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Young person",
+    "cue": "Young man; young woman; adolescent; teenager"
+   },
+   {
+    "gloss": "Young people collectively",
+    "cue": "Young people; youth group; young generation"
+   },
+   {
+    "gloss": "Period of life; young age",
+    "cue": "Adolescence; early life; young age; immaturity"
+   },
+   {
+    "gloss": "Early development period",
+    "cue": "Early stage; early phase; beginning; inception"
+   }
+  ]
+ },
+ {
+  "word": "transferred",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Move to different location",
+    "cue": "Move; relocate; shift position; change place"
+   },
+   {
+    "gloss": "Change ownership or possession",
+    "cue": "Give ownership; pass to another; convey"
+   },
+   {
+    "gloss": "Transmit or convey",
+    "cue": "Send; pass; communicate; deliver message"
+   },
+   {
+    "gloss": "Move to new context",
+    "cue": "Transplant; adapt to new setting; relocate culturally"
+   }
+  ]
+ },
+ {
+  "word": "put",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Place in location",
+    "cue": "Place; locate; position; set down"
+   },
+   {
+    "gloss": "Put into state or condition",
+    "cue": "Cause; create condition; put in state"
+   },
+   {
+    "gloss": "Express or formulate",
+    "cue": "State; word; express; say; formulate"
+   },
+   {
+    "gloss": "Attribute or assign",
+    "cue": "Ascribe; give; assign; attribute"
+   },
+   {
+    "gloss": "Invest or commit",
+    "cue": "Invest money; commit; place funds"
+   }
+  ]
+ },
+ {
+  "word": "far",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Distant in space",
+    "cue": "Remote; distant; far away; great distance"
+   },
+   {
+    "gloss": "Distant in time",
+    "cue": "Far past; far future; long ago; remote time"
+   },
+   {
+    "gloss": "Extreme or untypical",
+    "cue": "Far from norm; extreme; not typical; far from"
+   }
+  ]
+ },
+ {
+  "word": "act",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Deed or action",
+    "cue": "Action; deed; doing; something done"
+   },
+   {
+    "gloss": "Legal statute or legislation",
+    "cue": "Law; legislation; statute; legal document"
+   },
+   {
+    "gloss": "Division of play or opera",
+    "cue": "Act of play; opera act; theatrical division"
+   },
+   {
+    "gloss": "Theatrical performance",
+    "cue": "Performer act; performance piece; stage act"
+   },
+   {
+    "gloss": "Display or pretense",
+    "cue": "Put on act; false behavior; pretense; display"
+   }
+  ]
+ },
+ {
+  "word": "insoluble",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Cannot dissolve in liquid",
+    "cue": "Undissolvable; insoluble in water; won't dissolve"
+   },
+   {
+    "gloss": "Cannot be solved",
+    "cue": "No solution; unsolvable; cannot be resolved"
+   }
+  ]
+ },
+ {
+  "word": "center on",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Focus or concentrate on",
+    "cue": "Center on; focus on; concentrate; center attention"
+   }
+  ]
+ },
+ {
+  "word": "appealing",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Attractive or engaging",
+    "cue": "Interesting; attractive; appealing; engaging"
+   },
+   {
+    "gloss": "Sympathetic or evocative",
+    "cue": "Sympathetic; evoking empathy; touching; moving"
+   }
+  ]
+ },
+ {
+  "word": "inappropriate",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Not suitable for situation",
+    "cue": "Improper; unfit; unsuitable; wrong for occasion"
+   },
+   {
+    "gloss": "Adult or indecent content",
+    "cue": "Sexual; indecent; adult; improper content"
+   }
+  ]
+ },
+ {
+  "word": "Today",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Current or present day",
+    "cue": "This day; current day; today specifically"
+   },
+   {
+    "gloss": "Present era or time",
+    "cue": "Modern times; contemporary; present time"
+   }
+  ]
+ },
+ {
+  "word": "tell",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Express or communicate",
+    "cue": "Say; speak; inform; tell someone; say to"
+   },
+   {
+    "gloss": "Narrate or recount",
+    "cue": "Tell story; recount; describe; give account"
+   },
+   {
+    "gloss": "Direct or order",
+    "cue": "Command; instruct; order; direct; tell to"
+   },
+   {
+    "gloss": "Discern or distinguish",
+    "cue": "Notice; perceive difference; tell apart; see"
+   },
+   {
+    "gloss": "Have effect or make difference",
+    "cue": "Matter; have effect; show; be apparent"
+   }
+  ]
+ },
+ {
+  "word": "Using",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Put into service or employ",
+    "cue": "Employ; use; utilize; put to use"
+   },
+   {
+    "gloss": "Consume or use up",
+    "cue": "Use up; consume; deplete; expend"
+   },
+   {
+    "gloss": "Exploit or manipulate",
+    "cue": "Use to advantage; exploit; manipulate; take advantage"
+   }
+  ]
+ },
+ {
+  "word": "passing",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Throwing in football",
+    "cue": "Football pass; throwing play; forward pass"
+   },
+   {
+    "gloss": "Moving past or going by",
+    "cue": "Overtaking; transition; moving past; passage"
+   },
+   {
+    "gloss": "Death or dying",
+    "cue": "Death; dying; end of life; death (euphemism)"
+   },
+   {
+    "gloss": "Success or approval",
+    "cue": "Pass test; success; approval; passing grade"
+   }
+  ]
+ },
+ {
+  "word": "estimated",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Calculate or judge amount",
+    "cue": "Estimate; calculate; reckon; judge amount"
+   },
+   {
+    "gloss": "Judge likely or probable",
+    "cue": "Think likely; suppose; judge probable; estimate"
+   }
+  ]
+ },
+ {
+  "word": "experience",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Accumulated knowledge or skill",
+    "cue": "Learning; expertise; knowledge; experience gained"
+   },
+   {
+    "gloss": "Event or occurrence",
+    "cue": "Incident; happening; event; occurrence; experience"
+   },
+   {
+    "gloss": "Activity or engagement",
+    "cue": "Activity; activity performed; engagement; participation"
+   }
+  ]
+ },
+ {
+  "word": "offer",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Make available or provide",
+    "cue": "Provide; furnish; make available; supply"
+   },
+   {
+    "gloss": "Present for acceptance",
+    "cue": "Propose; tender; present; offer to"
+   },
+   {
+    "gloss": "Volunteer or agree freely",
+    "cue": "Volunteer; proffer; offer to help; agree freely"
+   },
+   {
+    "gloss": "Offer for sale",
+    "cue": "Sell; put on sale; offer for purchase"
+   },
+   {
+    "gloss": "Present in performance",
+    "cue": "Perform; present; stage; dedicate; perform work"
+   }
+  ]
+ },
+ {
+  "word": "witnessed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Be witness to; observe",
+    "cue": "See; observe; witness; testify to; be present"
+   },
+   {
+    "gloss": "Be contemporaneous with",
+    "cue": "Occur during; happen during; be contemporaneous"
+   }
+  ]
+ },
+ {
+  "word": "applications",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Formal request for job or admission",
+    "cue": "Application form; request; formal petition"
+   },
+   {
+    "gloss": "Act of applying or using",
+    "cue": "Application; practical use; application of"
+   },
+   {
+    "gloss": "Computer program or software",
+    "cue": "Software; app; computer program; application software"
+   },
+   {
+    "gloss": "Topical preparation or medicine",
+    "cue": "Medicine; lotion; topical; preparation; treatment"
+   }
+  ]
+ },
+ {
+  "word": "seeking",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Try to find or locate",
+    "cue": "Search; look for; seek out; search for"
+   },
+   {
+    "gloss": "Try to obtain or achieve",
+    "cue": "Pursue; seek; aim for; strive for"
+   },
+   {
+    "gloss": "Inquire or ask for",
+    "cue": "Request; ask for; inquire for; request"
+   }
+  ]
+ },
+ {
+  "word": "females",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Female animal",
+    "cue": "Animal; female creature; produces ova; animal female"
+   },
+   {
+    "gloss": "Female person",
+    "cue": "Woman; girl; female person; female human"
+   }
+  ]
+ }
+]

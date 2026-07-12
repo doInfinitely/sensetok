@@ -1,0 +1,253 @@
+[
+  {"word": "one", "senses": [
+    {"gloss": "the number 1; a single unit", "cue": "one year, one option, a single thing"},
+    {"gloss": "pronoun standing in for a specific item", "cue": "this one, the one I ordered"},
+    {"gloss": "impersonal pronoun for people in general", "cue": "one must, one should, generic you"}
+  ]},
+  {"word": "second", "senses": [
+    {"gloss": "next after first; second in order", "cue": "second place, second game, came in second"},
+    {"gloss": "unit of time, 1/60 of a minute", "cue": "seconds remaining, wait a second"},
+    {"gloss": "verb: to support or endorse a motion", "cue": "I'll second that motion"}
+  ]},
+  {"word": "following", "senses": [
+    {"gloss": "preposition: after, subsequent to an event", "cue": "following the war, following his defeat"},
+    {"gloss": "adjective: next to be listed or stated", "cue": "the following work, the following day"},
+    {"gloss": "verb: to obey, comply with, or pursue", "cue": "following his orders, following a trail"}
+  ]},
+  {"word": "took", "senses": [
+    {"gloss": "required or used up time, space, or effort", "cue": "took a year, took up space"},
+    {"gloss": "did or engaged in an activity", "cue": "took a look, took courses, took trips"},
+    {"gloss": "physically obtained or grabbed something", "cue": "take a cookie, take this bag"}
+  ]},
+  {"word": "band", "senses": [
+    {"gloss": "group of musicians performing together", "cue": "rock band, thrash metal band, the band's album"},
+    {"gloss": "thin strip or ring of material", "cue": "rubber band, wedding band, colored stripe"},
+    {"gloss": "group of people acting together", "cue": "a band of rebels or followers"}
+  ]},
+  {"word": "men", "senses": [
+    {"gloss": "soldiers or military personnel", "cue": "enlisted men, troops under command"},
+    {"gloss": "adult male humans generally", "cue": "two men, ordinary men and women"}
+  ]},
+  {"word": "continued", "senses": [
+    {"gloss": "kept doing something without stopping", "cue": "continued to work, continued to draw pay"},
+    {"gloss": "adjective: ongoing, sustained, or persistent", "cue": "continued quality, continued success"}
+  ]},
+  {"word": "division", "senses": [
+    {"gloss": "organizational subunit of a company or league", "cue": "sports division, company division, conference"},
+    {"gloss": "large military unit, army or navy", "cue": "infantry division, battleship division"},
+    {"gloss": "arithmetic operation of dividing numbers", "cue": "division problem, quotient of two numbers"}
+  ]},
+  {"word": "total", "senses": [
+    {"gloss": "noun: the sum or whole amount", "cue": "point total, total of a million"},
+    {"gloss": "adjective: complete, entire, absolute", "cue": "total eclipse, total loss"},
+    {"gloss": "verb: to add up to; amount to", "cue": "bills totaled, costs totaled a million"}
+  ]},
+  {"word": "less", "senses": [
+    {"gloss": "smaller in amount, degree, or extent", "cue": "less privileged, less successful, less than"},
+    {"gloss": "idiom 'no less than': as much as", "cue": "no less than a sixth"}
+  ]},
+  {"word": "established", "senses": [
+    {"gloss": "verb: set up, founded, or created", "cue": "established an armory, established a program"},
+    {"gloss": "adjective: long-standing, existing, or veteran", "cue": "established players, established social order"}
+  ]},
+  {"word": "killed", "senses": [
+    {"gloss": "caused someone's death; slain", "cue": "killed in action, the men were killed"},
+    {"gloss": "ended, stopped, or defeated something", "cue": "kill a motion, kill the engine"},
+    {"gloss": "informal: overwhelmed with pain or humor", "cue": "these shoes are killing me"}
+  ]},
+  {"word": "rather", "senses": [
+    {"gloss": "'rather than': instead of, in preference to", "cue": "rather than serve, rather than digging"},
+    {"gloss": "degree adverb: somewhat, fairly", "cue": "rather cold, rather nice"},
+    {"gloss": "expressing preference: would rather do something", "cue": "I'd rather be in Philadelphia"}
+  ]},
+  {"word": "bridge", "senses": [
+    {"gloss": "structure spanning a river, road, or gap", "cue": "iron bridge, railway bridge, spanning a river"},
+    {"gloss": "transitional middle section of a song", "cue": "the bridge shifts the lyrics' tone"},
+    {"gloss": "card game played by four players", "cue": "playing a game of bridge"}
+  ]},
+  {"word": "put", "senses": [
+    {"gloss": "placed or inserted something somewhere", "cue": "put in at Chester, put Hunwick in"},
+    {"gloss": "expressed or stated in a certain way", "cue": "as he put it, put it differently"},
+    {"gloss": "placed trust, faith, or emphasis in", "cue": "put faith in, put emphasis on"}
+  ]},
+  {"word": "space", "senses": [
+    {"gloss": "the universe beyond Earth's atmosphere", "cue": "outer space, astronauts, spaceship"},
+    {"gloss": "room or area available for something", "cue": "memory space, floor space, room needed"},
+    {"gloss": "blank gap between words or characters", "cue": "a space left in the text"}
+  ]},
+  {"word": "type", "senses": [
+    {"gloss": "a kind, category, or classification", "cue": "type of sculpture, type of boiler"},
+    {"gloss": "verb: to write using a keyboard", "cue": "type the letter, typing on a keyboard"},
+    {"gloss": "printed characters or font style", "cue": "small type is hard to read"}
+  ]},
+  {"word": "program", "senses": [
+    {"gloss": "organized initiative, plan, or set of services", "cue": "cancer program, research program, planet-searching program"},
+    {"gloss": "a TV or radio broadcast or show", "cue": "comedy program, Food Network program"},
+    {"gloss": "a set of computer instructions; software", "cue": "wrote a computer program"}
+  ]},
+  {"word": "loss", "senses": [
+    {"gloss": "a defeat in a game or contest", "cue": "loss to the Kings, a four-game loss"},
+    {"gloss": "the act of losing someone or something valued", "cue": "loss of all hands, loss of grandfather"},
+    {"gloss": "money lost; a financial deficit", "cue": "operated at a loss"}
+  ]},
+  {"word": "x", "senses": [
+    {"gloss": "Roman numeral ten, in royal or regnal names", "cue": "Pope Pius X, Charles X"},
+    {"gloss": "placeholder for an unknown or omitted number", "cue": "x ft painting, algebra variable x"},
+    {"gloss": "the letter X used in a title", "cue": "Project X, a brand or product name"}
+  ]},
+  {"word": "charles", "senses": [
+    {"gloss": "a male given name, incl. kings", "cue": "King Charles, Charles Eaton, Charles Hudson"},
+    {"gloss": "the Charles River in Massachusetts", "cue": "the river separating Cambridge from Boston"}
+  ]},
+  {"word": "cost", "senses": [
+    {"gloss": "the amount of money or effort required", "cue": "cost per hour, cost a million to build"},
+    {"gloss": "idiom 'at all costs': no matter what", "cue": "loyal to him at all cost"}
+  ]},
+  {"word": "running", "senses": [
+    {"gloss": "extending or stretching continuously", "cue": "a line running across, boundary running down"},
+    {"gloss": "moving fast on foot", "cue": "posed as if running, a running mate"},
+    {"gloss": "ongoing, operating, or continuing over time", "cue": "long-running project, engine running smoothly"}
+  ]},
+  {"word": "tracks", "senses": [
+    {"gloss": "songs or pieces on a recording", "cue": "album tracks, three tracks on the record"},
+    {"gloss": "verb: monitors or follows over time", "cue": "a statistic that tracks ice time"},
+    {"gloss": "physical rails or path left behind", "cue": "railway tracks, tire tracks"}
+  ]},
+  {"word": "minor", "senses": [
+    {"gloss": "of lesser size, rank, or importance", "cue": "minor role, minor injuries, minor streets"},
+    {"gloss": "lower-tier professional sports league", "cue": "minor league defenseman"},
+    {"gloss": "noun: a person under legal age", "cue": "protecting minors, not of legal age"}
+  ]},
+  {"word": "bank", "senses": [
+    {"gloss": "financial institution for deposits and loans", "cue": "bank notes, deposited into a bank"},
+    {"gloss": "sloping land or ridge beside water", "cue": "riverbank, Dogger Bank, a sandbank"},
+    {"gloss": "verb: to rely on, or tilt sideways", "cue": "bank on it, the plane banked left"}
+  ]},
+  {"word": "associated", "senses": [
+    {"gloss": "linked, connected, or related to something", "cue": "associated with traditional GA, associated with damage"},
+    {"gloss": "kept company with; socialized with people", "cue": "associates with strange people"}
+  ]},
+  {"word": "elected", "senses": [
+    {"gloss": "chosen for office or membership by vote", "cue": "elected president, elected director"},
+    {"gloss": "chose or decided to do something", "cue": "elected to move the church"}
+  ]},
+  {"word": "edward", "senses": [
+    {"gloss": "a male given name, incl. kings", "cue": "King Edward, Edward Burne-Jones"},
+    {"gloss": "part of a place name", "cue": "Point Edward, the village"}
+  ]},
+  {"word": "actor", "senses": [
+    {"gloss": "a performer in film, TV, or theater", "cue": "plays the role, Best Supporting Actor"},
+    {"gloss": "a person who takes an active role", "cue": "a principal actor in this affair"}
+  ]},
+  {"word": "combined", "senses": [
+    {"gloss": "merged or added together into a whole", "cue": "combined printing, combined point total"},
+    {"gloss": "'combined with': together with, in conjunction with", "cue": "combined with the presence of a traitor"}
+  ]},
+  {"word": "ancient", "senses": [
+    {"gloss": "belonging to times long past; very old", "cue": "ancient Egypt, ancient observatory"},
+    {"gloss": "noun: a person who lived long ago", "cue": "the ancients, a very old person"}
+  ]},
+  {"word": "pair", "senses": [
+    {"gloss": "a set of two matching things or people", "cue": "a pair of rifles, a pair of destroyers"},
+    {"gloss": "verb: to form into twos; to mate", "cue": "paired off, pair these numbers"}
+  ]},
+  {"word": "actions", "senses": [
+    {"gloss": "things done; deeds or conduct", "cue": "aping the actions of movie stars"},
+    {"gloss": "a lawsuit or legal proceeding", "cue": "filed a legal action against"}
+  ]},
+  {"word": "comedy", "senses": [
+    {"gloss": "a humorous film, show, or performance genre", "cue": "comedy film, sketch comedy series"}
+  ]},
+  {"word": "author", "senses": [
+    {"gloss": "writer of a book or article", "cue": "author of the book, wrote a report"},
+    {"gloss": "originator or creator of a plan or work", "cue": "authored the play, originator of the idea"}
+  ]},
+  {"word": "influenced", "senses": [
+    {"gloss": "shaped, affected, or had an effect on", "cue": "influenced her work, influenced by oracles"}
+  ]},
+  {"word": "officially", "senses": [
+    {"gloss": "formally, with official authorization or status", "cue": "officially designated, officially recognized"}
+  ]},
+  {"word": "leg", "senses": [
+    {"gloss": "a stage or segment of a journey or contest", "cue": "second leg of the playoff tie"},
+    {"gloss": "a physical limb of a person or animal", "cue": "broken leg, Shiva's missing leg"}
+  ]},
+  {"word": "drama", "senses": [
+    {"gloss": "a serious play, film, or TV genre", "cue": "action drama, drama club, drama film"},
+    {"gloss": "a turbulent, highly emotional real event", "cue": "family drama, an emotional situation"}
+  ]},
+  {"word": "advanced", "senses": [
+    {"gloss": "at a higher level of skill or complexity", "cue": "advanced class, advanced technology, advanced degree"},
+    {"gloss": "moved forward in space or time", "cue": "the fleet advanced toward Brindisi"}
+  ]},
+  {"word": "article", "senses": [
+    {"gloss": "a written piece in a publication", "cue": "news article, Forbes article, magazine piece"},
+    {"gloss": "a numbered section of a legal document", "cue": "Article of the European Convention"},
+    {"gloss": "grammar: a/an/the, a type of determiner", "cue": "the definite or indefinite article"}
+  ]},
+  {"word": "consisted", "senses": [
+    {"gloss": "was made up of; composed of", "cue": "consisted of four officers, arms consisted of"}
+  ]},
+  {"word": "controlled", "senses": [
+    {"gloss": "exercised power or authority over", "cue": "Union controlled every channel"},
+    {"gloss": "adjective: regulated or monitored, as airspace", "cue": "controlled airspace, a controlled substance"}
+  ]},
+  {"word": "billion", "senses": [
+    {"gloss": "the number 1,000,000,000; a huge quantity", "cue": "billion dollars, contributes a billion to the economy"}
+  ]},
+  {"word": "regarding", "senses": [
+    {"gloss": "preposition: concerning, about, with respect to", "cue": "regarding the noise, regarding the process"}
+  ]},
+  {"word": "intensity", "senses": [
+    {"gloss": "strength or magnitude of a force or feeling", "cue": "storm intensity, lack of focus and intensity"},
+    {"gloss": "vividness or purity of a color", "cue": "color loses intensity, fades to pinkish white"}
+  ]},
+  {"word": "simple", "senses": [
+    {"gloss": "not complex; basic, plain, or elementary", "cue": "simple arithmetic, simple narrative, simple sugars"}
+  ]},
+  {"word": "plug", "senses": [
+    {"gloss": "electrical device or spark plug for a socket", "cue": "electrical plug, spark plug"},
+    {"gloss": "a stopper or insert that fills a hole", "cue": "concrete plug, gold plug in a coin"},
+    {"gloss": "a software add-on module", "cue": "digital audio plug-ins"}
+  ]},
+  {"word": "viewed", "senses": [
+    {"gloss": "regarded or considered as something", "cue": "viewed as a hero, viewed as an allegory"},
+    {"gloss": "watched or saw a film or event", "cue": "people who had viewed the film"}
+  ]},
+  {"word": "historic", "senses": [
+    {"gloss": "significant or notable in history; from the past", "cue": "Historic Places, historic building, historic aircraft"}
+  ]},
+  {"word": "losses", "senses": [
+    {"gloss": "money, property, or things lost", "cue": "gambling losses, losses due to the revolution"},
+    {"gloss": "defeats in games or contests", "cue": "a franchise record for losses"},
+    {"gloss": "deaths or casualties", "cue": "losses in manpower, war casualties"}
+  ]},
+  {"word": "consists", "senses": [
+    {"gloss": "is made up of; composed of", "cue": "consists of two groups, diet consists of"}
+  ]},
+  {"word": "sign", "senses": [
+    {"gloss": "verb: to formally agree to a contract", "cue": "sign a player, sign with a team"},
+    {"gloss": "a physical board displaying a message", "cue": "a neon sign, a road sign"},
+    {"gloss": "an indication something exists or will happen", "cue": "a sign of trouble ahead"},
+    {"gloss": "gesture-based sign language", "cue": "communicate in sign language"}
+  ]},
+  {"word": "poetry", "senses": [
+    {"gloss": "literature written in verse form", "cue": "wrote poetry, a book of poems"}
+  ]},
+  {"word": "knew", "senses": [
+    {"gloss": "was aware of or had knowledge of a fact", "cue": "knew the reason, knew he'd be fired"},
+    {"gloss": "was acquainted or familiar with a person", "cue": "musician friends he knew"}
+  ]},
+  {"word": "threatened", "senses": [
+    {"gloss": "IUCN status: at risk of becoming endangered", "cue": "listed as Near Threatened"},
+    {"gloss": "verb: posed danger to; put at risk", "cue": "threatened with closure, threatened a deity"}
+  ]},
+  {"word": "establish", "senses": [
+    {"gloss": "to set up, found, or institute", "cue": "establish a program, establish free elections"},
+    {"gloss": "to determine or prove with certainty", "cue": "difficult to establish with certainty"}
+  ]},
+  {"word": "buried", "senses": [
+    {"gloss": "placed in a grave or tomb", "cue": "buried the crew, buried in collective graves"},
+    {"gloss": "covered or hidden under soil or debris", "cue": "stones removed or buried"}
+  ]}
+]

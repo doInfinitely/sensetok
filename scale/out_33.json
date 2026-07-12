@@ -1,0 +1,240 @@
+[
+  {"word": "up", "senses": [
+    {"gloss": "in or toward a higher position", "cue": "the music surged up; up the stairs"},
+    {"gloss": "particle completing or intensifying a verb", "cue": "build up, come up with, take up"},
+    {"gloss": "amounting to; adequate or ready for", "cue": "up to nine characters; up to the task"}
+  ]},
+  {"word": "became", "senses": [
+    {"gloss": "came to be or turn into", "cue": "became the commander; became a library"}
+  ]},
+  {"word": "million", "senses": [
+    {"gloss": "the number 1,000,000", "cue": "a six year million deal"},
+    {"gloss": "a very large indefinite number (hyperbole)", "cue": "millions of flies"}
+  ]},
+  {"word": "line", "senses": [
+    {"gloss": "a mark, boundary, or dividing edge", "cue": "state line; meridian line"},
+    {"gloss": "a row of people or things in order", "cue": "line up; the line stretched around the corner"},
+    {"gloss": "a row of written or printed text", "cue": "a line on the page"},
+    {"gloss": "a course, category, channel, or descent", "cue": "line of business; line of reasoning; phone line"}
+  ]},
+  {"word": "storm", "senses": [
+    {"gloss": "a violent weather event", "cue": "hurricane; the storm moved out to sea"},
+    {"gloss": "a sudden forceful attack or assault", "cue": "storm the fort"},
+    {"gloss": "a violent outburst or commotion", "cue": "a storm of protest"}
+  ]},
+  {"word": "island", "senses": [
+    {"gloss": "land surrounded by water", "cue": "Tybee Island; League Island"},
+    {"gloss": "an isolated area resembling an island", "cue": "a traffic island"}
+  ]},
+  {"word": "period", "senses": [
+    {"gloss": "a span or duration of time", "cue": "a 30-year period; the postwar period"},
+    {"gloss": "one segment of play in a sports game", "cue": "the third period of a hockey game"},
+    {"gloss": "the punctuation mark .", "cue": "a period ends the sentence"},
+    {"gloss": "a woman's monthly menstrual cycle", "cue": "she was on her period"}
+  ]},
+  {"word": "throughout", "senses": [
+    {"gloss": "during the entire span of something", "cue": "throughout the war; throughout her life"},
+    {"gloss": "in every part of; all through", "cue": "spread throughout the state"}
+  ]},
+  {"word": "position", "senses": [
+    {"gloss": "a job or post held", "cue": "a teaching position"},
+    {"gloss": "rank or standing in a sequence or contest", "cue": "playoff position; draft position"},
+    {"gloss": "physical place, location, or posture", "cue": "troop position; body position"},
+    {"gloss": "a viewpoint or opinion held", "cue": "consider his position on the issue"}
+  ]},
+  {"word": "head", "senses": [
+    {"gloss": "leader or person in charge", "cue": "head coach; head of the operation"},
+    {"gloss": "the body part above the neck", "cue": "he shook his head"},
+    {"gloss": "the top, front, or source of something", "cue": "head of the stairs; head of the stream"}
+  ]},
+  {"word": "return", "senses": [
+    {"gloss": "go back to a place or state", "cue": "return to the series; return home"},
+    {"gloss": "give something back or reciprocate", "cue": "return a favor; in return for"},
+    {"gloss": "profit or income from investment", "cue": "average return on the sale"},
+    {"gloss": "an official report or repeat event", "cue": "tax return; the return match"}
+  ]},
+  {"word": "taken", "senses": [
+    {"gloss": "physically remove or carry away", "cue": "machinery was taken away"},
+    {"gloss": "take control of or occupy", "cue": "aerodromes taken over for military use"},
+    {"gloss": "carry out or perform", "cue": "action would be taken"},
+    {"gloss": "require time, effort, or space", "cue": "it took three hours"}
+  ]},
+  {"word": "action", "senses": [
+    {"gloss": "something done; an act or activity", "cue": "action would be taken"},
+    {"gloss": "combat or military engagement", "cue": "killed in action"},
+    {"gloss": "a legal proceeding or lawsuit", "cue": "file an action against"}
+  ]},
+  {"word": "elements", "senses": [
+    {"gloss": "component parts of something", "cue": "game elements; elements of design"},
+    {"gloss": "chemical elements from the periodic table", "cue": "92 naturally occurring elements"},
+    {"gloss": "weather and natural forces", "cue": "exposed to the elements"}
+  ]},
+  {"word": "significant", "senses": [
+    {"gloss": "important or notable in effect", "cue": "a significant change"},
+    {"gloss": "statistically unlikely to be by chance", "cue": "a statistically significant result"}
+  ]},
+  {"word": "association", "senses": [
+    {"gloss": "a formal organization or group", "cue": "the football association"},
+    {"gloss": "a connection or link between things", "cue": "association with the expedition"}
+  ]},
+  {"word": "forced", "senses": [
+    {"gloss": "compelled to do something", "cue": "forced to retreat; forced to withdraw"},
+    {"gloss": "strained or unnatural", "cue": "a forced smile"}
+  ]},
+  {"word": "staff", "senses": [
+    {"gloss": "the employees or personnel of an organization", "cue": "game staff; school staff"},
+    {"gloss": "a rod or stick carried or used", "cue": "walked with a wooden staff"},
+    {"gloss": "the five lines of musical notation", "cue": "notes written on the staff"}
+  ]},
+  {"word": "arrived", "senses": [
+    {"gloss": "reached a destination", "cue": "the ship arrived in port"},
+    {"gloss": "achieved success or recognition", "cue": "he had finally arrived"}
+  ]},
+  {"word": "shows", "senses": [
+    {"gloss": "a performance, program, or exhibition", "cue": "hosted television shows"},
+    {"gloss": "reveals, demonstrates, or indicates", "cue": "the book shows us his life"}
+  ]},
+  {"word": "election", "senses": [
+    {"gloss": "a vote to choose an officeholder", "cue": "the results of the election"},
+    {"gloss": "the act of choosing or selecting", "cue": "her election of medicine as a career"}
+  ]},
+  {"word": "done", "senses": [
+    {"gloss": "completed or finished", "cue": "the work done; nothing more was done"},
+    {"gloss": "cooked enough to be ready to eat", "cue": "the steak is well done"}
+  ]},
+  {"word": "create", "senses": [
+    {"gloss": "bring something into existence; make", "cue": "create unique characters"}
+  ]},
+  {"word": "related", "senses": [
+    {"gloss": "connected or associated with something", "cue": "issues related to the game"},
+    {"gloss": "connected by family or kinship", "cue": "related by marriage"}
+  ]},
+  {"word": "queen", "senses": [
+    {"gloss": "a female monarch or ruler", "cue": "Queen Mary; Queen Christina"},
+    {"gloss": "a queen in games, chess, or insect colonies", "cue": "the chess queen; a queen bee"}
+  ]},
+  {"word": "deal", "senses": [
+    {"gloss": "a business transaction or agreement", "cue": "the trade deal; sent in the deal"},
+    {"gloss": "handle or cope with something", "cue": "deal with this problem"},
+    {"gloss": "a large amount or quantity", "cue": "a great deal of trouble"}
+  ]},
+  {"word": "referred", "senses": [
+    {"gloss": "called or mentioned by a name", "cue": "referred to as Valkyria Chronicles III"},
+    {"gloss": "directed or sent to another source", "cue": "referred to his committee"}
+  ]},
+  {"word": "winter", "senses": [
+    {"gloss": "the coldest season of the year", "cue": "winter quarters; a winter collection"}
+  ]},
+  {"word": "issues", "senses": [
+    {"gloss": "matters or problems being discussed", "cue": "environmental issues; pacing issues"},
+    {"gloss": "published editions of a periodical", "cue": "an issue of the magazine"},
+    {"gloss": "officially provides or releases", "cue": "the CAA issues licences"}
+  ]},
+  {"word": "refused", "senses": [
+    {"gloss": "declined or said no to something", "cue": "refused to surrender"}
+  ]},
+  {"word": "companies", "senses": [
+    {"gloss": "businesses or firms", "cue": "electric companies; telecom companies"},
+    {"gloss": "military units of soldiers", "cue": "four companies of infantry"}
+  ]},
+  {"word": "attended", "senses": [
+    {"gloss": "was present at an event or place", "cue": "attended the school; attended the ceremony"},
+    {"gloss": "took care of or dealt with", "cue": "attend to this matter"}
+  ]},
+  {"word": "attempts", "senses": [
+    {"gloss": "efforts made to do something", "cue": "failed attempts to attack"}
+  ]},
+  {"word": "contemporary", "senses": [
+    {"gloss": "belonging to the present time; modern", "cue": "contemporary Sri Lankan cuisine"},
+    {"gloss": "existing or living at the same time as", "cue": "his contemporary James Henry Breasted"}
+  ]},
+  {"word": "senior", "senses": [
+    {"gloss": "higher in rank, tenure, or age", "cue": "senior officer; senior editor"},
+    {"gloss": "a student in the final year of school", "cue": "as a senior he was selected"}
+  ]},
+  {"word": "meet", "senses": [
+    {"gloss": "come together with someone", "cue": "invited to meet; meet me at the station"},
+    {"gloss": "satisfy a requirement or standard", "cue": "meet certain standards"}
+  ]},
+  {"word": "charge", "senses": [
+    {"gloss": "responsibility, custody, or oversight", "cue": "placed in charge of the arsenal"},
+    {"gloss": "a formal accusation of wrongdoing", "cue": "charged with larceny"},
+    {"gloss": "the price asked for something", "cue": "the admission charge"}
+  ]},
+  {"word": "train", "senses": [
+    {"gloss": "a railway vehicle on tracks", "cue": "train station; destroy a train"},
+    {"gloss": "to teach or prepare through practice", "cue": "will train on the submarine"}
+  ]},
+  {"word": "conflict", "senses": [
+    {"gloss": "a hostile clash or disagreement", "cue": "armed conflict; conflict with the British"},
+    {"gloss": "an incompatibility between things or interests", "cue": "a conflict of interest"}
+  ]},
+  {"word": "jones", "senses": [
+    {"gloss": "a surname belonging to a specific person", "cue": "George Jones; Edward Burne-Jones"}
+  ]},
+  {"word": "powers", "senses": [
+    {"gloss": "abilities or capacities to do something", "cue": "divine powers; procreative powers"},
+    {"gloss": "official or legal authority", "cue": "regulatory powers transferred to EASA"},
+    {"gloss": "nations with major international influence", "cue": "the occupying powers"}
+  ]},
+  {"word": "roles", "senses": [
+    {"gloss": "parts played by actors in a work", "cue": "played dual roles"},
+    {"gloss": "functions or duties within a group", "cue": "roles of each deity; role on the team"}
+  ]},
+  {"word": "bodies", "senses": [
+    {"gloss": "the physical form of a living being", "cue": "gods' bodies; moved their bodies"},
+    {"gloss": "organized institutions or groups", "cue": "regulatory bodies"}
+  ]},
+  {"word": "kill", "senses": [
+    {"gloss": "cause someone or something to die", "cue": "kill Trujillo; kill her brother"},
+    {"gloss": "stop, end, or eliminate something", "cue": "kill the engine; kill a proposal"}
+  ]},
+  {"word": "filming", "senses": [
+    {"gloss": "the act of making a movie", "cue": "began filming on location"}
+  ]},
+  {"word": "advantage", "senses": [
+    {"gloss": "a favorable position or benefit", "cue": "worked to their advantage"},
+    {"gloss": "a tennis score just after deuce", "cue": "advantage, first point after deuce"}
+  ]},
+  {"word": "literary", "senses": [
+    {"gloss": "relating to literature or writing", "cue": "literary criticism; literary scholar"}
+  ]},
+  {"word": "baby", "senses": [
+    {"gloss": "a very young child or infant", "cue": "the baby began to cry"},
+    {"gloss": "an affectionate or informal term of address", "cue": "used as a term for someone dear"}
+  ]},
+  {"word": "technical", "senses": [
+    {"gloss": "relating to specialized skill or applied science", "cue": "technical training; technical difficulties"},
+    {"gloss": "strictly formal, not in a substantive sense", "cue": "not in any technical sense"}
+  ]},
+  {"word": "existing", "senses": [
+    {"gloss": "currently in existence; present", "cue": "the existing system; existing aerodromes"}
+  ]},
+  {"word": "crime", "senses": [
+    {"gloss": "an unlawful or seriously wrong act", "cue": "a crime thriller; low level crime"}
+  ]},
+  {"word": "bob", "senses": [
+    {"gloss": "a man's given name", "cue": "Bob Cadway; Bob Hitchcock"},
+    {"gloss": "a short haircut, or a bobbing motion", "cue": "bobbed her hair; bobbed gently"}
+  ]},
+  {"word": "receiving", "senses": [
+    {"gloss": "getting or being given something", "cue": "receiving a teaching position; receiving Emmy nominations"}
+  ]},
+  {"word": "wickets", "senses": [
+    {"gloss": "the stumps used in cricket", "cue": "hit in line with the wickets"},
+    {"gloss": "a cricket scoring unit (dismissals/margin)", "cue": "won the match by eight wickets"}
+  ]},
+  {"word": "stopped", "senses": [
+    {"gloss": "came to a halt or ceased", "cue": "the clock stopped; banks stopped paying"}
+  ]},
+  {"word": "opera", "senses": [
+    {"gloss": "a musical stage drama; melodramatic genre", "cue": "rock opera; soap opera"},
+    {"gloss": "a building for opera performances", "cue": "the opera house"}
+  ]},
+  {"word": "fictional", "senses": [
+    {"gloss": "invented for a story; not real", "cue": "a fictional character"}
+  ]},
+  {"word": "price", "senses": [
+    {"gloss": "the amount of money to buy something", "cue": "the price of the metal"}
+  ]}
+]

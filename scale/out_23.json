@@ -1,0 +1,239 @@
+[
+{"word":"other","senses":[
+  {"gloss":"different from the one(s) mentioned","cue":"the other day, option, or person"}
+]},
+{"word":"however","senses":[
+  {"gloss":"nevertheless, despite what was just said","cue":"sentence-opening however, contrasts prior statement"},
+  {"gloss":"to whatever degree or in whatever way","cue":"however unlikely, however it happened"}
+]},
+{"word":"released","senses":[
+  {"gloss":"issued or published for public availability","cue":"game, album, or single released"},
+  {"gloss":"freed from confinement or physical grip","cue":"released from prison, let go of grip"},
+  {"gloss":"emitted or secreted a substance","cue":"releases gas, hormone, or chemical"}
+]},
+{"word":"single","senses":[
+  {"gloss":"just one; individual and separate","cue":"a single mission, volume, or ovary"},
+  {"gloss":"a song released separately from an album","cue":"fifth single from the album"},
+  {"gloss":"not married","cue":"single life, unmarried person"}
+]},
+{"word":"main","senses":[
+  {"gloss":"most important or principal","cue":"main story, main character, main color"},
+  {"gloss":"a pipe distributing water, gas, or electricity","cue":"water main, gas main burst"}
+]},
+{"word":"player","senses":[
+  {"gloss":"one who takes part in a game","cue":"video game player, sports player"},
+  {"gloss":"a performer of music or drama","cue":"musician or actor performing"},
+  {"gloss":"an influential participant in a field","cue":"a major player in business or politics"}
+]},
+{"word":"order","senses":[
+  {"gloss":"for the purpose of (in order to)","cue":"'in order to' plus a goal"},
+  {"gloss":"a command issued by an authority","cue":"military or official order to obey"},
+  {"gloss":"arrangement, sequence, or tidy condition","cue":"put in order, logical sequence"},
+  {"gloss":"a request to purchase goods","cue":"placed an order, company's orders"}
+]},
+{"word":"tropical","senses":[
+  {"gloss":"of or characteristic of the tropics","cue":"tropical climate, plants, vacation"},
+  {"gloss":"(meteorology) a classified storm or cyclone","cue":"tropical storm, cyclone, tropical system"}
+]},
+{"word":"forces","senses":[
+  {"gloss":"military troops or armed units","cue":"enemy forces, federal troops, army units"},
+  {"gloss":"physical power, energy, or influence","cue":"force of nature, physics, influence"}
+]},
+{"word":"noted","senses":[
+  {"gloss":"mentioned, remarked, or observed","cue":"he noted that, positively noted"},
+  {"gloss":"well-known or famous","cue":"noted for his work, a noted expert"}
+]},
+{"word":"night","senses":[
+  {"gloss":"the dark hours between sunset and sunrise","cue":"at night, that night, nightfall"}
+]},
+{"word":"playing","senses":[
+  {"gloss":"taking part in a game or sport","cue":"playing a game, role-playing, playing opponents"},
+  {"gloss":"performing music or acting a role","cue":"playing an instrument, playing a character"}
+]},
+{"word":"decided","senses":[
+  {"gloss":"made a choice or decision","cue":"decided to do something, finally decided"},
+  {"gloss":"clear, marked, or definite","cue":"a decided advantage, decided improvement"}
+]},
+{"word":"popular","senses":[
+  {"gloss":"widely liked or enjoyed","cue":"popular response, popular attraction"},
+  {"gloss":"of or by the general public","cue":"popular vote, popular representation"}
+]},
+{"word":"fleet","senses":[
+  {"gloss":"a group of ships, vehicles, or aircraft","cue":"naval fleet, aircraft fleet, vehicle fleet"},
+  {"gloss":"swift or fast-moving","cue":"fleet of foot, fleet runner"}
+]},
+{"word":"review","senses":[
+  {"gloss":"a critical evaluation of a creative work","cue":"book, album, or film review"},
+  {"gloss":"re-examination of a decision or event","cue":"upon review of the goal, instant replay"}
+]},
+{"word":"largest","senses":[
+  {"gloss":"greatest in size, amount, or number","cue":"largest gathering, shareholder, or coin"}
+]},
+{"word":"washington","senses":[
+  {"gloss":"Washington D.C. or Washington state (place)","cue":"capital city or Pacific Northwest state"},
+  {"gloss":"the U.S. federal government (metonym)","cue":"word from Washington, Washington decided"},
+  {"gloss":"a surname or team/place name","cue":"Washington Wizards, George Washington"}
+]},
+{"word":"governor","senses":[
+  {"gloss":"head of a state's government","cue":"Governor Rector, state governor"},
+  {"gloss":"a mechanical speed-regulating device","cue":"engine governor, mechanical regulator"}
+]},
+{"word":"plan","senses":[
+  {"gloss":"a scheme of steps to achieve a goal","cue":"Bulloch's plan, recovery plan, plan of attack"},
+  {"gloss":"a scale drawing of a structure","cue":"building plans, architectural blueprint"}
+]},
+{"word":"carried","senses":[
+  {"gloss":"performed or executed (carried out)","cue":"carried out observations, carried out by"},
+  {"gloss":"physically transported or held","cue":"carried a sketchbook, carried supplies"},
+  {"gloss":"continued or transferred unchanged","cue":"carried over from the previous game"}
+]},
+{"word":"district","senses":[
+  {"gloss":"an administrative or geographic region","cue":"district of Arkansas, District Court"}
+]},
+{"word":"mixed","senses":[
+  {"gloss":"combining positive and negative (reception)","cue":"mixed reviews, mixed reception"},
+  {"gloss":"audio blended in production","cue":"mixed by David Frazer, sound mixing"},
+  {"gloss":"composed of different races or kinds","cue":"mixed neighborhood, mixed race"}
+]},
+{"word":"copies","senses":[
+  {"gloss":"reproduced or printed instances of a work","cue":"sold copies, printed in copies"}
+]},
+{"word":"current","senses":[
+  {"gloss":"present-day, most recent, up to date","cue":"current name, current theories, current generation"},
+  {"gloss":"a flow of water, air, or electricity","cue":"electric current, ocean current"}
+]},
+{"word":"edition","senses":[
+  {"gloss":"a particular version or release of a work","cue":"expanded edition, game edition, book edition"}
+]},
+{"word":"key","senses":[
+  {"gloss":"essential or crucial","cue":"key benefit, key factor, key leader"},
+  {"gloss":"a device to open a lock or type","cue":"house key, keyboard key"},
+  {"gloss":"the pitch or scale of a musical piece","cue":"musical key, key of C"}
+]},
+{"word":"annual","senses":[
+  {"gloss":"happening once every year","cue":"annual average, annual ceremony, annual trip"}
+]},
+{"word":"federal","senses":[
+  {"gloss":"relating to the national government","cue":"federal government, federal law"},
+  {"gloss":"(US Civil War) of the Union side","cue":"Federal troops, Federal officers"}
+]},
+{"word":"am","senses":[
+  {"gloss":"first-person form of 'to be'","cue":"I am, I am a soldier"},
+  {"gloss":"abbreviation for before noon","cue":"at AM and PM, morning time"}
+]},
+{"word":"true","senses":[
+  {"gloss":"genuine, real, or actual","cue":"true cause, true nature, true sequel"},
+  {"gloss":"loyal or devoted","cue":"true believers, true friend"},
+  {"gloss":"accurately aligned or aimed","cue":"true north, aim was true"}
+]},
+{"word":"allowing","senses":[
+  {"gloss":"permitting or making possible","cue":"allowing time to score, allowing suffering"}
+]},
+{"word":"executive","senses":[
+  {"gloss":"a manager or administrator","cue":"chief executive, executive producer, basketball executive"},
+  {"gloss":"relating to the branch that enforces laws","cue":"executive branch, executive decisions"}
+]},
+{"word":"distance","senses":[
+  {"gloss":"the space or gap between two points","cue":"distance of movement, signaling distance"},
+  {"gloss":"emotional or interpersonal remoteness","cue":"emotional distance, keep one's distance"}
+]},
+{"word":"core","senses":[
+  {"gloss":"the central or most essential part","cue":"core of the story, core group"},
+  {"gloss":"the physical center of an object","cue":"Earth's core, apple core"}
+]},
+{"word":"agreement","senses":[
+  {"gloss":"a mutual arrangement or contract","cue":"signed an agreement, reached an agreement"},
+  {"gloss":"shared opinion or consensus","cue":"general agreement that, in agreement"}
+]},
+{"word":"hands","senses":[
+  {"gloss":"control, custody, or possession","cue":"in the hands of officials"},
+  {"gloss":"the body part at the end of the arm","cue":"held in gods' hands, human hands"},
+  {"gloss":"crew members of a ship","cue":"loss of all hands aboard"}
+]},
+{"word":"russian","senses":[
+  {"gloss":"relating to Russia, its people, or language","cue":"Russian empire, Russian language, Russian navy"}
+]},
+{"word":"regarded","senses":[
+  {"gloss":"considered or viewed as","cue":"regarded as important, widely regarded"}
+]},
+{"word":"nothing","senses":[
+  {"gloss":"no thing; not anything","cue":"nothing was done, nothing more"},
+  {"gloss":"not at all, in no way","cue":"nothing like, looks nothing like"}
+]},
+{"word":"sr","senses":[
+  {"gloss":"abbreviation for State Route","cue":"SR highway number, state road"},
+  {"gloss":"'Senior' following a person's name","cue":"James Jordan Sr, name suffix"},
+  {"gloss":"scientific abbreviation (element or unit)","cue":"strontium Sr, steradian sr"},
+  {"gloss":"Egyptological term meaning 'sacred'","cue":"sr sacred, ancient Egyptian term"}
+]},
+{"word":"supply","senses":[
+  {"gloss":"an amount available for use or provision","cue":"supply of arms, supply of pilots"}
+]},
+{"word":"weekly","senses":[
+  {"gloss":"a periodical published every week","cue":"Entertainment Weekly, New York Weekly Tribune"},
+  {"gloss":"happening every week","cue":"weekly visit, weekly paper"}
+]},
+{"word":"standing","senses":[
+  {"gloss":"reputation, status, or rank","cue":"moral standing, standing in the league"},
+  {"gloss":"permanent or continuing, not temporary","cue":"standing permission, standing committee"},
+  {"gloss":"in an upright, erect position","cue":"standing ovation, standing trees, freestanding"}
+]},
+{"word":"color","senses":[
+  {"gloss":"hue or visual appearance","cue":"main color, eye color, black color"},
+  {"gloss":"race or ethnicity (skin color)","cue":"person of color, racial color"}
+]},
+{"word":"volume","senses":[
+  {"gloss":"an amount or quantity of something","cue":"traffic volume, publication volume, water volume"},
+  {"gloss":"a physical book, especially in a series","cue":"single volume, first volume"},
+  {"gloss":"loudness of sound","cue":"turn up the volume"}
+]},
+{"word":"battery","senses":[
+  {"gloss":"a group of guns on a ship or fort","cue":"main battery, secondary battery, gun battery"},
+  {"gloss":"a device that stores or produces electricity","cue":"car battery, phone battery"},
+  {"gloss":"(law) unlawful physical contact or assault","cue":"charged with battery, assault and battery"}
+]},
+{"word":"harry","senses":[
+  {"gloss":"a male given name","cue":"Harry Potter, Harry Houdini, Harry Shum"},
+  {"gloss":"to harass or raid persistently","cue":"harry the enemy, harry his staff"}
+]},
+{"word":"economy","senses":[
+  {"gloss":"the economic system of a region","cue":"UK economy, Roman economy, Nazi economy"},
+  {"gloss":"frugal or efficient use of resources","cue":"economy of effort, being economical"}
+]},
+{"word":"risk","senses":[
+  {"gloss":"the chance of danger, loss, or harm","cue":"risk of infection, collision risk, health risk"},
+  {"gloss":"to expose to possible loss","cue":"risked losing money, risk your life"}
+]},
+{"word":"sexual","senses":[
+  {"gloss":"relating to sex or sexuality","cue":"sexual maturity, sexual activity, sexual reproduction"}
+]},
+{"word":"prison","senses":[
+  {"gloss":"a correctional institution for confinement","cue":"sent to prison, escaped from prison"},
+  {"gloss":"a situation of restrictive confinement","cue":"figurative prison, trapped situation"}
+]},
+{"word":"relief","senses":[
+  {"gloss":"carved sculpture standing out from a background","cue":"relief image, high relief design"},
+  {"gloss":"aid given to those in need","cue":"relief organization, relief of a siege"},
+  {"gloss":"comfort after distress is removed","cue":"sense of relief, relief from pain"}
+]},
+{"word":"introduction","senses":[
+  {"gloss":"the act of bringing something new into use","cue":"introduction of the Learjet, of agriculture"},
+  {"gloss":"the opening section of a text","cue":"book's introduction, introductory chapter"}
+]},
+{"word":"mouth","senses":[
+  {"gloss":"the body opening for eating and speaking","cue":"fish's mouth, opening of the mouth ritual"},
+  {"gloss":"where a river meets a larger body of water","cue":"mouth of the Savannah River"}
+]},
+{"word":"responded","senses":[
+  {"gloss":"reacted to or answered something","cue":"responded by scoring, responded positively"}
+]},
+{"word":"corporation","senses":[
+  {"gloss":"a business firm or company","cue":"Sony Corporation, Broadcasting Corporation"}
+]},
+{"word":"funds","senses":[
+  {"gloss":"money set aside for a purpose","cue":"raised funds, donated funds, additional funds"}
+]},
+{"word":"freedom","senses":[
+  {"gloss":"the state of not being restricted","cue":"freedom of the press, operational freedom"}
+]}
+]

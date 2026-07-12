@@ -1,0 +1,3186 @@
+{
+ "is|v": [
+  {
+   "gloss": "link subject with adjective or noun",
+   "cue": "predicate + quality or identity"
+  },
+  {
+   "gloss": "exist in a location or position",
+   "cue": "Where is / in/at prepositional phrase"
+  },
+  {
+   "gloss": "occur or have existence",
+   "cue": "something happens or is present"
+  }
+ ],
+ "have|v": [
+  {
+   "gloss": "possess or own something",
+   "cue": "own/contain/include a thing or property"
+  },
+  {
+   "gloss": "experience or undergo a state",
+   "cue": "go through emotion, illness, or event"
+  },
+  {
+   "gloss": "auxiliary for perfect aspect",
+   "cue": "have + past participle"
+  }
+ ],
+ "visual|a": [
+  {
+   "gloss": "relating to sight or vision",
+   "cue": "about seeing or the visual sense"
+  }
+ ],
+ "sample|n": [
+  {
+   "gloss": "representative part intended to show quality",
+   "cue": "small part shown as example"
+  },
+  {
+   "gloss": "subset selected for testing or observation",
+   "cue": "group chosen for statistical or scientific study"
+  }
+ ],
+ "very|r": [
+  {
+   "gloss": "to a high degree; intensifier",
+   "cue": "modifies adjective or adverb to emphasize"
+  }
+ ],
+ "too|r": [
+  {
+   "gloss": "also; in addition",
+   "cue": "marks statement as equally valid with preceding"
+  },
+  {
+   "gloss": "to excessive degree; more than enough",
+   "cue": "beyond proper or needed limits"
+  }
+ ],
+ "treatment|n": [
+  {
+   "gloss": "medical care to improve condition",
+   "cue": "medical procedures or therapy"
+  },
+  {
+   "gloss": "manner of dealing with something",
+   "cue": "how something is handled or managed"
+  }
+ ],
+ "pressure|n": [
+  {
+   "gloss": "force applied to a surface",
+   "cue": "physical force or weight per area"
+  },
+  {
+   "gloss": "compelling influence or stress",
+   "cue": "demands, urgency, or distress"
+  }
+ ],
+ "development|n": [
+  {
+   "gloss": "process of growth or improvement",
+   "cue": "something becomes more advanced or complete"
+  },
+  {
+   "gloss": "recent event relevant to situation",
+   "cue": "new occurrence or change in circumstances"
+  },
+  {
+   "gloss": "constructed land or buildings",
+   "cue": "developed area or project"
+  }
+ ],
+ "aggregate|n": [
+  {
+   "gloss": "total amount or whole sum",
+   "cue": "combined total of many things"
+  },
+  {
+   "gloss": "crushed rock or material for construction",
+   "cue": "materials used with cement or mortar"
+  }
+ ],
+ "indicate|v": [
+  {
+   "gloss": "be a signal or symptom of",
+   "cue": "shows or points to as evidence"
+  },
+  {
+   "gloss": "point out or direct attention to",
+   "cue": "shows location or identifies something"
+  },
+  {
+   "gloss": "state or express briefly",
+   "cue": "communicate concisely"
+  }
+ ],
+ "modernization|n": [
+  {
+   "gloss": "process of making something modern",
+   "cue": "updating to contemporary style or methods"
+  }
+ ],
+ "knows|v": [
+  {
+   "gloss": "possess knowledge or information about",
+   "cue": "aware of facts or details"
+  },
+  {
+   "gloss": "have skill or know how",
+   "cue": "able to perform or do something"
+  },
+  {
+   "gloss": "be familiar or acquainted with",
+   "cue": "have personal knowledge of person or place"
+  }
+ ],
+ "size|n": [
+  {
+   "gloss": "physical dimensions or magnitude",
+   "cue": "how big or large something is"
+  },
+  {
+   "gloss": "particular grade or category",
+   "cue": "standard measurement for fitting"
+  }
+ ],
+ "bruising|v": [
+  {
+   "gloss": "injure tissue causing discoloration",
+   "cue": "physical injury to skin or tissue"
+  },
+  {
+   "gloss": "damage or harm feelings",
+   "cue": "hurt emotionally or damage reputation"
+  }
+ ],
+ "turned away|v": [
+  {
+   "gloss": "redirect one's face or body",
+   "cue": "movement away from something"
+  }
+ ],
+ "trying|v": [
+  {
+   "gloss": "make an effort or attempt",
+   "cue": "endeavor to do or achieve something"
+  },
+  {
+   "gloss": "test or try out something",
+   "cue": "put to test or experimental use"
+  }
+ ],
+ "Provided|v": [
+  {
+   "gloss": "supply or give something necessary",
+   "cue": "make available or furnish"
+  },
+  {
+   "gloss": "make possible or permit",
+   "cue": "allow or enable something to happen"
+  }
+ ],
+ "daily|r": [
+  {
+   "gloss": "occurring every day without interruption",
+   "cue": "happens or repeats each day"
+  }
+ ],
+ "man|n": [
+  {
+   "gloss": "adult male human being",
+   "cue": "refers to male person"
+  },
+  {
+   "gloss": "generic human or humanity",
+   "cue": "refers to people in general"
+  }
+ ],
+ "continuing|v": [
+  {
+   "gloss": "persist or keep going in activity",
+   "cue": "maintain or sustain without stopping"
+  }
+ ],
+ "probably|r": [
+  {
+   "gloss": "with considerable likelihood or certainty",
+   "cue": "likely or presumably"
+  }
+ ],
+ "good|a": [
+  {
+   "gloss": "positive or desirable in quality",
+   "cue": "satisfactory or high quality"
+  },
+  {
+   "gloss": "morally admirable or virtuous",
+   "cue": "ethically right or just"
+  },
+  {
+   "gloss": "competent or skilled",
+   "cue": "able to perform well"
+  }
+ ],
+ "putting|v": [
+  {
+   "gloss": "place in a location or position",
+   "cue": "set down or position something"
+  },
+  {
+   "gloss": "cause to be in a state or condition",
+   "cue": "make someone/something become"
+  }
+ ],
+ "method|n": [
+  {
+   "gloss": "systematic way of doing something",
+   "cue": "orderly procedure or technique"
+  },
+  {
+   "gloss": "acting technique based on personal emotion",
+   "cue": "method acting performance style"
+  }
+ ],
+ "Pro Arte|n": [
+  {
+   "gloss": "proper noun; arts organization or group",
+   "cue": "specific named entity"
+  }
+ ],
+ "minds|n": [
+  {
+   "gloss": "brain or seat of thought and reason",
+   "cue": "intellectual or mental faculty"
+  },
+  {
+   "gloss": "opinion or judgment",
+   "cue": "what someone thinks or believes"
+  }
+ ],
+ "original|s": [
+  {
+   "gloss": "first in time; preceding all others",
+   "cue": "earliest or primary version"
+  },
+  {
+   "gloss": "not copied or derived; fresh",
+   "cue": "newly created or unique"
+  }
+ ],
+ "believe|v": [
+  {
+   "gloss": "accept as true without absolute certainty",
+   "cue": "think or suppose something is true"
+  },
+  {
+   "gloss": "have religious faith or conviction",
+   "cue": "trust in spiritual or moral truth"
+  }
+ ],
+ "asked|v": [
+  {
+   "gloss": "pose a question; inquire",
+   "cue": "request information or answer"
+  },
+  {
+   "gloss": "request or petition for something",
+   "cue": "ask someone to give or do something"
+  }
+ ],
+ "James O' Gara|n": [
+  {
+   "gloss": "proper noun; person's name",
+   "cue": "specific individual"
+  }
+ ],
+ "P. J.|n": [
+  {
+   "gloss": "proper noun; person's initials",
+   "cue": "specific individual"
+  }
+ ],
+ "college|n": [
+  {
+   "gloss": "institution of higher education",
+   "cue": "school for undergraduate study"
+  }
+ ],
+ "show|n": [
+  {
+   "gloss": "public performance or entertainment",
+   "cue": "event with audience display"
+  },
+  {
+   "gloss": "pretense or false appearance",
+   "cue": "made-up or insincere display"
+  }
+ ],
+ "involved|v": [
+  {
+   "gloss": "include as necessary part or feature",
+   "cue": "requires or contains as component"
+  },
+  {
+   "gloss": "engage or participate in",
+   "cue": "take part or be connected with"
+  },
+  {
+   "gloss": "make complex or complicated",
+   "cue": "mix up or make intricate"
+  }
+ ],
+ "demonstration|n": [
+  {
+   "gloss": "show or display for explanation",
+   "cue": "visual presentation showing how something works"
+  },
+  {
+   "gloss": "public gathering to express group opinion",
+   "cue": "protest or rally"
+  }
+ ],
+ "fine|s": [
+  {
+   "gloss": "satisfactory or acceptable in condition",
+   "cue": "OK or alright"
+  },
+  {
+   "gloss": "of superior quality or refined",
+   "cue": "elegant, skillful, or excellent"
+  },
+  {
+   "gloss": "thin or consisting of small particles",
+   "cue": "delicate, slender, or minute"
+  }
+ ],
+ "content|n": [
+  {
+   "gloss": "what is contained or subject matter",
+   "cue": "material, information, or substance"
+  },
+  {
+   "gloss": "satisfaction or contentment",
+   "cue": "state of being pleased or satisfied"
+  }
+ ],
+ "shifted|v": [
+  {
+   "gloss": "move or change position",
+   "cue": "move slightly or to different location"
+  },
+  {
+   "gloss": "change in quality or emphasis",
+   "cue": "alter or transform something"
+  }
+ ],
+ "experiment|n": [
+  {
+   "gloss": "controlled test or trial of idea",
+   "cue": "systematic procedure to discover something"
+  }
+ ],
+ "other|a": [
+  {
+   "gloss": "different or alternative; not the same",
+   "cue": "refers to a different one"
+  }
+ ],
+ "local|a": [
+  {
+   "gloss": "of or from a particular place or area",
+   "cue": "belonging to a specific community"
+  }
+ ],
+ "generally|r": [
+  {
+   "gloss": "usually or as a general rule",
+   "cue": "in most cases or typically"
+  }
+ ],
+ "reasons|n": [
+  {
+   "gloss": "cause or motive for action",
+   "cue": "justification or explanation for why"
+  }
+ ],
+ "room|n": [
+  {
+   "gloss": "enclosed space in a building",
+   "cue": "area separated by walls and floor"
+  },
+  {
+   "gloss": "space or opportunity for something",
+   "cue": "scope or freedom to do"
+  }
+ ],
+ "represented|v": [
+  {
+   "gloss": "stand for or symbolize something",
+   "cue": "serves as symbol or equivalent of"
+  },
+  {
+   "gloss": "portray or depict as image",
+   "cue": "create likeness or artistic rendering"
+  },
+  {
+   "gloss": "serve as delegate or advocate",
+   "cue": "speak or act on behalf of"
+  }
+ ],
+ "truly|r": [
+  {
+   "gloss": "genuinely or in accordance with fact",
+   "cue": "really or in truth"
+  }
+ ],
+ "drop|v": [
+  {
+   "gloss": "fall or let fall to ground",
+   "cue": "move downward or release"
+  },
+  {
+   "gloss": "decrease in value or level",
+   "cue": "reduce or go down"
+  },
+  {
+   "gloss": "stop or abandon activity",
+   "cue": "cease pursuing or doing"
+  }
+ ],
+ "patient|n": [
+  {
+   "gloss": "person receiving medical care",
+   "cue": "someone under doctor or healthcare treatment"
+  }
+ ],
+ "space|n": [
+  {
+   "gloss": "expanse or distance between things",
+   "cue": "area or interval separating objects"
+  },
+  {
+   "gloss": "empty area or gap",
+   "cue": "blank or available area"
+  },
+  {
+   "gloss": "region beyond Earth's atmosphere",
+   "cue": "outer space or universe"
+  },
+  {
+   "gloss": "opportunity or freedom to act",
+   "cue": "scope or room for action"
+  }
+ ],
+ "develop|v": [
+  {
+   "gloss": "create or make something new",
+   "cue": "produce or invent"
+  },
+  {
+   "gloss": "progress or evolve through stages",
+   "cue": "grow or become more advanced"
+  },
+  {
+   "gloss": "become visible or apparent",
+   "cue": "emerge or unfold gradually"
+  }
+ ],
+ "reading|v": [
+  {
+   "gloss": "interpret written or printed text",
+   "cue": "understand written material"
+  },
+  {
+   "gloss": "speak aloud written words",
+   "cue": "recite or pronounce text"
+  },
+  {
+   "gloss": "interpret meaning or significance",
+   "cue": "understand the sense or implication"
+  }
+ ],
+ "enlightenment|n": [
+  {
+   "gloss": "education resulting in understanding",
+   "cue": "knowledge or intellectual awakening"
+  },
+  {
+   "gloss": "spiritual transcendence or clarity",
+   "cue": "spiritual awakening or insight"
+  }
+ ],
+ "jobs|n": [
+  {
+   "gloss": "employment or occupation",
+   "cue": "work one does to earn money"
+  },
+  {
+   "gloss": "specific task or piece of work",
+   "cue": "particular assignment or duty"
+  }
+ ],
+ "Earth|n": [
+  {
+   "gloss": "planet we live on; the world",
+   "cue": "celestial body orbiting the sun"
+  },
+  {
+   "gloss": "land or ground surface",
+   "cue": "soil or solid matter of world"
+  }
+ ],
+ "readily|r": [
+  {
+   "gloss": "easily or without difficulty",
+   "cue": "without impediment or effort"
+  }
+ ],
+ "calculation|n": [
+  {
+   "gloss": "mathematical computation or reckoning",
+   "cue": "figuring out numbers or amounts"
+  },
+  {
+   "gloss": "deliberate planning or strategy",
+   "cue": "calculated or intentional action"
+  }
+ ],
+ "sensations|n": [
+  {
+   "gloss": "physical feeling from stimulation",
+   "cue": "bodily sensation or perception"
+  },
+  {
+   "gloss": "state of emotional excitement",
+   "cue": "feeling of interest or arousal"
+  }
+ ],
+ "loaf|n": [
+  {
+   "gloss": "shaped mass of baked bread",
+   "cue": "bread formed in one piece"
+  }
+ ],
+ "ablation|n": [
+  {
+   "gloss": "surgical removal of body part",
+   "cue": "medical removal by operation"
+  },
+  {
+   "gloss": "erosion or wearing away",
+   "cue": "gradual loss by melting or vaporization"
+  }
+ ],
+ "felt|v": [
+  {
+   "gloss": "undergo or experience emotion",
+   "cue": "sense or feel something emotionally"
+  },
+  {
+   "gloss": "perceive by touch or sense",
+   "cue": "detect or sense physically"
+  }
+ ],
+ "adopt|v": [
+  {
+   "gloss": "take a child as one's own",
+   "cue": "legally make child one's offspring"
+  },
+  {
+   "gloss": "take by choice; embrace",
+   "cue": "accept and use as one's own"
+  }
+ ],
+ "years|n": [
+  {
+   "gloss": "period of 365 or 366 days",
+   "cue": "calendar measure of time"
+  },
+  {
+   "gloss": "prolonged or long period",
+   "cue": "extended length of time"
+  }
+ ],
+ "became|v": [
+  {
+   "gloss": "enter or assume a state",
+   "cue": "come to be or turn into"
+  },
+  {
+   "gloss": "undergo change or transformation",
+   "cue": "transform or develop into"
+  }
+ ],
+ "cleaning|v": [
+  {
+   "gloss": "remove dirt or unwanted material",
+   "cue": "make clean by scrubbing or washing"
+  },
+  {
+   "gloss": "tidy up or make neat",
+   "cue": "organize or put in order"
+  }
+ ],
+ "right|a": [
+  {
+   "gloss": "correct or accurate",
+   "cue": "free from error or mistake"
+  },
+  {
+   "gloss": "morally just or virtuous",
+   "cue": "conforming to justice or morality"
+  },
+  {
+   "gloss": "appropriate or suitable",
+   "cue": "fitting for purpose or situation"
+  }
+ ],
+ "are|v": [
+  {
+   "gloss": "Copula: express quality or identity",
+   "cue": "Links subject to adjective or noun (is happy, is John)"
+  },
+  {
+   "gloss": "Locative: exist or be located in place",
+   "cue": "Indicates where something is (is here, is in the back)"
+  },
+  {
+   "gloss": "Auxiliary: form perfect or progressive",
+   "cue": "Helps form tense (are playing, are found)"
+  }
+ ],
+ "had|v": [
+  {
+   "gloss": "Possess or have in one's control",
+   "cue": "Someone owns or controls something"
+  },
+  {
+   "gloss": "Auxiliary: form past perfect tense",
+   "cue": "Shows past action before another past action"
+  },
+  {
+   "gloss": "Experience or undergo event",
+   "cue": "Subject goes through state or event (had an accident)"
+  }
+ ],
+ "led|v": [
+  {
+   "gloss": "Guide or conduct someone to place",
+   "cue": "Person takes another somewhere"
+  },
+  {
+   "gloss": "Result in or cause as consequence",
+   "cue": "Action or circumstance produces outcome"
+  },
+  {
+   "gloss": "Be in charge of or head group",
+   "cue": "Direct or manage people or project"
+  }
+ ],
+ "find|v": [
+  {
+   "gloss": "Discover or locate something lost",
+   "cue": "Search for and recover missing object"
+  },
+  {
+   "gloss": "Determine by investigation or study",
+   "cue": "Establish fact through research or analysis"
+  },
+  {
+   "gloss": "Discover or experience in context",
+   "cue": "Encounter or meet with something"
+  }
+ ],
+ "types|n": [
+  {
+   "gloss": "Categories or kinds of things",
+   "cue": "Groups distinguished by characteristics"
+  },
+  {
+   "gloss": "Printed characters or symbols",
+   "cue": "Shapes representing letters or glyphs"
+  }
+ ],
+ "gram|n": [
+  {
+   "gloss": "Unit of mass in metric system",
+   "cue": "Measure of weight (one thousandth kilogram)"
+  }
+ ],
+ "nation|n": [
+  {
+   "gloss": "Politically organized sovereign state",
+   "cue": "Country with government and territory"
+  },
+  {
+   "gloss": "People inhabiting a country",
+   "cue": "Group of citizens or population"
+  },
+  {
+   "gloss": "Indigenous people or tribe",
+   "cue": "Federally recognized ethnic or cultural group"
+  }
+ ],
+ "back|r": [
+  {
+   "gloss": "To or toward rear position",
+   "cue": "Direction opposite to front"
+  },
+  {
+   "gloss": "To former or original state",
+   "cue": "Return to previous condition"
+  },
+  {
+   "gloss": "In return or reciprocal action",
+   "cue": "Exchange or response (hit back, reply back)"
+  }
+ ],
+ "met|v": [
+  {
+   "gloss": "Encounter or come together with",
+   "cue": "Come into contact with person"
+  },
+  {
+   "gloss": "Satisfy or fulfill requirement",
+   "cue": "Meet standard or need"
+  },
+  {
+   "gloss": "Experience or undergo event",
+   "cue": "Be subjected to or encounter adversity"
+  }
+ ],
+ "deduced|v": [
+  {
+   "gloss": "Reason or infer from evidence",
+   "cue": "Conclude by logical reasoning from facts"
+  }
+ ],
+ "dispositions|n": [
+  {
+   "gloss": "Mood or characteristic temperament",
+   "cue": "Habitual emotional state or tendency"
+  },
+  {
+   "gloss": "Arrangement or settlement of matter",
+   "cue": "How something is dealt with or settled"
+  }
+ ],
+ "hijackers|n": [
+  {
+   "gloss": "People who forcibly take vehicle",
+   "cue": "Use force to seize plane or car"
+  }
+ ],
+ "same|a": [
+  {
+   "gloss": "Identical in all respects",
+   "cue": "One and only one (same person twice)"
+  },
+  {
+   "gloss": "Similar or comparable in kind",
+   "cue": "Alike in quality or appearance"
+  }
+ ],
+ "influence|n": [
+  {
+   "gloss": "Power or ability to affect others",
+   "cue": "Capacity to change what people do"
+  },
+  {
+   "gloss": "Effect of one thing on another",
+   "cue": "Result or impact produced"
+  },
+  {
+   "gloss": "Person or thing that affects",
+   "cue": "Who or what causes the effect"
+  }
+ ],
+ "outward|a": [
+  {
+   "gloss": "Relating to or toward exterior",
+   "cue": "Concerning the outside or surface"
+  },
+  {
+   "gloss": "Going out or departing",
+   "cue": "Movement away from inside"
+  },
+  {
+   "gloss": "Visible or apparent to observer",
+   "cue": "What can be seen or noticed"
+  }
+ ],
+ "taking|v": [
+  {
+   "gloss": "Seize or capture by force",
+   "cue": "Take possession of something"
+  },
+  {
+   "gloss": "Carry or convey to destination",
+   "cue": "Transport person or thing somewhere"
+  },
+  {
+   "gloss": "Require time or space",
+   "cue": "Use up duration or distance"
+  }
+ ],
+ "honored|v": [
+  {
+   "gloss": "Show respect or recognition for",
+   "cue": "Treat with esteem or tribute"
+  },
+  {
+   "gloss": "Bestow award or reward upon",
+   "cue": "Give honor or official recognition"
+  }
+ ],
+ "sensitivity|n": [
+  {
+   "gloss": "Responsiveness to physical stimuli",
+   "cue": "Ability to detect sensation or small change"
+  },
+  {
+   "gloss": "Emotional awareness or empathy",
+   "cue": "Understanding of feelings in self and others"
+  }
+ ],
+ "people|n": [
+  {
+   "gloss": "Group of human beings collectively",
+   "cue": "Two or more persons considered together"
+  },
+  {
+   "gloss": "Citizens or population of place",
+   "cue": "Inhabitants of country or region"
+  },
+  {
+   "gloss": "One's relatives or family members",
+   "cue": "Ancestors or close relations"
+  }
+ ],
+ "U.S.|n": [
+  {
+   "gloss": "United States government or nation",
+   "cue": "North American federal republic"
+  }
+ ],
+ "gives|v": [
+  {
+   "gloss": "Transfer possession of something",
+   "cue": "Hand over or grant to recipient"
+  },
+  {
+   "gloss": "Cause or produce as result",
+   "cue": "Be source or origin of effect"
+  },
+  {
+   "gloss": "Convey information or gesture",
+   "cue": "Communicate through word, look, or action"
+  }
+ ],
+ "appear|v": [
+  {
+   "gloss": "Seem to be or look like",
+   "cue": "Give impression or outward aspect"
+  },
+  {
+   "gloss": "Come into sight or view",
+   "cue": "Become visible or arrive on scene"
+  },
+  {
+   "gloss": "Be published or issued",
+   "cue": "Come out in print or on stage"
+  }
+ ],
+ "Snead|n": [
+  {
+   "gloss": "Professional golfer (proper name)",
+   "cue": "Specific historical person"
+  }
+ ],
+ "work|n": [
+  {
+   "gloss": "Activity or effort directed at task",
+   "cue": "Labor or exertion to accomplish goal"
+  },
+  {
+   "gloss": "Occupation or employment",
+   "cue": "Job or position one is paid for"
+  },
+  {
+   "gloss": "Product or creation",
+   "cue": "Result of artistic or intellectual effort"
+  }
+ ],
+ "franchise|n": [
+  {
+   "gloss": "Authorization to sell company goods",
+   "cue": "Right to operate business under brand"
+  }
+ ],
+ "Shelley|n": [
+  {
+   "gloss": "Romantic era author (proper name)",
+   "cue": "Specific historical writer"
+  }
+ ],
+ "boy|n": [
+  {
+   "gloss": "Male child or young man",
+   "cue": "Youth of male gender"
+  },
+  {
+   "gloss": "Son of any age",
+   "cue": "Male offspring"
+  },
+  {
+   "gloss": "Male friend or companion",
+   "cue": "Familiar term for associate"
+  }
+ ],
+ "Whipple|n": [
+  {
+   "gloss": "Medical procedure (proper noun)",
+   "cue": "Specific surgical operation"
+  }
+ ],
+ "Yankees|n": [
+  {
+   "gloss": "Americans generally",
+   "cue": "Citizens or natives of United States"
+  },
+  {
+   "gloss": "New Englanders or Northerners",
+   "cue": "People from northern regions"
+  }
+ ],
+ "like|v": [
+  {
+   "gloss": "Enjoy or find agreeable",
+   "cue": "Experience pleasure in something"
+  },
+  {
+   "gloss": "Find attractive or favor",
+   "cue": "Prefer or regard positively"
+  },
+  {
+   "gloss": "Want or desire to have",
+   "cue": "Wish for or request"
+  }
+ ],
+ "leave|v": [
+  {
+   "gloss": "Depart from or go away",
+   "cue": "Exit or abandon place"
+  },
+  {
+   "gloss": "Allow to remain as is",
+   "cue": "Refrain from taking or disturbing"
+  },
+  {
+   "gloss": "Put in care of or bequeath",
+   "cue": "Entrust to or pass to recipient"
+  }
+ ],
+ "offered|v": [
+  {
+   "gloss": "Make available or present",
+   "cue": "Provide or furnish for use"
+  },
+  {
+   "gloss": "Agree or volunteer to do",
+   "cue": "Willingly promise or commit"
+  },
+  {
+   "gloss": "Propose for consideration",
+   "cue": "Suggest or put forward idea"
+  }
+ ],
+ "all|a": [
+  {
+   "gloss": "Whole quantity or every part",
+   "cue": "Complete total including nothing left"
+  },
+  {
+   "gloss": "Every single one",
+   "cue": "All individuals in group without exception"
+  }
+ ],
+ "being|v": [
+  {
+   "gloss": "Copula: express quality or identity",
+   "cue": "Links subject to adjective or noun"
+  },
+  {
+   "gloss": "Locative: exist or occupy place",
+   "cue": "State of presence somewhere"
+  },
+  {
+   "gloss": "Auxiliary: form progressive tense",
+   "cue": "Shows ongoing action"
+  }
+ ],
+ "returned|v": [
+  {
+   "gloss": "Go or come back to place",
+   "cue": "Arrive again at original location"
+  },
+  {
+   "gloss": "Give back or restore",
+   "cue": "Hand over or return possession"
+  },
+  {
+   "gloss": "Revert to previous state",
+   "cue": "Go back to former condition"
+  }
+ ],
+ "elevated|v": [
+  {
+   "gloss": "Raise in position or rank",
+   "cue": "Promote to higher status or level"
+  },
+  {
+   "gloss": "Lift up physically",
+   "cue": "Move upward in space"
+  }
+ ],
+ "formula|n": [
+  {
+   "gloss": "Mathematical or symbolic expression",
+   "cue": "Symbols representing relationship"
+  },
+  {
+   "gloss": "Directions or procedure for making",
+   "cue": "Instructions to follow step by step"
+  },
+  {
+   "gloss": "Established principle or method",
+   "cue": "Conventional rule or approach"
+  }
+ ],
+ "medium|n": [
+  {
+   "gloss": "Material or substance for communication",
+   "cue": "Channel through which message passes"
+  },
+  {
+   "gloss": "Environment or surrounding material",
+   "cue": "Substance or space where things exist"
+  },
+  {
+   "gloss": "Middle state or average",
+   "cue": "Point between extremes"
+  }
+ ],
+ "Congress|n": [
+  {
+   "gloss": "U.S. legislative body",
+   "cue": "Senate and House of Representatives"
+  },
+  {
+   "gloss": "Meeting of representatives",
+   "cue": "Assembly of elected or appointed delegates"
+  }
+ ],
+ "Cows|n": [
+  {
+   "gloss": "Cattle or domesticated bovine animals",
+   "cue": "Farm animals for milk and meat"
+  }
+ ],
+ "dynamic|a": [
+  {
+   "gloss": "Characterized by energy and action",
+   "cue": "Active, forceful, or powerful"
+  },
+  {
+   "gloss": "Changing or developing over time",
+   "cue": "Not static or fixed"
+  }
+ ],
+ "naked|s": [
+  {
+   "gloss": "Unclothed or without garments",
+   "cue": "Body bare of clothing"
+  },
+  {
+   "gloss": "Unadorned or plain",
+   "cue": "Lacking decoration or elaboration"
+  },
+  {
+   "gloss": "Unarmed or unprotected",
+   "cue": "Without covering or defense"
+  }
+ ],
+ "begin|v": [
+  {
+   "gloss": "Start or initiate action",
+   "cue": "Take first step into something"
+  },
+  {
+   "gloss": "Come into existence",
+   "cue": "Have beginning in time"
+  },
+  {
+   "gloss": "Start speaking",
+   "cue": "Open one's mouth to speak"
+  }
+ ],
+ "dressed|v": [
+  {
+   "gloss": "Put on clothes or garments",
+   "cue": "Clothe self or another"
+  },
+  {
+   "gloss": "Prepare or arrange for use",
+   "cue": "Make ready or decorate"
+  },
+  {
+   "gloss": "Apply dressing or treatment",
+   "cue": "Bandage or apply seasoning"
+  }
+ ],
+ "style|n": [
+  {
+   "gloss": "Manner of expression or creation",
+   "cue": "How something is done or presented"
+  },
+  {
+   "gloss": "Fashion or appearance",
+   "cue": "Way of dressing or looking"
+  },
+  {
+   "gloss": "Botanical structure of flower",
+   "cue": "Stalk connecting stigma to ovary"
+  }
+ ],
+ "gained|v": [
+  {
+   "gloss": "Obtain or acquire something",
+   "cue": "Get possession of"
+  },
+  {
+   "gloss": "Win or achieve goal",
+   "cue": "Succeed in reaching objective"
+  },
+  {
+   "gloss": "Increase in amount or rate",
+   "cue": "Grow or rise in number"
+  }
+ ],
+ "object|n": [
+  {
+   "gloss": "Tangible physical thing",
+   "cue": "Concrete entity you can see or touch"
+  },
+  {
+   "gloss": "Goal or aim intended",
+   "cue": "Purpose or target of action"
+  },
+  {
+   "gloss": "Grammatical constituent",
+   "cue": "Word receiving action in sentence"
+  }
+ ],
+ "brush|n": [
+  {
+   "gloss": "Tool with bristles for cleaning",
+   "cue": "Implement for brushing hair or paint"
+  },
+  {
+   "gloss": "Wild shrubby vegetation",
+   "cue": "Dense growth of bushes or undergrowth"
+  },
+  {
+   "gloss": "Brief encounter or contact",
+   "cue": "Quick or passing interaction"
+  }
+ ],
+ "Louis / 15|n": [
+  {
+   "gloss": "Historical or textual reference",
+   "cue": "Specific name or designation"
+  }
+ ],
+ "confusion|n": [
+  {
+   "gloss": "Lack of clarity or order",
+   "cue": "Disorder or disorderly state"
+  },
+  {
+   "gloss": "Mistaking one thing for another",
+   "cue": "Error from confusing distinct items"
+  },
+  {
+   "gloss": "Embarrassment or shame",
+   "cue": "Feeling of being confused"
+  }
+ ],
+ "came|v": [
+  {
+   "gloss": "Move toward or arrive at place",
+   "cue": "Travel to or reach destination"
+  },
+  {
+   "gloss": "Reach state or condition",
+   "cue": "Come to be or become"
+  },
+  {
+   "gloss": "Originate or result from",
+   "cue": "Have source in or stem from"
+  },
+  {
+   "gloss": "Happen or occur in sequence",
+   "cue": "Take place in order"
+  }
+ ],
+ "only|r": [
+  {
+   "gloss": "And nothing more or else",
+   "cue": "Exclusively or solely"
+  },
+  {
+   "gloss": "Except or but",
+   "cue": "With exception that"
+  },
+  {
+   "gloss": "As recently as",
+   "cue": "Just before now"
+  }
+ ],
+ "persistent|s": [
+  {
+   "gloss": "Refusing to stop or give up",
+   "cue": "Continuing despite difficulty"
+  },
+  {
+   "gloss": "Regularly recurring in mind",
+   "cue": "Happening repeatedly or constantly"
+  },
+  {
+   "gloss": "Lasting or enduring",
+   "cue": "Remaining over time"
+  }
+ ],
+ "completely|r": [
+  {
+   "gloss": "Thoroughly or to full extent",
+   "cue": "In every part or aspect"
+  },
+  {
+   "gloss": "Totally or utterly",
+   "cue": "To extreme degree"
+  }
+ ],
+ "club|n": [
+  {
+   "gloss": "Team or sports organization",
+   "cue": "Group of athletes playing together"
+  },
+  {
+   "gloss": "Association or group with shared interest",
+   "cue": "Members joining for common purpose"
+  },
+  {
+   "gloss": "Weapon or implement for hitting",
+   "cue": "Stick or bludgeon"
+  },
+  {
+   "gloss": "Golf equipment",
+   "cue": "Implement to strike golf ball"
+  }
+ ],
+ "adds|v": [
+  {
+   "gloss": "Join or combine with others",
+   "cue": "Include something more"
+  },
+  {
+   "gloss": "State or say further",
+   "cue": "Continue speaking with more"
+  },
+  {
+   "gloss": "Increase amount or quality",
+   "cue": "Make more or greater"
+  }
+ ],
+ "intermediate|a": [
+  {
+   "gloss": "Between two extremes",
+   "cue": "In the middle of range"
+  },
+  {
+   "gloss": "Of middle rank or degree",
+   "cue": "Neither highest nor lowest"
+  }
+ ],
+ "maintain|v": [
+  {
+   "gloss": "Keep in certain state or condition",
+   "cue": "Preserve or sustain"
+  },
+  {
+   "gloss": "Support with necessities",
+   "cue": "Provide for or feed"
+  },
+  {
+   "gloss": "Assert or declare firmly",
+   "cue": "Claim or state positively"
+  }
+ ],
+ "ways|n": [
+  {
+   "gloss": "Plural: methods or paths",
+   "cue": "Different means or routes"
+  },
+  {
+   "gloss": "Distance or journey",
+   "cue": "Space traveled"
+  },
+  {
+   "gloss": "Manner or mode of behavior",
+   "cue": "Habitual conduct or action"
+  }
+ ],
+ "suffered|v": [
+  {
+   "gloss": "Undergo hardship or pain",
+   "cue": "Experience hurt or distress"
+  },
+  {
+   "gloss": "Endure or put up with",
+   "cue": "Bear or tolerate something unpleasant"
+  },
+  {
+   "gloss": "Be harmed or damaged",
+   "cue": "Have condition worsen"
+  }
+ ],
+ "declared|v": [
+  {
+   "gloss": "State or assert formally",
+   "cue": "Announce with certainty or authority"
+  },
+  {
+   "gloss": "Make official announcement",
+   "cue": "Publicly proclaim or reveal"
+  },
+  {
+   "gloss": "Designate or choose",
+   "cue": "Formally specify or select"
+  }
+ ],
+ "completed|s": [
+  {
+   "gloss": "Finished or brought to end",
+   "cue": "No more work needed"
+  }
+ ],
+ "less|r": [
+  {
+   "gloss": "Smaller in amount or degree",
+   "cue": "Comparative form of little"
+  },
+  {
+   "gloss": "Not as much",
+   "cue": "Reduced quantity or extent"
+  }
+ ],
+ "boys|n": [
+  {
+   "gloss": "Male children or young men",
+   "cue": "Youth of male gender"
+  },
+  {
+   "gloss": "Male friends or companions",
+   "cue": "Associates or peers"
+  }
+ ],
+ "doing|v": [
+  {
+   "gloss": "Engage in or perform action",
+   "cue": "Carry out activity or task"
+  },
+  {
+   "gloss": "Manage or proceed",
+   "cue": "Get along or handle"
+  },
+  {
+   "gloss": "Create or make",
+   "cue": "Produce or construct"
+  }
+ ],
+ "rough|a": [
+  {
+   "gloss": "Uneven or not smooth",
+   "cue": "Irregular surface or texture"
+  },
+  {
+   "gloss": "Approximate or inexact",
+   "cue": "Not precise or detailed"
+  },
+  {
+   "gloss": "Turbulent or violent",
+   "cue": "Agitated or forceful"
+  },
+  {
+   "gloss": "Crude or unrefined",
+   "cue": "Lacking polish or sophistication"
+  },
+  {
+   "gloss": "Difficult or harsh",
+   "cue": "Trying or unpleasant"
+  }
+ ],
+ "be|v": [
+  {
+   "gloss": "Link subject to predicate or attribute.",
+   "cue": "Followed by adjective, noun, or predicate: 'is rich', 'is a doctor'."
+  },
+  {
+   "gloss": "Auxiliary for passive voice or continuous aspect.",
+   "cue": "With past participle or -ing form: 'was saved', 'is walking'."
+  },
+  {
+   "gloss": "Exist; occur; take place.",
+   "cue": "Existential or locative; often 'there is/are' or 'is there'."
+  }
+ ],
+ "life|n": [
+  {
+   "gloss": "State of being alive; biological existence.",
+   "cue": "Refers to animation, living organisms, or the property of vitality."
+  },
+  {
+   "gloss": "One's lifespan or individual existence.",
+   "cue": "A person's history, experiences, or period from birth to death."
+  },
+  {
+   "gloss": "A particular sphere or aspect of existence.",
+   "cue": "Modifiers like 'social life', 'work life', 'family life'."
+  }
+ ],
+ "found|v": [
+  {
+   "gloss": "Establish or institute an organization or institution.",
+   "cue": "Founding a company, school, program; setting up anew."
+  },
+  {
+   "gloss": "Come upon or locate after searching.",
+   "cue": "Discover the location of something lost or hidden."
+  }
+ ],
+ "arc|n": [
+  {
+   "gloss": "Curved trajectory or path of motion.",
+   "cue": "A ball arcing through the air; a curved line in space."
+  },
+  {
+   "gloss": "Electrical discharge through a gap.",
+   "cue": "Technical or scientific context; refers to electrical phenomenon."
+  }
+ ],
+ "work|v": [
+  {
+   "gloss": "Perform labor; be employed.",
+   "cue": "Subject is a person doing a job or task for pay or duty."
+  },
+  {
+   "gloss": "Function or operate; produce desired effect.",
+   "cue": "About device, process, or plan; does it achieve its purpose?"
+  },
+  {
+   "gloss": "Shape, form, or manipulate material.",
+   "cue": "Handling clay, dough, metal; physically transform something."
+  }
+ ],
+ "deny|v": [
+  {
+   "gloss": "State that something is not true.",
+   "cue": "Contradiction of a claim, allegation, or statement."
+  },
+  {
+   "gloss": "Refuse to grant or give something.",
+   "cue": "Refusing permission, resources, or a request."
+  },
+  {
+   "gloss": "Refuse to acknowledge or accept.",
+   "cue": "Disowning, disclaim connection, reject reality of something."
+  }
+ ],
+ "area|n": [
+  {
+   "gloss": "Geographic region or locality.",
+   "cue": "Spatial reference; a place, neighborhood, or territory."
+  },
+  {
+   "gloss": "Subject matter or domain of knowledge.",
+   "cue": "Field of study, specialization, or expertise."
+  },
+  {
+   "gloss": "Two-dimensional extent or surface measurement.",
+   "cue": "Mathematical or geometric context; measured in square units."
+  }
+ ],
+ "resulted|v": [
+  {
+   "gloss": "End in a particular way or come to pass.",
+   "cue": "Outcome of events; what happened as a consequence."
+  }
+ ],
+ "guarding|v": [
+  {
+   "gloss": "Watch over or keep under observation.",
+   "cue": "Stationed to monitor or protect; maintaining vigilance."
+  },
+  {
+   "gloss": "Protect against harm or unwanted consequence.",
+   "cue": "Taking precautions; preventing or defending against."
+  }
+ ],
+ "moments|n": [
+  {
+   "gloss": "A particular point or instant in time.",
+   "cue": "Specific time when something happens or is measured."
+  },
+  {
+   "gloss": "A brief or indefinitely short span of time.",
+   "cue": "Quick duration; 'just a moment', 'wait a moment'."
+  },
+  {
+   "gloss": "Importance, weight, or significance.",
+   "cue": "An event or matter of consequence or importance."
+  }
+ ],
+ "about|r": [
+  {
+   "gloss": "Approximately; roughly or imprecisely close.",
+   "cue": "Modifying a quantity or value; 'about $100', 'about an hour'."
+  },
+  {
+   "gloss": "On all sides; in various directions or places.",
+   "cue": "Scattered or present in multiple locations; 'lying about'."
+  },
+  {
+   "gloss": "Nearly accomplished; almost but not quite.",
+   "cue": "Just short of completion or reality; 'about done'."
+  }
+ ],
+ "having|v": [
+  {
+   "gloss": "Possess or own something.",
+   "cue": "Subject has property, item, or relation; ownership or inclusion."
+  },
+  {
+   "gloss": "Undergo or experience something.",
+   "cue": "Subject goes through event, state, or condition."
+  },
+  {
+   "gloss": "Cause or compel to do something.",
+   "cue": "Making someone or something act; 'have him do it'."
+  }
+ ],
+ "road|n": [
+  {
+   "gloss": "Physical way or route for travel.",
+   "cue": "Actual street, path, or thoroughfare for transportation."
+  },
+  {
+   "gloss": "Path or way to achieve a goal.",
+   "cue": "Metaphorical journey; 'road to success', 'road to fame'."
+  }
+ ],
+ "receipts|n": [
+  {
+   "gloss": "Money or goods received; income.",
+   "cue": "Financial context; revenue or funds collected."
+  },
+  {
+   "gloss": "Proof or acknowledgment of payment.",
+   "cue": "Document or tangible evidence that payment was made."
+  }
+ ],
+ "proportional|s": [
+  {
+   "gloss": "Related in size or degree consistently or mathematically.",
+   "cue": "One quantity varies with another; direct or inverse relation."
+  }
+ ],
+ "mass|n": [
+  {
+   "gloss": "Physical quantity; amount of matter in object.",
+   "cue": "Physics or science context; property measured in kilograms."
+  },
+  {
+   "gloss": "Large number, quantity, or amount.",
+   "cue": "Bulk or aggregation; 'a mass of people', 'masses of data'."
+  },
+  {
+   "gloss": "Religious ceremony; Eucharistic celebration.",
+   "cue": "Church or spiritual context; Catholic or Christian ritual."
+  }
+ ],
+ "allow|v": [
+  {
+   "gloss": "Permit or give permission for something.",
+   "cue": "Grant consent; 'allow someone to go', 'allow an activity'."
+  },
+  {
+   "gloss": "Make possible or provide opportunity for.",
+   "cue": "Conditions enable or facilitate; 'allow for possibility'."
+  },
+  {
+   "gloss": "Acknowledge truth or validity; concede.",
+   "cue": "Admit or accept; 'allow that you might be right'."
+  }
+ ],
+ "bought|v": [
+  {
+   "gloss": "Obtain in exchange for money; purchase.",
+   "cue": "Financial transaction; acquiring by paying."
+  },
+  {
+   "gloss": "Accept as true or believe.",
+   "cue": "Informal; credibility or persuasion; 'believe the story'."
+  }
+ ],
+ "Brooklyn College|n": [
+  {
+   "gloss": "University in New York; an educational institution.",
+   "cue": "Proper name; reference to specific college or campus."
+  }
+ ],
+ "tools|n": [
+  {
+   "gloss": "Implements or instruments for work or craft.",
+   "cue": "Physical objects; hammer, wrench, saw; instruments of trade."
+  },
+  {
+   "gloss": "Means or methods to achieve an end.",
+   "cue": "Figurative; instrument for accomplishing a goal."
+  }
+ ],
+ "approximate|s": [
+  {
+   "gloss": "Close in value but not exactly correct.",
+   "cue": "Not precise; a rough or near estimate; 'approximate answer'."
+  },
+  {
+   "gloss": "Located close together or nearby.",
+   "cue": "Spatial proximity; positioned near one another."
+  }
+ ],
+ "suspension|n": [
+  {
+   "gloss": "Temporary stop or cessation of activity.",
+   "cue": "Interruption; pause in something; held in abeyance."
+  },
+  {
+   "gloss": "Particles dispersed in a fluid.",
+   "cue": "Chemistry or physics; solid matter in liquid or gas."
+  },
+  {
+   "gloss": "System of springs supporting vehicle wheels.",
+   "cue": "Mechanical; automotive component for shock absorption."
+  }
+ ],
+ "ended|v": [
+  {
+   "gloss": "Reach or come to a finish or conclusion.",
+   "cue": "Terminate; something stops or reaches its close."
+  },
+  {
+   "gloss": "Cause something to stop or finish.",
+   "cue": "Deliberately terminate; bring to an end."
+  }
+ ],
+ "pursue|v": [
+  {
+   "gloss": "Follow or chase after someone or something.",
+   "cue": "Chasing; trying to catch up or overtake."
+  },
+  {
+   "gloss": "Engage in or carry on an activity.",
+   "cue": "Undertake; follow a course of action; 'pursue a hobby'."
+  },
+  {
+   "gloss": "Advance or carry further; continue course.",
+   "cue": "Progress along a path; keep on going."
+  }
+ ],
+ "communities|n": [
+  {
+   "gloss": "Group of people living in a locality.",
+   "cue": "Geographic; residents of a place sharing location."
+  },
+  {
+   "gloss": "Group sharing common interest or characteristic.",
+   "cue": "Affinity-based; people bound by profession or belief."
+  },
+  {
+   "gloss": "Organisms in same habitat interacting ecologically.",
+   "cue": "Biological or ecological; flora and fauna together."
+  }
+ ],
+ "repertory|n": [
+  {
+   "gloss": "Collection of works regularly performed.",
+   "cue": "Artistic or theatrical; plays, songs, operas available."
+  },
+  {
+   "gloss": "Range of skills or resources available.",
+   "cue": "Capability or techniques; what one can do or use."
+  }
+ ],
+ "forces|n": [
+  {
+   "gloss": "Military units or armed personnel.",
+   "cue": "Military context; armies, navies, troops, soldiers."
+  },
+  {
+   "gloss": "Physical influence causing acceleration or change.",
+   "cue": "Physics; mechanical power or influence in motion."
+  },
+  {
+   "gloss": "Group of people with power to act.",
+   "cue": "Collective agency; people able to influence or control."
+  }
+ ],
+ "attend|v": [
+  {
+   "gloss": "Be present at an event or place.",
+   "cue": "Showing up; participation or presence required."
+  },
+  {
+   "gloss": "Care for or serve someone.",
+   "cue": "Wait upon; provide service; 'attend to needs'."
+  },
+  {
+   "gloss": "Pay attention to; listen or heed.",
+   "cue": "Focusing awareness; listen to and consider."
+  }
+ ],
+ "decided|v": [
+  {
+   "gloss": "Reach a conclusion or make a choice.",
+   "cue": "Determine outcome; settle on a course of action."
+  },
+  {
+   "gloss": "Influence or determine an outcome.",
+   "cue": "Tip the balance; settle a question or contest."
+  }
+ ],
+ "sheep|n": [
+  {
+   "gloss": "Woolly domesticated ruminant animal.",
+   "cue": "Literal; the actual farm or wild animal."
+  },
+  {
+   "gloss": "Timid, defenseless, or easily led person.",
+   "cue": "Figurative; someone passive or susceptible to influence."
+  }
+ ],
+ "cut|v": [
+  {
+   "gloss": "Divide, separate, or sever with instrument.",
+   "cue": "Using knife, scissors; penetrating or dividing surface."
+  },
+  {
+   "gloss": "Reduce in size, amount, or intensity.",
+   "cue": "Lessen; make smaller; 'cut costs', 'cut staff'."
+  },
+  {
+   "gloss": "Shape, form, or carve by cutting.",
+   "cue": "Creating a shape; sculpting or forming from material."
+  },
+  {
+   "gloss": "Stop, interrupt, or move abruptly.",
+   "cue": "Halt; change direction; cease; 'cut the filming', 'cut class'."
+  }
+ ],
+ "used|v": [
+  {
+   "gloss": "Put to service or employ for purpose.",
+   "cue": "Application; utilize something as a tool or resource."
+  },
+  {
+   "gloss": "Consume or expend.",
+   "cue": "Use up; deplete; 'used all the sugar'."
+  },
+  {
+   "gloss": "Accustomed or habituated to something.",
+   "cue": "Past tense; familiar through repeated experience; 'used to'."
+  }
+ ],
+ "authors|n": [
+  {
+   "gloss": "People who write books, articles, or works.",
+   "cue": "Profession; writers creating literary or textual work."
+  },
+  {
+   "gloss": "People who originate or cause something.",
+   "cue": "Initiators; those responsible for creating or starting."
+  }
+ ],
+ "anode|n": [
+  {
+   "gloss": "Positive electrode in electrical device.",
+   "cue": "Electrical context; where current enters or leaves externally."
+  }
+ ],
+ "black|n": [
+  {
+   "gloss": "Darkest color; total absence of light.",
+   "cue": "Color reference; darkest visible state."
+  },
+  {
+   "gloss": "Black cloth worn for mourning or ceremony.",
+   "cue": "Traditional attire; signifies mourning or formal occasion."
+  },
+  {
+   "gloss": "Person of African descent or heritage.",
+   "cue": "Racial or ethnic reference; people of African origin."
+  }
+ ],
+ "keyboard|n": [
+  {
+   "gloss": "Set of keys for typing or input.",
+   "cue": "Computer or typewriter; input device with keys."
+  },
+  {
+   "gloss": "Component of musical instrument.",
+   "cue": "Piano, organ, synthesizer; black and white keys."
+  }
+ ],
+ "added|v": [
+  {
+   "gloss": "Combine with others; join or unite.",
+   "cue": "Increase total; include something more; mix in."
+  },
+  {
+   "gloss": "State or say something further.",
+   "cue": "Supply information additionally; speak more on topic."
+  }
+ ],
+ "Education|n": [
+  {
+   "gloss": "Process of learning and acquiring knowledge.",
+   "cue": "Learning activity; instruction or intellectual development."
+  },
+  {
+   "gloss": "Knowledge or understanding gained through learning.",
+   "cue": "Result of learning; what someone knows or understands."
+  },
+  {
+   "gloss": "System or field of teaching and schooling.",
+   "cue": "Institution or profession; formal programs or practices."
+  }
+ ],
+ "colony|n": [
+  {
+   "gloss": "Settlement established in new territory.",
+   "cue": "Geographical; group settling and maintaining home ties."
+  },
+  {
+   "gloss": "Territory controlled by distant country.",
+   "cue": "Political; land under foreign rule or administration."
+  },
+  {
+   "gloss": "Group of organisms living together.",
+   "cue": "Biological; ant colony, coral colony, bacteria colony."
+  }
+ ],
+ "been|v": [
+  {
+   "gloss": "Link subject to predicate or attribute.",
+   "cue": "Past participle of be; predicate or copula function."
+  },
+  {
+   "gloss": "Auxiliary for passive voice or perfect aspect.",
+   "cue": "With past participle; 'has been done', 'was being'."
+  },
+  {
+   "gloss": "Exist; occur; take place.",
+   "cue": "Existential or locative past form."
+  }
+ ],
+ "president|n": [
+  {
+   "gloss": "Head of state of republic or nation.",
+   "cue": "Political office; chief executive of government."
+  },
+  {
+   "gloss": "Officer presiding over organization.",
+   "cue": "Corporate or institutional leader; head of company."
+  }
+ ],
+ "installed|v": [
+  {
+   "gloss": "Set up or put into working order.",
+   "cue": "Physical placement; ready equipment for use."
+  },
+  {
+   "gloss": "Put into office or formal position.",
+   "cue": "Ceremonial; induct someone into role or status."
+  }
+ ],
+ "processes|n": [
+  {
+   "gloss": "Course of action; procedure or method.",
+   "cue": "How something is done; step-by-step practice."
+  },
+  {
+   "gloss": "Continuous phenomenon changing through stages.",
+   "cue": "Gradual development; event unfolding over time."
+  },
+  {
+   "gloss": "Natural or biological operation within body.",
+   "cue": "Organic functioning; biological or mental activity."
+  }
+ ],
+ "homer|n": [
+  {
+   "gloss": "Home run in baseball.",
+   "cue": "Baseball term; batter reaches home plate."
+  },
+  {
+   "gloss": "Pigeon trained to return home.",
+   "cue": "Animal; homing pigeon bred for navigation."
+  },
+  {
+   "gloss": "Devoted fan of a team.",
+   "cue": "Sports context; biased enthusiast favoring home team."
+  }
+ ],
+ "studies|n": [
+  {
+   "gloss": "Learning and understanding a subject.",
+   "cue": "Intellectual work; research or examination of topic."
+  },
+  {
+   "gloss": "Document or report of findings.",
+   "cue": "Written research; formal analysis or investigation."
+  },
+  {
+   "gloss": "Preliminary sketch or work in progress.",
+   "cue": "Artistic; draft or practice piece before final work."
+  },
+  {
+   "gloss": "Room designed for reading and work.",
+   "cue": "Physical space; personal office or study room."
+  }
+ ],
+ "Roman Catholics|n": [
+  {
+   "gloss": "Members of Roman Catholic Church.",
+   "cue": "Religious; plural of person following Catholic faith."
+  }
+ ],
+ "wield|v": [
+  {
+   "gloss": "Handle or use skillfully.",
+   "cue": "Manipulate tool or weapon with control; use effectively."
+  },
+  {
+   "gloss": "Exercise authority or influence.",
+   "cue": "Metaphorical; command or control power or authority."
+  }
+ ],
+ "listened|v": [
+  {
+   "gloss": "Hear with attention; pay close heed.",
+   "cue": "Actively focus on sound; give consideration to."
+  }
+ ],
+ "city|n": [
+  {
+   "gloss": "Large densely populated urban area.",
+   "cue": "Geography; metropolis with many inhabitants and infrastructure."
+  },
+  {
+   "gloss": "People or inhabitants of a city.",
+   "cue": "Collective; citizens or residents of urban place."
+  }
+ ],
+ "even|r": [
+  {
+   "gloss": "Emphasize or intensify; especially for contrast.",
+   "cue": "Surprising or extreme example; 'even a child knows'."
+  },
+  {
+   "gloss": "To a greater degree; further in comparison.",
+   "cue": "Comparative use; more extreme than before; 'even stronger'."
+  },
+  {
+   "gloss": "Notwithstanding; despite or in spite of.",
+   "cue": "Concessive; but still true; 'even so', 'even when'."
+  }
+ ],
+ "seen|v": [
+  {
+   "gloss": "Perceive with eyes; observe visually.",
+   "cue": "Visual perception; observe something with sight."
+  },
+  {
+   "gloss": "Understand mentally; comprehend or interpret.",
+   "cue": "Cognitive; grasp meaning; 'I see what you mean'."
+  },
+  {
+   "gloss": "Meet or encounter; have contact with.",
+   "cue": "Social interaction; come together with someone."
+  },
+  {
+   "gloss": "Visit; go to see a place or person.",
+   "cue": "Travel or attend; seek out for meeting or visit."
+  }
+ ],
+ "including|v": [
+  {
+   "gloss": "Have as part; comprise or contain.",
+   "cue": "Inclusive; include within a group or set."
+  }
+ ],
+ "first|r": [
+  {
+   "gloss": "Before anything else in sequence.",
+   "cue": "Temporal order; initial action or stage."
+  },
+  {
+   "gloss": "In front or ahead in space or importance.",
+   "cue": "Priority or forward position; foremost."
+  }
+ ],
+ "substituted|v": [
+  {
+   "gloss": "Put one thing in place of another.",
+   "cue": "Exchange or replace; trade or swap out."
+  },
+  {
+   "gloss": "Act in place of someone or something.",
+   "cue": "Serve as replacement; fill role temporarily."
+  }
+ ],
+ "handling|n": [
+  {
+   "gloss": "Physical touching or manipulating with hands.",
+   "cue": "Manual contact; tactile use of hands on object."
+  },
+  {
+   "gloss": "Management or care of something.",
+   "cue": "Administration; how something is managed or treated."
+  }
+ ],
+ "activity|n": [
+  {
+   "gloss": "Specific action or behavior.",
+   "cue": "What someone or something does; particular conduct."
+  },
+  {
+   "gloss": "State of being active; energetic motion.",
+   "cue": "Level of functioning; degree of busyness or action."
+  },
+  {
+   "gloss": "Organic or chemical process.",
+   "cue": "Biological or scientific; function within system."
+  }
+ ],
+ "made|v": [
+  {
+   "gloss": "Create or produce something new.",
+   "cue": "Manufacturing; construct or fashion an object."
+  },
+  {
+   "gloss": "Cause something to become or occur.",
+   "cue": "Causation; bring about a state or change."
+  },
+  {
+   "gloss": "Perform or carry out an action.",
+   "cue": "Do or execute; 'made a decision', 'made an effort'."
+  },
+  {
+   "gloss": "Reach or achieve a goal or destination.",
+   "cue": "Attain; succeed in reaching; 'made it home'."
+  },
+  {
+   "gloss": "Earn money or gain benefit.",
+   "cue": "Financial; generate income or profit."
+  }
+ ],
+ "holder|n": [
+  {
+   "gloss": "Device or container for holding something.",
+   "cue": "Physical object designed to contain or support."
+  },
+  {
+   "gloss": "Person who possesses or holds something.",
+   "cue": "Owner or keeper; one maintaining control."
+  }
+ ],
+ "body|n": [
+  {
+   "gloss": "Physical structure of organism; flesh and bones.",
+   "cue": "Anatomy; the material form of living being."
+  },
+  {
+   "gloss": "Main or central part of something.",
+   "cue": "The bulk; core section distinct from extremities."
+  },
+  {
+   "gloss": "Group or organization of people.",
+   "cue": "Collective; organization with shared purpose."
+  },
+  {
+   "gloss": "Corpse; dead body of person or animal.",
+   "cue": "Death context; remains of living being."
+  }
+ ],
+ "debt|n": [
+  {
+   "gloss": "Money or obligation owed to another.",
+   "cue": "Financial; owing something of value to someone."
+  }
+ ],
+ "Secretary of the Interior|n": [
+  {
+   "gloss": "US government official overseeing interior department.",
+   "cue": "Government title; administrative position in cabinet."
+  }
+ ],
+ "involve|v": [
+  {
+   "gloss": "Have as a necessary part or component.",
+   "cue": "Include; this process involves several steps."
+  },
+  {
+   "gloss": "Engage someone in activity or responsibility.",
+   "cue": "Draw in; implicate; cause participation in something."
+  },
+  {
+   "gloss": "Make intricate or complex.",
+   "cue": "Complicate; make harder to understand or manage."
+  }
+ ],
+ "substantial|s": [
+  {
+   "gloss": "Large in size, amount, or importance.",
+   "cue": "Significant; considerable; noteworthy in scale or value."
+  },
+  {
+   "gloss": "Real, actual, or material in substance.",
+   "cue": "Not imaginary; solid; physically existing."
+  },
+  {
+   "gloss": "Solid, strong, or firmly constructed.",
+   "cue": "Durable; well-built; substantial in quality or structure."
+  }
+ ],
+ "limited|s": [
+  {
+   "gloss": "Restricted or confined within boundaries.",
+   "cue": "Having limits; not unlimited or abundant."
+  }
+ ],
+ "Duclos|n": [
+  {
+   "gloss": "A person's name; proper noun.",
+   "cue": "Personal identifier; refers to individual named Duclos."
+  }
+ ],
+ "new|a": [
+  {
+   "gloss": "Recently made, created, or discovered.",
+   "cue": "Recent origin; freshly produced or found."
+  },
+  {
+   "gloss": "Different from before; current versus former.",
+   "cue": "Replacement; changed; 'new car', 'new leader'."
+  },
+  {
+   "gloss": "Unfamiliar or strange; not previously known.",
+   "cue": "Novel; new to experience; 'new idea', 'new place'."
+  }
+ ],
+ "was|v": [
+  {
+   "gloss": "Copula: quality, identity, equation",
+   "cue": "Links subject to adjective, noun, or predicate; be + complement"
+  },
+  {
+   "gloss": "Existential or locative: exist, be located",
+   "cue": "Indicates existence or position; where is X? there is/was X"
+  },
+  {
+   "gloss": "Event: occur or take place",
+   "cue": "Something happened; during a time; temporal situation"
+  }
+ ],
+ "early|a": [
+  {
+   "gloss": "Before expected or usual time",
+   "cue": "Sooner than anticipated; ahead of schedule; premature"
+  },
+  {
+   "gloss": "In initial phase or stage",
+   "cue": "Near start of period; beginning of development; nascent"
+  }
+ ],
+ "given|v": [
+  {
+   "gloss": "Provide or supply something",
+   "cue": "Give information, access, item; furnish; deliver"
+  },
+  {
+   "gloss": "Transfer possession or ownership",
+   "cue": "Give money, gift, property; ownership changes hands"
+  },
+  {
+   "gloss": "Cause to have or produce",
+   "cue": "Result in; bring about; cause effect or outcome"
+  },
+  {
+   "gloss": "Execute or perform",
+   "cue": "Hold event, give speech, issue order, organize"
+  }
+ ],
+ "believed|v": [
+  {
+   "gloss": "Accept as true",
+   "cue": "Think true; trust; accept claim or account"
+  },
+  {
+   "gloss": "Hold as opinion or judgment",
+   "cue": "Regard as; suppose; consider to be; think"
+  }
+ ],
+ "see|v": [
+  {
+   "gloss": "Perceive with eyes; visual perception",
+   "cue": "Look at; watch; observe with sight; witness"
+  },
+  {
+   "gloss": "Understand mentally; comprehend",
+   "cue": "Grasp meaning; perceive idea; realize; get point"
+  },
+  {
+   "gloss": "Meet or visit in person",
+   "cue": "Encounter; visit somebody; go to see; social visit"
+  }
+ ],
+ "argument|n": [
+  {
+   "gloss": "Reason or evidence supporting position",
+   "cue": "Logical claim; assertion offered as proof; premise"
+  },
+  {
+   "gloss": "Dispute or contentious disagreement",
+   "cue": "Quarrel; conflicting viewpoints; heated exchange"
+  },
+  {
+   "gloss": "Summary or plot outline",
+   "cue": "Overview of content; synopsis of work; abstract"
+  },
+  {
+   "gloss": "Input parameter or variable",
+   "cue": "Function input; computational parameter; data value"
+  }
+ ],
+ "year|n": [
+  {
+   "gloss": "Calendar period of 365 or 366 days",
+   "cue": "Annual cycle; twelve-month span; specific year"
+  },
+  {
+   "gloss": "Period devoted to activity or role",
+   "cue": "School year; fiscal year; seasonal period; phase"
+  },
+  {
+   "gloss": "Cohort or group graduating together",
+   "cue": "Class group; birth cohort; age group; same year"
+  }
+ ],
+ "helps|v": [
+  {
+   "gloss": "Give assistance or aid",
+   "cue": "Support; provide help; assist person; lend hand"
+  },
+  {
+   "gloss": "Improve or make better",
+   "cue": "Beneficial effect; enhance; ameliorate condition"
+  },
+  {
+   "gloss": "Contribute to outcome",
+   "cue": "Facilitate; further; contribute to result; enable"
+  }
+ ],
+ "shot|v": [
+  {
+   "gloss": "Hit or kill with projectile",
+   "cue": "Fire weapon; shoot gun; strike with missile; kill"
+  },
+  {
+   "gloss": "Photograph or film",
+   "cue": "Take picture; make recording; capture on film"
+  },
+  {
+   "gloss": "Move rapidly or suddenly",
+   "cue": "Dart; rush; move fast; go quickly; flee"
+  },
+  {
+   "gloss": "Throw or propel in sports",
+   "cue": "Throw ball; shoot goal; score; propel forcefully"
+  }
+ ],
+ "manufacturer|n": [
+  {
+   "gloss": "Business making products",
+   "cue": "Company; factory; production firm"
+  },
+  {
+   "gloss": "Person engaged in manufacturing",
+   "cue": "Producer; maker; craftsperson; factory worker"
+  }
+ ],
+ "reassure|v": [
+  {
+   "gloss": "Restore confidence; alleviate fear",
+   "cue": "Comfort; make feel safe; calm; give assurance"
+  },
+  {
+   "gloss": "Reinsure in insurance sense",
+   "cue": "Insurance; underwrite; transfer risk; reinsure"
+  }
+ ],
+ "get rid of|v": [
+  {
+   "gloss": "Remove or eliminate",
+   "cue": "Discard; dispose; free from; remove; eliminate"
+  }
+ ],
+ "washed|v": [
+  {
+   "gloss": "Clean with water and soap",
+   "cue": "Cleanse; scrub; rinse; clean body or object"
+  },
+  {
+   "gloss": "Erode or sweep away",
+   "cue": "Move by water; carry away; erode channel; flow"
+  },
+  {
+   "gloss": "Apply thin coating",
+   "cue": "Paint thinly; cover surface; apply layer"
+  }
+ ],
+ "stimulating|a": [
+  {
+   "gloss": "Arousing interest or engagement",
+   "cue": "Engaging; thought-provoking; exciting; rousing interest"
+  }
+ ],
+ "means|n": [
+  {
+   "gloss": "Method or way to achieve end",
+   "cue": "Instrument; tool; way; instrumentality; agency"
+  },
+  {
+   "gloss": "Resources or wealth",
+   "cue": "Money; income; capital; financial resources"
+  },
+  {
+   "gloss": "Average or statistical mean",
+   "cue": "Mathematical average; numerical mean"
+  }
+ ],
+ "problems|n": [
+  {
+   "gloss": "Difficulty needing resolution",
+   "cue": "Challenge; trouble; issue; situation to solve"
+  },
+  {
+   "gloss": "Question or puzzle to solve",
+   "cue": "Exercise; riddle; problem set; homework item"
+  }
+ ],
+ "held|v": [
+  {
+   "gloss": "Grasp or keep with hand",
+   "cue": "Grip; clutch; hold in hand; physically hold"
+  },
+  {
+   "gloss": "Contain or have within",
+   "cue": "Carry; accommodate; include; have capacity for"
+  },
+  {
+   "gloss": "Retain or keep stored",
+   "cue": "Keep; retain; preserve; maintain in memory"
+  },
+  {
+   "gloss": "Maintain position or state",
+   "cue": "Support; sustain; keep steady; remain in place"
+  },
+  {
+   "gloss": "Organize or conduct",
+   "cue": "Hold meeting; run event; conduct; organize"
+  },
+  {
+   "gloss": "Believe or maintain opinion",
+   "cue": "Assert; maintain view; hold belief; think"
+  }
+ ],
+ "ending|v": [
+  {
+   "gloss": "Come to conclusion or finish",
+   "cue": "Terminate; conclude; finish; come to end"
+  },
+  {
+   "gloss": "Cause to end",
+   "cue": "Finish something; bring to conclusion; halt"
+  }
+ ],
+ "were|v": [
+  {
+   "gloss": "Copula: quality, identity, equation",
+   "cue": "Links subject to adjective, noun, or complement"
+  },
+  {
+   "gloss": "Existential or locative",
+   "cue": "Indicates existence or position; there were"
+  },
+  {
+   "gloss": "Event or occurrence",
+   "cue": "Something happened; take place; occur"
+  }
+ ],
+ "analysis|n": [
+  {
+   "gloss": "Detailed examination of components",
+   "cue": "Investigation; breakdown; study of parts; examine"
+  },
+  {
+   "gloss": "Literary or textual examination",
+   "cue": "Study of structure; literary criticism; text analysis"
+  },
+  {
+   "gloss": "Psychoanalytic method",
+   "cue": "Mental health treatment; psychotherapy; therapeutic"
+  },
+  {
+   "gloss": "Mathematical or statistical method",
+   "cue": "Calculus; math analysis; statistical study"
+  }
+ ],
+ "appeared|v": [
+  {
+   "gloss": "Come into view or sight",
+   "cue": "Become visible; show up; emerge; come into view"
+  },
+  {
+   "gloss": "Seem or give impression",
+   "cue": "Appear to be; give appearance; seem; look"
+  },
+  {
+   "gloss": "Be published or released",
+   "cue": "Come out; be issued; get published; be released"
+  },
+  {
+   "gloss": "Come into existence",
+   "cue": "Arise; emerge; come into being; materialize"
+  },
+  {
+   "gloss": "Perform or present formally",
+   "cue": "Appear on stage; perform; present oneself; appear in court"
+  }
+ ],
+ "ball|n": [
+  {
+   "gloss": "Spherical object or shape",
+   "cue": "Round ball; sphere; ball-shaped object"
+  },
+  {
+   "gloss": "Ball used in sports",
+   "cue": "Sports equipment; play ball; game ball"
+  },
+  {
+   "gloss": "Compact mass or cluster",
+   "cue": "Lump; ball of material; rounded cluster"
+  },
+  {
+   "gloss": "Formal dance event",
+   "cue": "Formal dance; gala; ball event; dance party"
+  },
+  {
+   "gloss": "Projectile or ammunition",
+   "cue": "Cannonball; shot; ammunition; missile"
+  }
+ ],
+ "feed|v": [
+  {
+   "gloss": "Give food to nourish",
+   "cue": "Provide food; feed person; nourish; give meal"
+  },
+  {
+   "gloss": "Consume or eat food",
+   "cue": "Eat; take in food; consume; feed (animals)"
+  },
+  {
+   "gloss": "Supply or input to machine",
+   "cue": "Insert; supply; input to; furnish to device"
+  },
+  {
+   "gloss": "Exploit or take advantage of",
+   "cue": "Feed on; exploit; profit from; sustain on"
+  }
+ ],
+ "scours|n": [
+  {
+   "gloss": "Diarrhea in livestock",
+   "cue": "Disease; digestive illness; intestinal infection"
+  },
+  {
+   "gloss": "Eroded channel or area",
+   "cue": "Scoured place; erosion channel; eroded area"
+  }
+ ],
+ "acting|v": [
+  {
+   "gloss": "Perform action or deed",
+   "cue": "Do; execute; perform; carry out action"
+  },
+  {
+   "gloss": "Behave or conduct oneself",
+   "cue": "Act as; function; serve role; conduct; behave"
+  },
+  {
+   "gloss": "Perform on stage",
+   "cue": "Perform theatrical role; act in play; perform"
+  },
+  {
+   "gloss": "Pretend or feign",
+   "cue": "Act false; pretend; fake; display false behavior"
+  }
+ ],
+ "literature|n": [
+  {
+   "gloss": "Creative and artistic writings",
+   "cue": "Novels; poetry; drama; fiction; artistic writing"
+  },
+  {
+   "gloss": "Academic or scholarly writings",
+   "cue": "Technical papers; research; scholarly works"
+  },
+  {
+   "gloss": "Study or criticism of literature",
+   "cue": "Literary scholarship; literary study; criticism"
+  }
+ ],
+ "prepared|v": [
+  {
+   "gloss": "Make ready or suitable",
+   "cue": "Ready; equip; arrange; prepare for use"
+  },
+  {
+   "gloss": "Cook food",
+   "cue": "Cook; prepare meal; prepare food"
+  },
+  {
+   "gloss": "Compose or write",
+   "cue": "Draft; write; author; compose"
+  },
+  {
+   "gloss": "Train or educate",
+   "cue": "Teach; train; develop skills; educate"
+  }
+ ],
+ "happening|v": [
+  {
+   "gloss": "Come to pass or occur",
+   "cue": "Take place; transpire; occur; happen"
+  },
+  {
+   "gloss": "Occur by chance",
+   "cue": "Happen by accident; chance to; fortuitously"
+  }
+ ],
+ "morally|r": [
+  {
+   "gloss": "Ethically or according to morals",
+   "cue": "Ethics; moral principles; right and wrong"
+  },
+  {
+   "gloss": "Practically or in effect",
+   "cue": "Essentially; in effect; practically; to all intents"
+  }
+ ],
+ "break|v": [
+  {
+   "gloss": "Separate into pieces or fracture",
+   "cue": "Shatter; crack; split; break apart; fragment"
+  },
+  {
+   "gloss": "Damage or render non-functional",
+   "cue": "Make inoperable; damage; ruin; stop working"
+  },
+  {
+   "gloss": "Violate or breach",
+   "cue": "Violate law; breach promise; fail to adhere"
+  },
+  {
+   "gloss": "Interrupt or discontinue",
+   "cue": "Stop; pause; interrupt; cease; halt"
+  },
+  {
+   "gloss": "Escape or flee",
+   "cue": "Get away; break free; flee; escape"
+  },
+  {
+   "gloss": "Make submissive or obedient",
+   "cue": "Tame; train; make obedient; master; subdue"
+  }
+ ],
+ "honey|n": [
+  {
+   "gloss": "Sweet substance made by bees",
+   "cue": "Bee product; sweet food; golden liquid"
+  },
+  {
+   "gloss": "Term of endearment; beloved",
+   "cue": "Dear; darling; sweetheart; beloved person"
+  },
+  {
+   "gloss": "Desirable or attractive person",
+   "cue": "Attractive; desirable; pleasing; appealing"
+  }
+ ],
+ "disrupted|v": [
+  {
+   "gloss": "Break continuity or flow",
+   "cue": "Interrupt; stop flow; break sequence"
+  },
+  {
+   "gloss": "Throw into disorder",
+   "cue": "Disturb; disrupt order; throw into chaos"
+  }
+ ],
+ "use|n": [
+  {
+   "gloss": "Act of using or application",
+   "cue": "Utilization; application; employ; put to work"
+  },
+  {
+   "gloss": "Purpose or function",
+   "cue": "What is used for; function; purpose; intended role"
+  },
+  {
+   "gloss": "Benefit or service",
+   "cue": "Value; practical value; usefulness; service"
+  },
+  {
+   "gloss": "Manipulation or exploitation",
+   "cue": "Unfair use; advantage; exploitation; manipulation"
+  }
+ ],
+ "teams|n": [
+  {
+   "gloss": "Group working together",
+   "cue": "Cooperative unit; sports team; work group"
+  },
+  {
+   "gloss": "Harnessed draft animals",
+   "cue": "Yoked animals; paired animals; animal team"
+  }
+ ],
+ "set|v": [
+  {
+   "gloss": "Put in place or position",
+   "cue": "Place; locate; position; put down"
+  },
+  {
+   "gloss": "Fix or determine",
+   "cue": "Establish; fix; decide; determine; set rule"
+  },
+  {
+   "gloss": "Prepare or make ready",
+   "cue": "Ready; arrange; prepare for use; set up"
+  },
+  {
+   "gloss": "Put into state or condition",
+   "cue": "Cause state; create condition; set into"
+  },
+  {
+   "gloss": "Become fixed or solidify",
+   "cue": "Harden; congeal; solidify; thicken; freeze"
+  }
+ ],
+ "jet|n": [
+  {
+   "gloss": "Stream of fluid or gas",
+   "cue": "Flow; stream; spray; projectile stream"
+  },
+  {
+   "gloss": "Airplane with jet engine",
+   "cue": "Jet aircraft; jet plane; aircraft"
+  },
+  {
+   "gloss": "Engine or turbine",
+   "cue": "Jet engine; propulsion; turbine; motor"
+  },
+  {
+   "gloss": "Hard black coal",
+   "cue": "Jet coal; coal; gemstone material"
+  },
+  {
+   "gloss": "Deep grey or black color",
+   "cue": "Dark grey; deep black; coal color"
+  }
+ ],
+ "eye|n": [
+  {
+   "gloss": "Organ of vision",
+   "cue": "Visual organ; sees with; perceive light"
+  },
+  {
+   "gloss": "Visual perception or sight",
+   "cue": "Ability to see; visual sense; eyesight"
+  },
+  {
+   "gloss": "Discernment or keen perception",
+   "cue": "Eye for; keen sense; appreciation; perception"
+  },
+  {
+   "gloss": "Attention or notice",
+   "cue": "Catch eye; draw attention; attract notice"
+  },
+  {
+   "gloss": "Opening or hole",
+   "cue": "Hole; loop; opening; eye of needle; storm center"
+  }
+ ],
+ "affirmed|v": [
+  {
+   "gloss": "Establish or confirm",
+   "cue": "Verify; substantiate; confirm; establish"
+  },
+  {
+   "gloss": "Declare solemnly",
+   "cue": "Assert formally; swear; testify; declare"
+  }
+ ],
+ "project|n": [
+  {
+   "gloss": "Planned undertaking or task",
+   "cue": "Work; endeavor; task; planned effort"
+  },
+  {
+   "gloss": "Urban low-income housing",
+   "cue": "Public housing; housing development; housing project"
+  },
+  {
+   "gloss": "Impractical scheme or design",
+   "cue": "Unrealistic plan; impractical design; failed scheme"
+  }
+ ],
+ "alteration|n": [
+  {
+   "gloss": "Change or modification",
+   "cue": "Alteration; change; modification; amendment"
+  },
+  {
+   "gloss": "Clothing adjustment",
+   "cue": "Hemming; shortening; fit adjustment; tailoring"
+  },
+  {
+   "gloss": "Changed state or condition",
+   "cue": "Changed state; new condition; alteration result"
+  }
+ ],
+ "flexible|a": [
+  {
+   "gloss": "Can bend without breaking",
+   "cue": "Bendable; pliable; supple; physically flexible"
+  },
+  {
+   "gloss": "Adaptable or adjustable",
+   "cue": "Changeable; can adjust; adaptable; accommodating"
+  },
+  {
+   "gloss": "Willing to compromise",
+   "cue": "Yielding; not rigid; willing to bend; adaptable"
+  }
+ ],
+ "persons|n": [
+  {
+   "gloss": "Individual human being",
+   "cue": "Person; individual; human; human being"
+  },
+  {
+   "gloss": "Human body or physical form",
+   "cue": "Body; physical form; bodily form"
+  }
+ ],
+ "marketing|n": [
+  {
+   "gloss": "Commercial selling and promotion",
+   "cue": "Selling; promoting; distributing products"
+  },
+  {
+   "gloss": "Business processes of sales",
+   "cue": "Commercial activity; business process; commerce"
+  },
+  {
+   "gloss": "Shopping or purchasing",
+   "cue": "Shopping; buying; purchasing; retail activity"
+  }
+ ],
+ "wagons|n": [
+  {
+   "gloss": "Wheeled vehicle drawn by animal",
+   "cue": "Cart; wagon; vehicle; horse-drawn; transport"
+  },
+  {
+   "gloss": "Police transport van",
+   "cue": "Police wagon; transport van; prisoner transport"
+  },
+  {
+   "gloss": "Child's toy cart",
+   "cue": "Toy cart; play wagon; child's vehicle"
+  },
+  {
+   "gloss": "Station wagon car",
+   "cue": "Car; automobile; station wagon; long vehicle"
+  }
+ ],
+ "public|a": [
+  {
+   "gloss": "Open to general view",
+   "cue": "Not private; open; visible; known to all"
+  },
+  {
+   "gloss": "Concerning all people",
+   "cue": "Community; general; collective; communal"
+  },
+  {
+   "gloss": "Provided by government",
+   "cue": "State; official; government; public service"
+  },
+  {
+   "gloss": "Well-known or famous",
+   "cue": "Famous; prominent; well-known; public figure"
+  }
+ ],
+ "relationship|n": [
+  {
+   "gloss": "Connection or association",
+   "cue": "Link; tie; connection; relatedness"
+  },
+  {
+   "gloss": "Emotional or personal bond",
+   "cue": "Bond; attachment; emotional connection"
+  },
+  {
+   "gloss": "Romantic or sexual involvement",
+   "cue": "Dating; romantic; intimate; partnership"
+  },
+  {
+   "gloss": "Kinship or blood relation",
+   "cue": "Family; kinship; blood relation; family tie"
+  },
+  {
+   "gloss": "Interaction or dealing",
+   "cue": "Interaction; working relationship; dealings"
+  }
+ ],
+ "youth|n": [
+  {
+   "gloss": "Young person",
+   "cue": "Young man; young woman; adolescent; teenager"
+  },
+  {
+   "gloss": "Young people collectively",
+   "cue": "Young people; youth group; young generation"
+  },
+  {
+   "gloss": "Period of life; young age",
+   "cue": "Adolescence; early life; young age; immaturity"
+  },
+  {
+   "gloss": "Early development period",
+   "cue": "Early stage; early phase; beginning; inception"
+  }
+ ],
+ "transferred|v": [
+  {
+   "gloss": "Move to different location",
+   "cue": "Move; relocate; shift position; change place"
+  },
+  {
+   "gloss": "Change ownership or possession",
+   "cue": "Give ownership; pass to another; convey"
+  },
+  {
+   "gloss": "Transmit or convey",
+   "cue": "Send; pass; communicate; deliver message"
+  },
+  {
+   "gloss": "Move to new context",
+   "cue": "Transplant; adapt to new setting; relocate culturally"
+  }
+ ],
+ "put|v": [
+  {
+   "gloss": "Place in location",
+   "cue": "Place; locate; position; set down"
+  },
+  {
+   "gloss": "Put into state or condition",
+   "cue": "Cause; create condition; put in state"
+  },
+  {
+   "gloss": "Express or formulate",
+   "cue": "State; word; express; say; formulate"
+  },
+  {
+   "gloss": "Attribute or assign",
+   "cue": "Ascribe; give; assign; attribute"
+  },
+  {
+   "gloss": "Invest or commit",
+   "cue": "Invest money; commit; place funds"
+  }
+ ],
+ "far|a": [
+  {
+   "gloss": "Distant in space",
+   "cue": "Remote; distant; far away; great distance"
+  },
+  {
+   "gloss": "Distant in time",
+   "cue": "Far past; far future; long ago; remote time"
+  },
+  {
+   "gloss": "Extreme or untypical",
+   "cue": "Far from norm; extreme; not typical; far from"
+  }
+ ],
+ "act|n": [
+  {
+   "gloss": "Deed or action",
+   "cue": "Action; deed; doing; something done"
+  },
+  {
+   "gloss": "Legal statute or legislation",
+   "cue": "Law; legislation; statute; legal document"
+  },
+  {
+   "gloss": "Division of play or opera",
+   "cue": "Act of play; opera act; theatrical division"
+  },
+  {
+   "gloss": "Theatrical performance",
+   "cue": "Performer act; performance piece; stage act"
+  },
+  {
+   "gloss": "Display or pretense",
+   "cue": "Put on act; false behavior; pretense; display"
+  }
+ ],
+ "insoluble|a": [
+  {
+   "gloss": "Cannot dissolve in liquid",
+   "cue": "Undissolvable; insoluble in water; won't dissolve"
+  },
+  {
+   "gloss": "Cannot be solved",
+   "cue": "No solution; unsolvable; cannot be resolved"
+  }
+ ],
+ "center on|v": [
+  {
+   "gloss": "Focus or concentrate on",
+   "cue": "Center on; focus on; concentrate; center attention"
+  }
+ ],
+ "appealing|a": [
+  {
+   "gloss": "Attractive or engaging",
+   "cue": "Interesting; attractive; appealing; engaging"
+  },
+  {
+   "gloss": "Sympathetic or evocative",
+   "cue": "Sympathetic; evoking empathy; touching; moving"
+  }
+ ],
+ "inappropriate|a": [
+  {
+   "gloss": "Not suitable for situation",
+   "cue": "Improper; unfit; unsuitable; wrong for occasion"
+  },
+  {
+   "gloss": "Adult or indecent content",
+   "cue": "Sexual; indecent; adult; improper content"
+  }
+ ],
+ "Today|n": [
+  {
+   "gloss": "Current or present day",
+   "cue": "This day; current day; today specifically"
+  },
+  {
+   "gloss": "Present era or time",
+   "cue": "Modern times; contemporary; present time"
+  }
+ ],
+ "tell|v": [
+  {
+   "gloss": "Express or communicate",
+   "cue": "Say; speak; inform; tell someone; say to"
+  },
+  {
+   "gloss": "Narrate or recount",
+   "cue": "Tell story; recount; describe; give account"
+  },
+  {
+   "gloss": "Direct or order",
+   "cue": "Command; instruct; order; direct; tell to"
+  },
+  {
+   "gloss": "Discern or distinguish",
+   "cue": "Notice; perceive difference; tell apart; see"
+  },
+  {
+   "gloss": "Have effect or make difference",
+   "cue": "Matter; have effect; show; be apparent"
+  }
+ ],
+ "Using|v": [
+  {
+   "gloss": "Put into service or employ",
+   "cue": "Employ; use; utilize; put to use"
+  },
+  {
+   "gloss": "Consume or use up",
+   "cue": "Use up; consume; deplete; expend"
+  },
+  {
+   "gloss": "Exploit or manipulate",
+   "cue": "Use to advantage; exploit; manipulate; take advantage"
+  }
+ ],
+ "passing|n": [
+  {
+   "gloss": "Throwing in football",
+   "cue": "Football pass; throwing play; forward pass"
+  },
+  {
+   "gloss": "Moving past or going by",
+   "cue": "Overtaking; transition; moving past; passage"
+  },
+  {
+   "gloss": "Death or dying",
+   "cue": "Death; dying; end of life; death (euphemism)"
+  },
+  {
+   "gloss": "Success or approval",
+   "cue": "Pass test; success; approval; passing grade"
+  }
+ ],
+ "estimated|v": [
+  {
+   "gloss": "Calculate or judge amount",
+   "cue": "Estimate; calculate; reckon; judge amount"
+  },
+  {
+   "gloss": "Judge likely or probable",
+   "cue": "Think likely; suppose; judge probable; estimate"
+  }
+ ],
+ "experience|n": [
+  {
+   "gloss": "Accumulated knowledge or skill",
+   "cue": "Learning; expertise; knowledge; experience gained"
+  },
+  {
+   "gloss": "Event or occurrence",
+   "cue": "Incident; happening; event; occurrence; experience"
+  },
+  {
+   "gloss": "Activity or engagement",
+   "cue": "Activity; activity performed; engagement; participation"
+  }
+ ],
+ "offer|v": [
+  {
+   "gloss": "Make available or provide",
+   "cue": "Provide; furnish; make available; supply"
+  },
+  {
+   "gloss": "Present for acceptance",
+   "cue": "Propose; tender; present; offer to"
+  },
+  {
+   "gloss": "Volunteer or agree freely",
+   "cue": "Volunteer; proffer; offer to help; agree freely"
+  },
+  {
+   "gloss": "Offer for sale",
+   "cue": "Sell; put on sale; offer for purchase"
+  },
+  {
+   "gloss": "Present in performance",
+   "cue": "Perform; present; stage; dedicate; perform work"
+  }
+ ],
+ "witnessed|v": [
+  {
+   "gloss": "Be witness to; observe",
+   "cue": "See; observe; witness; testify to; be present"
+  },
+  {
+   "gloss": "Be contemporaneous with",
+   "cue": "Occur during; happen during; be contemporaneous"
+  }
+ ],
+ "applications|n": [
+  {
+   "gloss": "Formal request for job or admission",
+   "cue": "Application form; request; formal petition"
+  },
+  {
+   "gloss": "Act of applying or using",
+   "cue": "Application; practical use; application of"
+  },
+  {
+   "gloss": "Computer program or software",
+   "cue": "Software; app; computer program; application software"
+  },
+  {
+   "gloss": "Topical preparation or medicine",
+   "cue": "Medicine; lotion; topical; preparation; treatment"
+  }
+ ],
+ "seeking|v": [
+  {
+   "gloss": "Try to find or locate",
+   "cue": "Search; look for; seek out; search for"
+  },
+  {
+   "gloss": "Try to obtain or achieve",
+   "cue": "Pursue; seek; aim for; strive for"
+  },
+  {
+   "gloss": "Inquire or ask for",
+   "cue": "Request; ask for; inquire for; request"
+  }
+ ],
+ "females|n": [
+  {
+   "gloss": "Female animal",
+   "cue": "Animal; female creature; produces ova; animal female"
+  },
+  {
+   "gloss": "Female person",
+   "cue": "Woman; girl; female person; female human"
+  }
+ ]
+}

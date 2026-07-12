@@ -1,0 +1,221 @@
+[
+  {"word": "or", "senses": [
+    {"gloss": "joins alternative words, phrases, or clauses", "cue": "either X or Y; help or impede"},
+    {"gloss": "introduces a restatement or approximation", "cue": "or so; five or six; in other words"}
+  ]},
+  {"word": "world", "senses": [
+    {"gloss": "the planet Earth; the globe", "cue": "World War II; around the world"},
+    {"gloss": "a specific setting, domain, or milieu", "cue": "the game world; the art world"},
+    {"gloss": "humanity or society as a whole", "cue": "people in general; all mankind"}
+  ]},
+  {"word": "did", "senses": [
+    {"gloss": "auxiliary verb marking question, negation, or emphasis", "cue": "did not have; did she; did sign"},
+    {"gloss": "performed or carried out an action", "cue": "did research; did the painting"}
+  ]},
+  {"word": "received", "senses": [
+    {"gloss": "got or was given something", "cue": "received a gift, award, or position"},
+    {"gloss": "underwent or was met with a treatment or reaction", "cue": "received no instructions; well received"}
+  ]},
+  {"word": "according", "senses": [
+    {"gloss": "as stated by, or in agreement with, a source", "cue": "according to Sega, historians, instructions"}
+  ]},
+  {"word": "even", "senses": [
+    {"gloss": "adverb stressing something surprising or extreme", "cue": "even paid; even though; even more"},
+    {"gloss": "equal, level, or balanced", "cue": "even amounts; even features; even score"}
+  ]},
+  {"word": "side", "senses": [
+    {"gloss": "a direction or location relative to a center", "cue": "north side; right side; each side"},
+    {"gloss": "a team, faction, or contestant", "cue": "the Confederate side; a youth side"},
+    {"gloss": "a surface or face of an object", "cue": "sides of the crystal; gun port on each side"},
+    {"gloss": "an aspect, opinion, or position in a dispute", "cue": "two sides to every question"}
+  ]},
+  {"word": "different", "senses": [
+    {"gloss": "not alike; distinct from others", "cue": "different squad members; different approaches"}
+  ]},
+  {"word": "making", "senses": [
+    {"gloss": "creating, building, or producing something", "cue": "making packing boxes; making a dress"},
+    {"gloss": "causing a change of state or event", "cue": "making the game more forgiving; making a start"}
+  ]},
+  {"word": "felt", "senses": [
+    {"gloss": "held a belief, opinion, or emotion", "cue": "felt that; felt resentful; felt regret"},
+    {"gloss": "perceived something through physical touch", "cue": "felt the wind; felt an object"}
+  ]},
+  {"word": "sent", "senses": [
+    {"gloss": "caused a person or thing to go somewhere", "cue": "sent troops; sent to command"},
+    {"gloss": "transmitted or dispatched information or goods", "cue": "sent word; sent down the river"}
+  ]},
+  {"word": "go", "senses": [
+    {"gloss": "move or travel to a place", "cue": "nowhere to go; go to Cuba"},
+    {"gloss": "proceed, develop, or turn out a certain way", "cue": "where the game would go; went well"},
+    {"gloss": "enter into or undergo a state or activity", "cue": "go through dry spells; go on a date"}
+  ]},
+  {"word": "added", "senses": [
+    {"gloss": "said further; stated in addition", "cue": "he added that action would be taken"},
+    {"gloss": "combined with something to increase it", "cue": "added to the building; domes added"}
+  ]},
+  {"word": "events", "senses": [
+    {"gloss": "things that happen or occur", "cue": "these events; the events at the arsenal"}
+  ]},
+  {"word": "finished", "senses": [
+    {"gloss": "completed or brought to an end", "cue": "finished the dishes; development finished"},
+    {"gloss": "ended up placing at a certain rank", "cue": "finished last; finished in 8th place"}
+  ]},
+  {"word": "outside", "senses": [
+    {"gloss": "the exterior; physically not inside", "cue": "outside Japan; outside the mouth"},
+    {"gloss": "beyond a group's normal bounds or scope", "cue": "outside interests; outside missions"}
+  ]},
+  {"word": "ended", "senses": [
+    {"gloss": "came or was brought to a stop or conclusion", "cue": "relationship ended; Congress ended the series"}
+  ]},
+  {"word": "flight", "senses": [
+    {"gloss": "a trip or instance of traveling by air", "cue": "the noon flight; first flight conducted"},
+    {"gloss": "the general activity or operation of flying", "cue": "flight training; commercial air transport"},
+    {"gloss": "an act of fleeing or escaping", "cue": "flight of the ships from battle"}
+  ]},
+  {"word": "claimed", "senses": [
+    {"gloss": "asserted something as true", "cue": "claimed that; claimed to be"},
+    {"gloss": "demanded as one's right or took credit", "cue": "claimed his suitcases; claimed credit"}
+  ]},
+  {"word": "paul", "senses": [
+    {"gloss": "a male given name, referring to a person", "cue": "Paul Rudd; Paul Weitz; Saint Paul"}
+  ]},
+  {"word": "lines", "senses": [
+    {"gloss": "rows or formations of people or things", "cue": "line of soldiers; enemy lines"},
+    {"gloss": "marks or strokes on a surface", "cue": "drew a line; boundary lines"},
+    {"gloss": "channels for communication or transmission", "cue": "telegraph lines; lines of communication"},
+    {"gloss": "an approach, course, or manner of acting", "cue": "divided along similar lines"}
+  ]},
+  {"word": "shortly", "senses": [
+    {"gloss": "soon; a short time afterward", "cue": "shortly after; shortly afterward"}
+  ]},
+  {"word": "hot", "senses": [
+    {"gloss": "having a high temperature; very warm", "cue": "hot spots; Hot Jupiter planets"},
+    {"gloss": "currently popular, trendy, or talked about", "cue": "Hot List; hot young talents"}
+  ]},
+  {"word": "critical", "senses": [
+    {"gloss": "finding fault or expressing disapproval", "cue": "critical of his performance"},
+    {"gloss": "vitally important or urgently needed", "cue": "critical to the supply; critical shortage"}
+  ]},
+  {"word": "tons", "senses": [
+    {"gloss": "a unit of weight (2000 or 2240 lbs)", "cue": "displaced 500 tons; tonnage"},
+    {"gloss": "an informally large amount", "cue": "tons of new friends"}
+  ]},
+  {"word": "ireland", "senses": [
+    {"gloss": "the country or island of Ireland", "cue": "in the UK and Ireland; northern Ireland"}
+  ]},
+  {"word": "creek", "senses": [
+    {"gloss": "a small natural stream", "cue": "crosses over Pumpkin Creek"},
+    {"gloss": "a Native American people (the Creek)", "cue": "member of the Creek Confederacy"}
+  ]},
+  {"word": "unable", "senses": [
+    {"gloss": "not able; lacking the means or capacity", "cue": "unable to pursue; unable to come to terms"}
+  ]},
+  {"word": "johnson", "senses": [
+    {"gloss": "a surname, referring to a person", "cue": "Jack Johnson; President Johnson"}
+  ]},
+  {"word": "writers", "senses": [
+    {"gloss": "people who write, especially professionally", "cue": "team of writers; Writers Guild"}
+  ]},
+  {"word": "produce", "senses": [
+    {"gloss": "fresh fruit and vegetables grown for sale", "cue": "the produce of North and South"},
+    {"gloss": "to create, generate, or manufacture something", "cue": "produce a movie; produce an effect"}
+  ]},
+  {"word": "subject", "senses": [
+    {"gloss": "the topic or theme being discussed", "cue": "subject matter; subject of the sacraments"},
+    {"gloss": "liable, exposed, or subordinate to something", "cue": "subject to taxation; held subject to"}
+  ]},
+  {"word": "hold", "senses": [
+    {"gloss": "to grasp or keep in one's hands", "cue": "hold this bowl; took hold of"},
+    {"gloss": "a ship's or aircraft's cargo storage space", "cue": "depth of hold; feet of hold"},
+    {"gloss": "to maintain a position, rank, or belief", "cue": "hold the highest position; hold out"},
+    {"gloss": "to organize or conduct an event", "cue": "hold a referendum; hold a reception"}
+  ]},
+  {"word": "slightly", "senses": [
+    {"gloss": "to a small degree", "cue": "slightly less massive; slightly higher"}
+  ]},
+  {"word": "completely", "senses": [
+    {"gloss": "totally; to the fullest extent", "cue": "completely exhausted; completely fictional"}
+  ]},
+  {"word": "situation", "senses": [
+    {"gloss": "the overall circumstances at a given time or place", "cue": "take control of the situation"}
+  ]},
+  {"word": "designated", "senses": [
+    {"gloss": "officially assigned a name, status, or role", "cue": "designated a landmark; route was designated"}
+  ]},
+  {"word": "lot", "senses": [
+    {"gloss": "a large quantity or amount", "cue": "a lot of people; a lot of effort"},
+    {"gloss": "a parcel or plot of land", "cue": "a lot on the lake; parking lot"}
+  ]},
+  {"word": "assembly", "senses": [
+    {"gloss": "a legislative or governing body", "cue": "General Assembly; Legislative Assembly"},
+    {"gloss": "a gathering of people, or a named event", "cue": "right of assembly; Assembly music competition"}
+  ]},
+  {"word": "studios", "senses": [
+    {"gloss": "a facility for recording or producing media or art", "cue": "recording studios; mixed at Tarpan Studios"}
+  ]},
+  {"word": "nominated", "senses": [
+    {"gloss": "proposed as a candidate for an honor or position", "cue": "nominated for a Grammy or Emmy Award"}
+  ]},
+  {"word": "activities", "senses": [
+    {"gloss": "things done; actions or pursuits", "cue": "ordnance activities; daily activities"}
+  ]},
+  {"word": "background", "senses": [
+    {"gloss": "the scene or setting behind the main subject", "cue": "in the background; sky background"},
+    {"gloss": "a person's history, experience, or qualifications", "cue": "his own background story"},
+    {"gloss": "ambient or incidental noise or context", "cue": "background noise; background vocals"}
+  ]},
+  {"word": "analysis", "senses": [
+    {"gloss": "a detailed examination of something's parts", "cue": "phylogenetic analysis; analysis of data"}
+  ]},
+  {"word": "hits", "senses": [
+    {"gloss": "instances of striking or being struck", "cue": "scored two hits; five large caliber hits"},
+    {"gloss": "popular, successful songs or works", "cue": "greatest hits album; The Hits"}
+  ]},
+  {"word": "chose", "senses": [
+    {"gloss": "selected one option over others", "cue": "chose not to; chose to accept"}
+  ]},
+  {"word": "towns", "senses": [
+    {"gloss": "populated places smaller than a city", "cue": "towns and regions; major towns"}
+  ]},
+  {"word": "aid", "senses": [
+    {"gloss": "help, assistance, or support given", "cue": "with the aid of; gave aid"}
+  ]},
+  {"word": "palace", "senses": [
+    {"gloss": "a grand official residence of a notable person", "cue": "Apostolic Palace; Winter Palace"}
+  ]},
+  {"word": "humans", "senses": [
+    {"gloss": "human beings; people", "cue": "humans and gods; humankind"}
+  ]},
+  {"word": "rain", "senses": [
+    {"gloss": "water falling from clouds; precipitation", "cue": "heavy rain; rain and flooding"}
+  ]},
+  {"word": "southwest", "senses": [
+    {"gloss": "the compass direction between south and west", "cue": "seven miles southwest of Madison"},
+    {"gloss": "a named region or organization", "cue": "the Southwest Oncology Group"}
+  ]},
+  {"word": "warning", "senses": [
+    {"gloss": "a message alerting to danger or risk", "cue": "hurricane warning; warning of bombs"}
+  ]},
+  {"word": "eighth", "senses": [
+    {"gloss": "position or number eight in a sequence", "cue": "eighth overall pick; eighth place"}
+  ]},
+  {"word": "judge", "senses": [
+    {"gloss": "a court official presiding over legal cases", "cue": "judge dismissed the motion"},
+    {"gloss": "someone who evaluates a contest or competition", "cue": "guest judge on Iron Chef"}
+  ]},
+  {"word": "indicated", "senses": [
+    {"gloss": "showed, suggested, or stated something", "cue": "survey indicated; evidence indicated"}
+  ]},
+  {"word": "speaking", "senses": [
+    {"gloss": "using spoken language; talking", "cue": "capable of speaking; characters speaking"},
+    {"gloss": "addressing or discussing a topic", "cue": "speaking in an interview; speaking of the season"}
+  ]},
+  {"word": "ways", "senses": [
+    {"gloss": "methods or manners of doing something", "cue": "depicted in several ways; limited in many ways"},
+    {"gloss": "paths, routes, or directions taken", "cue": "went their separate ways; parted ways"}
+  ]},
+  {"word": "fly", "senses": [
+    {"gloss": "travel through the air; operate an aircraft", "cue": "fly professionally; fly the aircraft"},
+    {"gloss": "(informal) work successfully; be viable", "cue": "could never make that fly"}
+  ]}
+]

@@ -1,0 +1,564 @@
+[
+ {
+  "word": "are",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Copula: express quality or identity", "cue": "Links subject to adjective or noun (is happy, is John)"},
+   {"gloss": "Locative: exist or be located in place", "cue": "Indicates where something is (is here, is in the back)"},
+   {"gloss": "Auxiliary: form perfect or progressive", "cue": "Helps form tense (are playing, are found)"}
+  ]
+ },
+ {
+  "word": "had",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Possess or have in one's control", "cue": "Someone owns or controls something"},
+   {"gloss": "Auxiliary: form past perfect tense", "cue": "Shows past action before another past action"},
+   {"gloss": "Experience or undergo event", "cue": "Subject goes through state or event (had an accident)"}
+  ]
+ },
+ {
+  "word": "led",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Guide or conduct someone to place", "cue": "Person takes another somewhere"},
+   {"gloss": "Result in or cause as consequence", "cue": "Action or circumstance produces outcome"},
+   {"gloss": "Be in charge of or head group", "cue": "Direct or manage people or project"}
+  ]
+ },
+ {
+  "word": "find",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Discover or locate something lost", "cue": "Search for and recover missing object"},
+   {"gloss": "Determine by investigation or study", "cue": "Establish fact through research or analysis"},
+   {"gloss": "Discover or experience in context", "cue": "Encounter or meet with something"}
+  ]
+ },
+ {
+  "word": "types",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Categories or kinds of things", "cue": "Groups distinguished by characteristics"},
+   {"gloss": "Printed characters or symbols", "cue": "Shapes representing letters or glyphs"}
+  ]
+ },
+ {
+  "word": "gram",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Unit of mass in metric system", "cue": "Measure of weight (one thousandth kilogram)"}
+  ]
+ },
+ {
+  "word": "nation",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Politically organized sovereign state", "cue": "Country with government and territory"},
+   {"gloss": "People inhabiting a country", "cue": "Group of citizens or population"},
+   {"gloss": "Indigenous people or tribe", "cue": "Federally recognized ethnic or cultural group"}
+  ]
+ },
+ {
+  "word": "back",
+  "pos": "r",
+  "senses": [
+   {"gloss": "To or toward rear position", "cue": "Direction opposite to front"},
+   {"gloss": "To former or original state", "cue": "Return to previous condition"},
+   {"gloss": "In return or reciprocal action", "cue": "Exchange or response (hit back, reply back)"}
+  ]
+ },
+ {
+  "word": "met",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Encounter or come together with", "cue": "Come into contact with person"},
+   {"gloss": "Satisfy or fulfill requirement", "cue": "Meet standard or need"},
+   {"gloss": "Experience or undergo event", "cue": "Be subjected to or encounter adversity"}
+  ]
+ },
+ {
+  "word": "deduced",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Reason or infer from evidence", "cue": "Conclude by logical reasoning from facts"}
+  ]
+ },
+ {
+  "word": "dispositions",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Mood or characteristic temperament", "cue": "Habitual emotional state or tendency"},
+   {"gloss": "Arrangement or settlement of matter", "cue": "How something is dealt with or settled"}
+  ]
+ },
+ {
+  "word": "hijackers",
+  "pos": "n",
+  "senses": [
+   {"gloss": "People who forcibly take vehicle", "cue": "Use force to seize plane or car"}
+  ]
+ },
+ {
+  "word": "same",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Identical in all respects", "cue": "One and only one (same person twice)"},
+   {"gloss": "Similar or comparable in kind", "cue": "Alike in quality or appearance"}
+  ]
+ },
+ {
+  "word": "influence",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Power or ability to affect others", "cue": "Capacity to change what people do"},
+   {"gloss": "Effect of one thing on another", "cue": "Result or impact produced"},
+   {"gloss": "Person or thing that affects", "cue": "Who or what causes the effect"}
+  ]
+ },
+ {
+  "word": "outward",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Relating to or toward exterior", "cue": "Concerning the outside or surface"},
+   {"gloss": "Going out or departing", "cue": "Movement away from inside"},
+   {"gloss": "Visible or apparent to observer", "cue": "What can be seen or noticed"}
+  ]
+ },
+ {
+  "word": "taking",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Seize or capture by force", "cue": "Take possession of something"},
+   {"gloss": "Carry or convey to destination", "cue": "Transport person or thing somewhere"},
+   {"gloss": "Require time or space", "cue": "Use up duration or distance"}
+  ]
+ },
+ {
+  "word": "honored",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Show respect or recognition for", "cue": "Treat with esteem or tribute"},
+   {"gloss": "Bestow award or reward upon", "cue": "Give honor or official recognition"}
+  ]
+ },
+ {
+  "word": "sensitivity",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Responsiveness to physical stimuli", "cue": "Ability to detect sensation or small change"},
+   {"gloss": "Emotional awareness or empathy", "cue": "Understanding of feelings in self and others"}
+  ]
+ },
+ {
+  "word": "people",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Group of human beings collectively", "cue": "Two or more persons considered together"},
+   {"gloss": "Citizens or population of place", "cue": "Inhabitants of country or region"},
+   {"gloss": "One's relatives or family members", "cue": "Ancestors or close relations"}
+  ]
+ },
+ {
+  "word": "U.S.",
+  "pos": "n",
+  "senses": [
+   {"gloss": "United States government or nation", "cue": "North American federal republic"}
+  ]
+ },
+ {
+  "word": "gives",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Transfer possession of something", "cue": "Hand over or grant to recipient"},
+   {"gloss": "Cause or produce as result", "cue": "Be source or origin of effect"},
+   {"gloss": "Convey information or gesture", "cue": "Communicate through word, look, or action"}
+  ]
+ },
+ {
+  "word": "appear",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Seem to be or look like", "cue": "Give impression or outward aspect"},
+   {"gloss": "Come into sight or view", "cue": "Become visible or arrive on scene"},
+   {"gloss": "Be published or issued", "cue": "Come out in print or on stage"}
+  ]
+ },
+ {
+  "word": "Snead",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Professional golfer (proper name)", "cue": "Specific historical person"}
+  ]
+ },
+ {
+  "word": "work",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Activity or effort directed at task", "cue": "Labor or exertion to accomplish goal"},
+   {"gloss": "Occupation or employment", "cue": "Job or position one is paid for"},
+   {"gloss": "Product or creation", "cue": "Result of artistic or intellectual effort"}
+  ]
+ },
+ {
+  "word": "franchise",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Authorization to sell company goods", "cue": "Right to operate business under brand"}
+  ]
+ },
+ {
+  "word": "Shelley",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Romantic era author (proper name)", "cue": "Specific historical writer"}
+  ]
+ },
+ {
+  "word": "boy",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Male child or young man", "cue": "Youth of male gender"},
+   {"gloss": "Son of any age", "cue": "Male offspring"},
+   {"gloss": "Male friend or companion", "cue": "Familiar term for associate"}
+  ]
+ },
+ {
+  "word": "Whipple",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Medical procedure (proper noun)", "cue": "Specific surgical operation"}
+  ]
+ },
+ {
+  "word": "Yankees",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Americans generally", "cue": "Citizens or natives of United States"},
+   {"gloss": "New Englanders or Northerners", "cue": "People from northern regions"}
+  ]
+ },
+ {
+  "word": "like",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Enjoy or find agreeable", "cue": "Experience pleasure in something"},
+   {"gloss": "Find attractive or favor", "cue": "Prefer or regard positively"},
+   {"gloss": "Want or desire to have", "cue": "Wish for or request"}
+  ]
+ },
+ {
+  "word": "leave",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Depart from or go away", "cue": "Exit or abandon place"},
+   {"gloss": "Allow to remain as is", "cue": "Refrain from taking or disturbing"},
+   {"gloss": "Put in care of or bequeath", "cue": "Entrust to or pass to recipient"}
+  ]
+ },
+ {
+  "word": "offered",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Make available or present", "cue": "Provide or furnish for use"},
+   {"gloss": "Agree or volunteer to do", "cue": "Willingly promise or commit"},
+   {"gloss": "Propose for consideration", "cue": "Suggest or put forward idea"}
+  ]
+ },
+ {
+  "word": "all",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Whole quantity or every part", "cue": "Complete total including nothing left"},
+   {"gloss": "Every single one", "cue": "All individuals in group without exception"}
+  ]
+ },
+ {
+  "word": "being",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Copula: express quality or identity", "cue": "Links subject to adjective or noun"},
+   {"gloss": "Locative: exist or occupy place", "cue": "State of presence somewhere"},
+   {"gloss": "Auxiliary: form progressive tense", "cue": "Shows ongoing action"}
+  ]
+ },
+ {
+  "word": "returned",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Go or come back to place", "cue": "Arrive again at original location"},
+   {"gloss": "Give back or restore", "cue": "Hand over or return possession"},
+   {"gloss": "Revert to previous state", "cue": "Go back to former condition"}
+  ]
+ },
+ {
+  "word": "elevated",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Raise in position or rank", "cue": "Promote to higher status or level"},
+   {"gloss": "Lift up physically", "cue": "Move upward in space"}
+  ]
+ },
+ {
+  "word": "formula",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Mathematical or symbolic expression", "cue": "Symbols representing relationship"},
+   {"gloss": "Directions or procedure for making", "cue": "Instructions to follow step by step"},
+   {"gloss": "Established principle or method", "cue": "Conventional rule or approach"}
+  ]
+ },
+ {
+  "word": "medium",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Material or substance for communication", "cue": "Channel through which message passes"},
+   {"gloss": "Environment or surrounding material", "cue": "Substance or space where things exist"},
+   {"gloss": "Middle state or average", "cue": "Point between extremes"}
+  ]
+ },
+ {
+  "word": "Congress",
+  "pos": "n",
+  "senses": [
+   {"gloss": "U.S. legislative body", "cue": "Senate and House of Representatives"},
+   {"gloss": "Meeting of representatives", "cue": "Assembly of elected or appointed delegates"}
+  ]
+ },
+ {
+  "word": "Cows",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Cattle or domesticated bovine animals", "cue": "Farm animals for milk and meat"}
+  ]
+ },
+ {
+  "word": "dynamic",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Characterized by energy and action", "cue": "Active, forceful, or powerful"},
+   {"gloss": "Changing or developing over time", "cue": "Not static or fixed"}
+  ]
+ },
+ {
+  "word": "naked",
+  "pos": "s",
+  "senses": [
+   {"gloss": "Unclothed or without garments", "cue": "Body bare of clothing"},
+   {"gloss": "Unadorned or plain", "cue": "Lacking decoration or elaboration"},
+   {"gloss": "Unarmed or unprotected", "cue": "Without covering or defense"}
+  ]
+ },
+ {
+  "word": "begin",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Start or initiate action", "cue": "Take first step into something"},
+   {"gloss": "Come into existence", "cue": "Have beginning in time"},
+   {"gloss": "Start speaking", "cue": "Open one's mouth to speak"}
+  ]
+ },
+ {
+  "word": "dressed",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Put on clothes or garments", "cue": "Clothe self or another"},
+   {"gloss": "Prepare or arrange for use", "cue": "Make ready or decorate"},
+   {"gloss": "Apply dressing or treatment", "cue": "Bandage or apply seasoning"}
+  ]
+ },
+ {
+  "word": "style",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Manner of expression or creation", "cue": "How something is done or presented"},
+   {"gloss": "Fashion or appearance", "cue": "Way of dressing or looking"},
+   {"gloss": "Botanical structure of flower", "cue": "Stalk connecting stigma to ovary"}
+  ]
+ },
+ {
+  "word": "gained",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Obtain or acquire something", "cue": "Get possession of"},
+   {"gloss": "Win or achieve goal", "cue": "Succeed in reaching objective"},
+   {"gloss": "Increase in amount or rate", "cue": "Grow or rise in number"}
+  ]
+ },
+ {
+  "word": "object",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Tangible physical thing", "cue": "Concrete entity you can see or touch"},
+   {"gloss": "Goal or aim intended", "cue": "Purpose or target of action"},
+   {"gloss": "Grammatical constituent", "cue": "Word receiving action in sentence"}
+  ]
+ },
+ {
+  "word": "brush",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Tool with bristles for cleaning", "cue": "Implement for brushing hair or paint"},
+   {"gloss": "Wild shrubby vegetation", "cue": "Dense growth of bushes or undergrowth"},
+   {"gloss": "Brief encounter or contact", "cue": "Quick or passing interaction"}
+  ]
+ },
+ {
+  "word": "Louis / 15",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Historical or textual reference", "cue": "Specific name or designation"}
+  ]
+ },
+ {
+  "word": "confusion",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Lack of clarity or order", "cue": "Disorder or disorderly state"},
+   {"gloss": "Mistaking one thing for another", "cue": "Error from confusing distinct items"},
+   {"gloss": "Embarrassment or shame", "cue": "Feeling of being confused"}
+  ]
+ },
+ {
+  "word": "came",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Move toward or arrive at place", "cue": "Travel to or reach destination"},
+   {"gloss": "Reach state or condition", "cue": "Come to be or become"},
+   {"gloss": "Originate or result from", "cue": "Have source in or stem from"},
+   {"gloss": "Happen or occur in sequence", "cue": "Take place in order"}
+  ]
+ },
+ {
+  "word": "only",
+  "pos": "r",
+  "senses": [
+   {"gloss": "And nothing more or else", "cue": "Exclusively or solely"},
+   {"gloss": "Except or but", "cue": "With exception that"},
+   {"gloss": "As recently as", "cue": "Just before now"}
+  ]
+ },
+ {
+  "word": "persistent",
+  "pos": "s",
+  "senses": [
+   {"gloss": "Refusing to stop or give up", "cue": "Continuing despite difficulty"},
+   {"gloss": "Regularly recurring in mind", "cue": "Happening repeatedly or constantly"},
+   {"gloss": "Lasting or enduring", "cue": "Remaining over time"}
+  ]
+ },
+ {
+  "word": "completely",
+  "pos": "r",
+  "senses": [
+   {"gloss": "Thoroughly or to full extent", "cue": "In every part or aspect"},
+   {"gloss": "Totally or utterly", "cue": "To extreme degree"}
+  ]
+ },
+ {
+  "word": "club",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Team or sports organization", "cue": "Group of athletes playing together"},
+   {"gloss": "Association or group with shared interest", "cue": "Members joining for common purpose"},
+   {"gloss": "Weapon or implement for hitting", "cue": "Stick or bludgeon"},
+   {"gloss": "Golf equipment", "cue": "Implement to strike golf ball"}
+  ]
+ },
+ {
+  "word": "adds",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Join or combine with others", "cue": "Include something more"},
+   {"gloss": "State or say further", "cue": "Continue speaking with more"},
+   {"gloss": "Increase amount or quality", "cue": "Make more or greater"}
+  ]
+ },
+ {
+  "word": "intermediate",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Between two extremes", "cue": "In the middle of range"},
+   {"gloss": "Of middle rank or degree", "cue": "Neither highest nor lowest"}
+  ]
+ },
+ {
+  "word": "maintain",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Keep in certain state or condition", "cue": "Preserve or sustain"},
+   {"gloss": "Support with necessities", "cue": "Provide for or feed"},
+   {"gloss": "Assert or declare firmly", "cue": "Claim or state positively"}
+  ]
+ },
+ {
+  "word": "ways",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Plural: methods or paths", "cue": "Different means or routes"},
+   {"gloss": "Distance or journey", "cue": "Space traveled"},
+   {"gloss": "Manner or mode of behavior", "cue": "Habitual conduct or action"}
+  ]
+ },
+ {
+  "word": "suffered",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Undergo hardship or pain", "cue": "Experience hurt or distress"},
+   {"gloss": "Endure or put up with", "cue": "Bear or tolerate something unpleasant"},
+   {"gloss": "Be harmed or damaged", "cue": "Have condition worsen"}
+  ]
+ },
+ {
+  "word": "declared",
+  "pos": "v",
+  "senses": [
+   {"gloss": "State or assert formally", "cue": "Announce with certainty or authority"},
+   {"gloss": "Make official announcement", "cue": "Publicly proclaim or reveal"},
+   {"gloss": "Designate or choose", "cue": "Formally specify or select"}
+  ]
+ },
+ {
+  "word": "completed",
+  "pos": "s",
+  "senses": [
+   {"gloss": "Finished or brought to end", "cue": "No more work needed"}
+  ]
+ },
+ {
+  "word": "less",
+  "pos": "r",
+  "senses": [
+   {"gloss": "Smaller in amount or degree", "cue": "Comparative form of little"},
+   {"gloss": "Not as much", "cue": "Reduced quantity or extent"}
+  ]
+ },
+ {
+  "word": "boys",
+  "pos": "n",
+  "senses": [
+   {"gloss": "Male children or young men", "cue": "Youth of male gender"},
+   {"gloss": "Male friends or companions", "cue": "Associates or peers"}
+  ]
+ },
+ {
+  "word": "doing",
+  "pos": "v",
+  "senses": [
+   {"gloss": "Engage in or perform action", "cue": "Carry out activity or task"},
+   {"gloss": "Manage or proceed", "cue": "Get along or handle"},
+   {"gloss": "Create or make", "cue": "Produce or construct"}
+  ]
+ },
+ {
+  "word": "rough",
+  "pos": "a",
+  "senses": [
+   {"gloss": "Uneven or not smooth", "cue": "Irregular surface or texture"},
+   {"gloss": "Approximate or inexact", "cue": "Not precise or detailed"},
+   {"gloss": "Turbulent or violent", "cue": "Agitated or forceful"},
+   {"gloss": "Crude or unrefined", "cue": "Lacking polish or sophistication"},
+   {"gloss": "Difficult or harsh", "cue": "Trying or unpleasant"}
+  ]
+ }
+]

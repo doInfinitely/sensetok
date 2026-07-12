@@ -1,0 +1,259 @@
+[
+  {"word": "game", "senses": [
+    {"gloss": "organized contest or activity with rules", "cue": "play a game, video game, match"},
+    {"gloss": "wild animals hunted for food or sport", "cue": "game meat, hunting season"},
+    {"gloss": "secret plan or risky scheme", "cue": "play a dangerous game, concocted a plot"},
+    {"gloss": "willing to face danger; plucky", "cue": "a game leg, game for anything"}
+  ]},
+  {"word": "number", "senses": [
+    {"gloss": "a quantity, count, or numeral", "cue": "number of units, write the number"},
+    {"gloss": "an identifying or telephone number", "cue": "phone number, ID number"},
+    {"gloss": "verb: assign numbers to, or total", "cue": "number the pages, amounted to"},
+    {"gloss": "a song or act in a show", "cue": "dance number, musical number"}
+  ]},
+  {"word": "around", "senses": [
+    {"gloss": "in or through the surrounding area", "cue": "move around, wander around"},
+    {"gloss": "approximately", "cue": "around ten, roughly an hour"},
+    {"gloss": "focused on or based on a concept", "cue": "designed around, built around"}
+  ]},
+  {"word": "much", "senses": [
+    {"gloss": "a great amount or degree", "cue": "much time, much darker, very much"},
+    {"gloss": "often; frequently", "cue": "don't drink much, don't travel much"}
+  ]},
+  {"word": "late", "senses": [
+    {"gloss": "near or toward the end of a period", "cue": "late evening, late in the game"},
+    {"gloss": "after the expected time; delayed", "cue": "arrived late, late for the plane"},
+    {"gloss": "no longer living; deceased", "cue": "her late husband, our late president"}
+  ]},
+  {"word": "h", "senses": [
+    {"gloss": "abbreviation for hour in units", "cue": "km/h, mph"},
+    {"gloss": "initial or abbreviation in a name", "cue": "H. Roots, H. Foster"},
+    {"gloss": "chemical symbol for hydrogen", "cue": "hydrogen gas, H2O"}
+  ]},
+  {"word": "former", "senses": [
+    {"gloss": "previous; belonging to an earlier time", "cue": "former president, former team"},
+    {"gloss": "the first of two things mentioned", "cue": "the former, not the latter"}
+  ]},
+  {"word": "production", "senses": [
+    {"gloss": "the act or process of making something", "cue": "music production, production team"},
+    {"gloss": "a staged performance (film, theater, show)", "cue": "film production, stage production"},
+    {"gloss": "the quantity produced; output", "cue": "production declined, production levels"}
+  ]},
+  {"word": "royal", "senses": [
+    {"gloss": "relating to or befitting a monarch", "cue": "royal family, royal succession, Royal Navy"}
+  ]},
+  {"word": "center", "senses": [
+    {"gloss": "the middle point or area of something", "cue": "center of town, center stage"},
+    {"gloss": "a building or institution for an activity", "cue": "research center, arts center"},
+    {"gloss": "a position in team sports", "cue": "play center, faceoff"},
+    {"gloss": "verb: to focus on", "cue": "centered on, revolved around"}
+  ]},
+  {"word": "body", "senses": [
+    {"gloss": "the physical form of a person or animal", "cue": "human body, body confidence"},
+    {"gloss": "a dead body; corpse", "cue": "found the body"},
+    {"gloss": "an organized group acting as one entity", "cue": "governing body, legislative body"},
+    {"gloss": "the main or central part of an object", "cue": "body of the car, body of text"}
+  ]},
+  {"word": "station", "senses": [
+    {"gloss": "a building or facility for a service", "cue": "train station, fire station"},
+    {"gloss": "a military post or assigned base", "cue": "naval station, RAAF station"},
+    {"gloss": "a broadcast channel or frequency", "cue": "radio station, TV station"}
+  ]},
+  {"word": "strong", "senses": [
+    {"gloss": "having great power, force, or intensity", "cue": "strong influence, strong odor"},
+    {"gloss": "numbering a group in strength", "cue": "a garrison 200 strong"}
+  ]},
+  {"word": "command", "senses": [
+    {"gloss": "authority or control over others", "cue": "under his command, in command"},
+    {"gloss": "an order or instruction", "cue": "gave the command, obey orders"},
+    {"gloss": "a military unit or headquarters", "cue": "Army Command, naval command"},
+    {"gloss": "mastery or skill of a subject", "cue": "good command of French"}
+  ]},
+  {"word": "cross", "senses": [
+    {"gloss": "verb: to go across or traverse", "cue": "cross the border, cross country"},
+    {"gloss": "a cross-shaped object or symbol", "cue": "wooden cross, religious cross"},
+    {"gloss": "a medal or award named Cross", "cue": "Air Force Cross, Victoria Cross"},
+    {"gloss": "adjective: irritable or angry", "cue": "feeling cross, cross with someone"}
+  ]},
+  {"word": "earlier", "senses": [
+    {"gloss": "before in time; previously", "cue": "earlier in the season, earlier releases"}
+  ]},
+  {"word": "better", "senses": [
+    {"gloss": "adjective: superior in quality", "cue": "better player, better weather"},
+    {"gloss": "adverb: to a more effective degree", "cue": "describes it better, better blockade"},
+    {"gloss": "verb: to surpass or improve", "cue": "bettered her own record"}
+  ]},
+  {"word": "stone", "senses": [
+    {"gloss": "hard mineral material; rock", "cue": "built of stone, stone wall"},
+    {"gloss": "part of a proper name (magazine, surname)", "cue": "Rolling Stone, Justice Stone"},
+    {"gloss": "a unit of weight (14 pounds)", "cue": "weighs several stone"}
+  ]},
+  {"word": "introduced", "senses": [
+    {"gloss": "brought something new into use or existence", "cue": "introduced a rule, introduced light aircraft"},
+    {"gloss": "presented someone to an audience formally", "cue": "introduced before the crowd"},
+    {"gloss": "made two people acquainted", "cue": "introduced the neighbors"}
+  ]},
+  {"word": "winning", "senses": [
+    {"gloss": "adjective: victorious; having won", "cue": "winning team, winning streak, winning goal"},
+    {"gloss": "verb: achieving victory", "cue": "winning in overtime, winning both games"},
+    {"gloss": "charming; attractive", "cue": "winning smile, winning personality"}
+  ]},
+  {"word": "commander", "senses": [
+    {"gloss": "an officer in charge of a military unit", "cue": "commander of the squadron"},
+    {"gloss": "a specific naval officer rank", "cue": "Commander Richard L., below captain"}
+  ]},
+  {"word": "appointed", "senses": [
+    {"gloss": "assigned to a position, office, or duty", "cue": "appointed as commander, appointed to reform"},
+    {"gloss": "fixed or set in advance", "cue": "at the appointed time"}
+  ]},
+  {"word": "nature", "senses": [
+    {"gloss": "the essential character or quality of something", "cue": "nature of the problem, benthic in nature"},
+    {"gloss": "the natural physical world", "cue": "preserve nature, conservation of nature"},
+    {"gloss": "a person's inherent temperament", "cue": "gentle nature, generous by nature"}
+  ]},
+  {"word": "yards", "senses": [
+    {"gloss": "a unit of length (3 feet)", "cue": "100 yards, distance in yards"},
+    {"gloss": "an enclosed area of land around buildings", "cue": "railway yard, clear their yards"},
+    {"gloss": "a spar supporting a ship's sail", "cue": "lost several yards, rigging"}
+  ]},
+  {"word": "fans", "senses": [
+    {"gloss": "enthusiastic followers or supporters", "cue": "sports fans, fan base"},
+    {"gloss": "a device that creates airflow", "cue": "ceiling fan, cooling fan"}
+  ]},
+  {"word": "lived", "senses": [
+    {"gloss": "resided somewhere; led a way of life", "cue": "lived in Africa, lived frugally"},
+    {"gloss": "existed for a, often brief, duration", "cue": "short-lived, long-lived"}
+  ]},
+  {"word": "inside", "senses": [
+    {"gloss": "within an enclosed space or place", "cue": "inside the building, inside the car"},
+    {"gloss": "private, confidential, or exclusive", "cue": "inside information, inside knowledge"}
+  ]},
+  {"word": "suffered", "senses": [
+    {"gloss": "underwent or experienced something unpleasant", "cue": "suffered an injury, suffered damage"}
+  ]},
+  {"word": "jackson", "senses": [
+    {"gloss": "surname of notable people", "cue": "Michael Jackson, Andrew Jackson, Phil Jackson"},
+    {"gloss": "a place name (city or town)", "cue": "Jackson, Mississippi"}
+  ]},
+  {"word": "organization", "senses": [
+    {"gloss": "a group or institution formed for a purpose", "cue": "the organization, ICAO"},
+    {"gloss": "the act or process of organizing", "cue": "organizational skills, organizing an event"}
+  ]},
+  {"word": "founded", "senses": [
+    {"gloss": "established or set up an institution", "cue": "founded a company, founded in 1990"},
+    {"gloss": "based or grounded upon", "cue": "founded on evidence, founded on facts"}
+  ]},
+  {"word": "write", "senses": [
+    {"gloss": "compose a literary, musical, or artistic work", "cue": "write a novel, write music"},
+    {"gloss": "communicate in writing to someone", "cue": "write to me, write a letter"}
+  ]},
+  {"word": "silver", "senses": [
+    {"gloss": "the precious metal, or things made of it", "cue": "silver coins, silver bracelet"},
+    {"gloss": "an award or certification level", "cue": "silver certification, silver medal"},
+    {"gloss": "adjective: light grey color", "cue": "silver hair, silvery"}
+  ]},
+  {"word": "baseball", "senses": [
+    {"gloss": "the sport played with a bat and ball", "cue": "baseball game, playing baseball"},
+    {"gloss": "the ball used in the sport", "cue": "baseball-sized, hit by a baseball"}
+  ]},
+  {"word": "expressed", "senses": [
+    {"gloss": "stated a feeling or opinion in words", "cue": "expressed her anger, expressed that she would like"},
+    {"gloss": "represented or conveyed through some form", "cue": "expressed in myths, expressed in kilometers"}
+  ]},
+  {"word": "legal", "senses": [
+    {"gloss": "relating to law or the legal system", "cue": "legal system, legal profession"},
+    {"gloss": "permitted or valid under the law", "cue": "legal tender, legal pass"}
+  ]},
+  {"word": "therefore", "senses": [
+    {"gloss": "as a consequence; for that reason", "cue": "therefore, as a result"}
+  ]},
+  {"word": "passing", "senses": [
+    {"gloss": "moving through or past a place", "cue": "passing through, passing by"},
+    {"gloss": "declining or forgoing an opportunity", "cue": "passing up a contract offer"},
+    {"gloss": "presenting oneself falsely as something", "cue": "passing itself off as"}
+  ]},
+  {"word": "care", "senses": [
+    {"gloss": "attentive effort to do something safely; caution", "cue": "took care, with great care"},
+    {"gloss": "responsibility for tending to someone's needs", "cue": "medical care, care of her mother"},
+    {"gloss": "verb: to feel concern or interest", "cue": "I care about, don't care"}
+  ]},
+  {"word": "brothers", "senses": [
+    {"gloss": "male siblings", "cue": "my brothers, elder brothers"},
+    {"gloss": "fellow members of a group; comrades", "cue": "brothers in arms, fellow brothers"}
+  ]},
+  {"word": "individuals", "senses": [
+    {"gloss": "single human beings, as persons", "cue": "several individuals, teams and individuals"},
+    {"gloss": "single organisms, in biology", "cue": "individuals sequenced in the study"}
+  ]},
+  {"word": "surrounding", "senses": [
+    {"gloss": "adjective: nearby, encircling an area", "cue": "surrounding buildings, surrounding countryside"},
+    {"gloss": "verb: to encircle or enclose completely", "cue": "forest surrounds the property"}
+  ]},
+  {"word": "occur", "senses": [
+    {"gloss": "happen or take place", "cue": "rarely occur, may occur with"},
+    {"gloss": "exist or be found somewhere", "cue": "occurs in Brazil, found in wheatfields"},
+    {"gloss": "come to mind", "cue": "it occurred to me that"}
+  ]},
+  {"word": "serve", "senses": [
+    {"gloss": "function as, or fulfill a role or purpose", "cue": "serve as a coach, serve as an indicator"},
+    {"gloss": "provide with food, goods, or assistance", "cue": "serve meals, serve customers"},
+    {"gloss": "noun: a shot that starts play in a sport", "cue": "powerful serve, serve the ball"}
+  ]},
+  {"word": "retired", "senses": [
+    {"gloss": "stopped working; left one's job permanently", "cue": "retired from the NHL, retired at 68"},
+    {"gloss": "withdrew or moved away or back", "cue": "retired to the library, retired from chess"}
+  ]},
+  {"word": "rejected", "senses": [
+    {"gloss": "refused to accept, approve, or believe something", "cue": "rejected the idea, rejected the theme"},
+    {"gloss": "refused to accept or spurned a person", "cue": "rejected by his peers, spurned advances"}
+  ]},
+  {"word": "types", "senses": [
+    {"gloss": "category or kind of something", "cue": "types of units, types of phenomena"},
+    {"gloss": "printed or typed characters; font", "cue": "bold type, small type"}
+  ]},
+  {"word": "containing", "senses": [
+    {"gloss": "having something as a part; including", "cue": "album containing songs, box containing items"},
+    {"gloss": "holding back or restraining", "cue": "contain the outbreak, contain the fire"}
+  ]},
+  {"word": "expedition", "senses": [
+    {"gloss": "an organized journey or campaign for a purpose", "cue": "military expedition, exploring expedition"}
+  ]},
+  {"word": "drawn", "senses": [
+    {"gloss": "pulled or hauled, esp. by animals", "cue": "horse-drawn carriage"},
+    {"gloss": "derived or obtained from a source", "cue": "drawn from records, drawn from experience"},
+    {"gloss": "depicted or portrayed in art or writing", "cue": "well-drawn characters, drew a picture"},
+    {"gloss": "elicited or attracted a response", "cue": "drawn criticism, drew praise"}
+  ]},
+  {"word": "defined", "senses": [
+    {"gloss": "stated the meaning or established the scope of something", "cue": "defined the term, defined the scope"},
+    {"gloss": "adjective: clearly outlined or delineated", "cue": "well-defined edges, clearly defined shape"}
+  ]},
+  {"word": "learned", "senses": [
+    {"gloss": "acquired knowledge or found out something", "cue": "learned a language, learned that she was"},
+    {"gloss": "adjective: having great scholarly knowledge", "cue": "learned jurist, learned professor"}
+  ]},
+  {"word": "entrance", "senses": [
+    {"gloss": "a point of access into a place", "cue": "entrance to the building, front entrance"},
+    {"gloss": "verb: to fill with wonder; captivate", "cue": "entranced by the music"}
+  ]},
+  {"word": "weakened", "senses": [
+    {"gloss": "became or made less strong or intense", "cue": "weakened by illness, storm weakened"}
+  ]},
+  {"word": "railroad", "senses": [
+    {"gloss": "a train system, its tracks, or company", "cue": "railroad tracks, railroad company"},
+    {"gloss": "verb: to coerce or pressure unfairly", "cue": "railroaded into a decision"}
+  ]},
+  {"word": "dry", "senses": [
+    {"gloss": "free from moisture or liquid; not wet", "cue": "dry weather, dry pond"},
+    {"gloss": "a period lacking activity or success", "cue": "dry spell, creative dry spell"},
+    {"gloss": "of humor: deadpan, subtly witty", "cue": "dry humor, dry wit"},
+    {"gloss": "abstaining from or prohibiting alcohol", "cue": "dry county, been dry for years"}
+  ]},
+  {"word": "extremely", "senses": [
+    {"gloss": "to a very high degree", "cue": "extremely popular, extremely cold"}
+  ]},
+  {"word": "meters", "senses": [
+    {"gloss": "unit of length in the metric system", "cue": "10 meters, meters long"},
+    {"gloss": "a measuring instrument or device", "cue": "water meter, electric meter"}
+  ]}
+]

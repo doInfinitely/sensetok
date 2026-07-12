@@ -1,0 +1,525 @@
+[
+  {
+    "word": "is",
+    "pos": "v",
+    "senses": [
+      {"gloss": "link subject with adjective or noun", "cue": "predicate + quality or identity"},
+      {"gloss": "exist in a location or position", "cue": "Where is / in/at prepositional phrase"},
+      {"gloss": "occur or have existence", "cue": "something happens or is present"}
+    ]
+  },
+  {
+    "word": "have",
+    "pos": "v",
+    "senses": [
+      {"gloss": "possess or own something", "cue": "own/contain/include a thing or property"},
+      {"gloss": "experience or undergo a state", "cue": "go through emotion, illness, or event"},
+      {"gloss": "auxiliary for perfect aspect", "cue": "have + past participle"}
+    ]
+  },
+  {
+    "word": "visual",
+    "pos": "a",
+    "senses": [
+      {"gloss": "relating to sight or vision", "cue": "about seeing or the visual sense"}
+    ]
+  },
+  {
+    "word": "sample",
+    "pos": "n",
+    "senses": [
+      {"gloss": "representative part intended to show quality", "cue": "small part shown as example"},
+      {"gloss": "subset selected for testing or observation", "cue": "group chosen for statistical or scientific study"}
+    ]
+  },
+  {
+    "word": "very",
+    "pos": "r",
+    "senses": [
+      {"gloss": "to a high degree; intensifier", "cue": "modifies adjective or adverb to emphasize"}
+    ]
+  },
+  {
+    "word": "too",
+    "pos": "r",
+    "senses": [
+      {"gloss": "also; in addition", "cue": "marks statement as equally valid with preceding"},
+      {"gloss": "to excessive degree; more than enough", "cue": "beyond proper or needed limits"}
+    ]
+  },
+  {
+    "word": "treatment",
+    "pos": "n",
+    "senses": [
+      {"gloss": "medical care to improve condition", "cue": "medical procedures or therapy"},
+      {"gloss": "manner of dealing with something", "cue": "how something is handled or managed"}
+    ]
+  },
+  {
+    "word": "pressure",
+    "pos": "n",
+    "senses": [
+      {"gloss": "force applied to a surface", "cue": "physical force or weight per area"},
+      {"gloss": "compelling influence or stress", "cue": "demands, urgency, or distress"}
+    ]
+  },
+  {
+    "word": "development",
+    "pos": "n",
+    "senses": [
+      {"gloss": "process of growth or improvement", "cue": "something becomes more advanced or complete"},
+      {"gloss": "recent event relevant to situation", "cue": "new occurrence or change in circumstances"},
+      {"gloss": "constructed land or buildings", "cue": "developed area or project"}
+    ]
+  },
+  {
+    "word": "aggregate",
+    "pos": "n",
+    "senses": [
+      {"gloss": "total amount or whole sum", "cue": "combined total of many things"},
+      {"gloss": "crushed rock or material for construction", "cue": "materials used with cement or mortar"}
+    ]
+  },
+  {
+    "word": "indicate",
+    "pos": "v",
+    "senses": [
+      {"gloss": "be a signal or symptom of", "cue": "shows or points to as evidence"},
+      {"gloss": "point out or direct attention to", "cue": "shows location or identifies something"},
+      {"gloss": "state or express briefly", "cue": "communicate concisely"}
+    ]
+  },
+  {
+    "word": "modernization",
+    "pos": "n",
+    "senses": [
+      {"gloss": "process of making something modern", "cue": "updating to contemporary style or methods"}
+    ]
+  },
+  {
+    "word": "knows",
+    "pos": "v",
+    "senses": [
+      {"gloss": "possess knowledge or information about", "cue": "aware of facts or details"},
+      {"gloss": "have skill or know how", "cue": "able to perform or do something"},
+      {"gloss": "be familiar or acquainted with", "cue": "have personal knowledge of person or place"}
+    ]
+  },
+  {
+    "word": "size",
+    "pos": "n",
+    "senses": [
+      {"gloss": "physical dimensions or magnitude", "cue": "how big or large something is"},
+      {"gloss": "particular grade or category", "cue": "standard measurement for fitting"}
+    ]
+  },
+  {
+    "word": "bruising",
+    "pos": "v",
+    "senses": [
+      {"gloss": "injure tissue causing discoloration", "cue": "physical injury to skin or tissue"},
+      {"gloss": "damage or harm feelings", "cue": "hurt emotionally or damage reputation"}
+    ]
+  },
+  {
+    "word": "turned away",
+    "pos": "v",
+    "senses": [
+      {"gloss": "redirect one's face or body", "cue": "movement away from something"}
+    ]
+  },
+  {
+    "word": "trying",
+    "pos": "v",
+    "senses": [
+      {"gloss": "make an effort or attempt", "cue": "endeavor to do or achieve something"},
+      {"gloss": "test or try out something", "cue": "put to test or experimental use"}
+    ]
+  },
+  {
+    "word": "Provided",
+    "pos": "v",
+    "senses": [
+      {"gloss": "supply or give something necessary", "cue": "make available or furnish"},
+      {"gloss": "make possible or permit", "cue": "allow or enable something to happen"}
+    ]
+  },
+  {
+    "word": "daily",
+    "pos": "r",
+    "senses": [
+      {"gloss": "occurring every day without interruption", "cue": "happens or repeats each day"}
+    ]
+  },
+  {
+    "word": "man",
+    "pos": "n",
+    "senses": [
+      {"gloss": "adult male human being", "cue": "refers to male person"},
+      {"gloss": "generic human or humanity", "cue": "refers to people in general"}
+    ]
+  },
+  {
+    "word": "continuing",
+    "pos": "v",
+    "senses": [
+      {"gloss": "persist or keep going in activity", "cue": "maintain or sustain without stopping"}
+    ]
+  },
+  {
+    "word": "probably",
+    "pos": "r",
+    "senses": [
+      {"gloss": "with considerable likelihood or certainty", "cue": "likely or presumably"}
+    ]
+  },
+  {
+    "word": "good",
+    "pos": "a",
+    "senses": [
+      {"gloss": "positive or desirable in quality", "cue": "satisfactory or high quality"},
+      {"gloss": "morally admirable or virtuous", "cue": "ethically right or just"},
+      {"gloss": "competent or skilled", "cue": "able to perform well"}
+    ]
+  },
+  {
+    "word": "putting",
+    "pos": "v",
+    "senses": [
+      {"gloss": "place in a location or position", "cue": "set down or position something"},
+      {"gloss": "cause to be in a state or condition", "cue": "make someone/something become"}
+    ]
+  },
+  {
+    "word": "method",
+    "pos": "n",
+    "senses": [
+      {"gloss": "systematic way of doing something", "cue": "orderly procedure or technique"},
+      {"gloss": "acting technique based on personal emotion", "cue": "method acting performance style"}
+    ]
+  },
+  {
+    "word": "Pro Arte",
+    "pos": "n",
+    "senses": [
+      {"gloss": "proper noun; arts organization or group", "cue": "specific named entity"}
+    ]
+  },
+  {
+    "word": "minds",
+    "pos": "n",
+    "senses": [
+      {"gloss": "brain or seat of thought and reason", "cue": "intellectual or mental faculty"},
+      {"gloss": "opinion or judgment", "cue": "what someone thinks or believes"}
+    ]
+  },
+  {
+    "word": "original",
+    "pos": "s",
+    "senses": [
+      {"gloss": "first in time; preceding all others", "cue": "earliest or primary version"},
+      {"gloss": "not copied or derived; fresh", "cue": "newly created or unique"}
+    ]
+  },
+  {
+    "word": "believe",
+    "pos": "v",
+    "senses": [
+      {"gloss": "accept as true without absolute certainty", "cue": "think or suppose something is true"},
+      {"gloss": "have religious faith or conviction", "cue": "trust in spiritual or moral truth"}
+    ]
+  },
+  {
+    "word": "asked",
+    "pos": "v",
+    "senses": [
+      {"gloss": "pose a question; inquire", "cue": "request information or answer"},
+      {"gloss": "request or petition for something", "cue": "ask someone to give or do something"}
+    ]
+  },
+  {
+    "word": "James O' Gara",
+    "pos": "n",
+    "senses": [
+      {"gloss": "proper noun; person's name", "cue": "specific individual"}
+    ]
+  },
+  {
+    "word": "P. J.",
+    "pos": "n",
+    "senses": [
+      {"gloss": "proper noun; person's initials", "cue": "specific individual"}
+    ]
+  },
+  {
+    "word": "college",
+    "pos": "n",
+    "senses": [
+      {"gloss": "institution of higher education", "cue": "school for undergraduate study"}
+    ]
+  },
+  {
+    "word": "show",
+    "pos": "n",
+    "senses": [
+      {"gloss": "public performance or entertainment", "cue": "event with audience display"},
+      {"gloss": "pretense or false appearance", "cue": "made-up or insincere display"}
+    ]
+  },
+  {
+    "word": "involved",
+    "pos": "v",
+    "senses": [
+      {"gloss": "include as necessary part or feature", "cue": "requires or contains as component"},
+      {"gloss": "engage or participate in", "cue": "take part or be connected with"},
+      {"gloss": "make complex or complicated", "cue": "mix up or make intricate"}
+    ]
+  },
+  {
+    "word": "demonstration",
+    "pos": "n",
+    "senses": [
+      {"gloss": "show or display for explanation", "cue": "visual presentation showing how something works"},
+      {"gloss": "public gathering to express group opinion", "cue": "protest or rally"}
+    ]
+  },
+  {
+    "word": "fine",
+    "pos": "s",
+    "senses": [
+      {"gloss": "satisfactory or acceptable in condition", "cue": "OK or alright"},
+      {"gloss": "of superior quality or refined", "cue": "elegant, skillful, or excellent"},
+      {"gloss": "thin or consisting of small particles", "cue": "delicate, slender, or minute"}
+    ]
+  },
+  {
+    "word": "content",
+    "pos": "n",
+    "senses": [
+      {"gloss": "what is contained or subject matter", "cue": "material, information, or substance"},
+      {"gloss": "satisfaction or contentment", "cue": "state of being pleased or satisfied"}
+    ]
+  },
+  {
+    "word": "shifted",
+    "pos": "v",
+    "senses": [
+      {"gloss": "move or change position", "cue": "move slightly or to different location"},
+      {"gloss": "change in quality or emphasis", "cue": "alter or transform something"}
+    ]
+  },
+  {
+    "word": "experiment",
+    "pos": "n",
+    "senses": [
+      {"gloss": "controlled test or trial of idea", "cue": "systematic procedure to discover something"}
+    ]
+  },
+  {
+    "word": "other",
+    "pos": "a",
+    "senses": [
+      {"gloss": "different or alternative; not the same", "cue": "refers to a different one"}
+    ]
+  },
+  {
+    "word": "local",
+    "pos": "a",
+    "senses": [
+      {"gloss": "of or from a particular place or area", "cue": "belonging to a specific community"}
+    ]
+  },
+  {
+    "word": "generally",
+    "pos": "r",
+    "senses": [
+      {"gloss": "usually or as a general rule", "cue": "in most cases or typically"}
+    ]
+  },
+  {
+    "word": "reasons",
+    "pos": "n",
+    "senses": [
+      {"gloss": "cause or motive for action", "cue": "justification or explanation for why"}
+    ]
+  },
+  {
+    "word": "room",
+    "pos": "n",
+    "senses": [
+      {"gloss": "enclosed space in a building", "cue": "area separated by walls and floor"},
+      {"gloss": "space or opportunity for something", "cue": "scope or freedom to do"}
+    ]
+  },
+  {
+    "word": "represented",
+    "pos": "v",
+    "senses": [
+      {"gloss": "stand for or symbolize something", "cue": "serves as symbol or equivalent of"},
+      {"gloss": "portray or depict as image", "cue": "create likeness or artistic rendering"},
+      {"gloss": "serve as delegate or advocate", "cue": "speak or act on behalf of"}
+    ]
+  },
+  {
+    "word": "truly",
+    "pos": "r",
+    "senses": [
+      {"gloss": "genuinely or in accordance with fact", "cue": "really or in truth"}
+    ]
+  },
+  {
+    "word": "drop",
+    "pos": "v",
+    "senses": [
+      {"gloss": "fall or let fall to ground", "cue": "move downward or release"},
+      {"gloss": "decrease in value or level", "cue": "reduce or go down"},
+      {"gloss": "stop or abandon activity", "cue": "cease pursuing or doing"}
+    ]
+  },
+  {
+    "word": "patient",
+    "pos": "n",
+    "senses": [
+      {"gloss": "person receiving medical care", "cue": "someone under doctor or healthcare treatment"}
+    ]
+  },
+  {
+    "word": "space",
+    "pos": "n",
+    "senses": [
+      {"gloss": "expanse or distance between things", "cue": "area or interval separating objects"},
+      {"gloss": "empty area or gap", "cue": "blank or available area"},
+      {"gloss": "region beyond Earth's atmosphere", "cue": "outer space or universe"},
+      {"gloss": "opportunity or freedom to act", "cue": "scope or room for action"}
+    ]
+  },
+  {
+    "word": "develop",
+    "pos": "v",
+    "senses": [
+      {"gloss": "create or make something new", "cue": "produce or invent"},
+      {"gloss": "progress or evolve through stages", "cue": "grow or become more advanced"},
+      {"gloss": "become visible or apparent", "cue": "emerge or unfold gradually"}
+    ]
+  },
+  {
+    "word": "reading",
+    "pos": "v",
+    "senses": [
+      {"gloss": "interpret written or printed text", "cue": "understand written material"},
+      {"gloss": "speak aloud written words", "cue": "recite or pronounce text"},
+      {"gloss": "interpret meaning or significance", "cue": "understand the sense or implication"}
+    ]
+  },
+  {
+    "word": "enlightenment",
+    "pos": "n",
+    "senses": [
+      {"gloss": "education resulting in understanding", "cue": "knowledge or intellectual awakening"},
+      {"gloss": "spiritual transcendence or clarity", "cue": "spiritual awakening or insight"}
+    ]
+  },
+  {
+    "word": "jobs",
+    "pos": "n",
+    "senses": [
+      {"gloss": "employment or occupation", "cue": "work one does to earn money"},
+      {"gloss": "specific task or piece of work", "cue": "particular assignment or duty"}
+    ]
+  },
+  {
+    "word": "Earth",
+    "pos": "n",
+    "senses": [
+      {"gloss": "planet we live on; the world", "cue": "celestial body orbiting the sun"},
+      {"gloss": "land or ground surface", "cue": "soil or solid matter of world"}
+    ]
+  },
+  {
+    "word": "readily",
+    "pos": "r",
+    "senses": [
+      {"gloss": "easily or without difficulty", "cue": "without impediment or effort"}
+    ]
+  },
+  {
+    "word": "calculation",
+    "pos": "n",
+    "senses": [
+      {"gloss": "mathematical computation or reckoning", "cue": "figuring out numbers or amounts"},
+      {"gloss": "deliberate planning or strategy", "cue": "calculated or intentional action"}
+    ]
+  },
+  {
+    "word": "sensations",
+    "pos": "n",
+    "senses": [
+      {"gloss": "physical feeling from stimulation", "cue": "bodily sensation or perception"},
+      {"gloss": "state of emotional excitement", "cue": "feeling of interest or arousal"}
+    ]
+  },
+  {
+    "word": "loaf",
+    "pos": "n",
+    "senses": [
+      {"gloss": "shaped mass of baked bread", "cue": "bread formed in one piece"}
+    ]
+  },
+  {
+    "word": "ablation",
+    "pos": "n",
+    "senses": [
+      {"gloss": "surgical removal of body part", "cue": "medical removal by operation"},
+      {"gloss": "erosion or wearing away", "cue": "gradual loss by melting or vaporization"}
+    ]
+  },
+  {
+    "word": "felt",
+    "pos": "v",
+    "senses": [
+      {"gloss": "undergo or experience emotion", "cue": "sense or feel something emotionally"},
+      {"gloss": "perceive by touch or sense", "cue": "detect or sense physically"}
+    ]
+  },
+  {
+    "word": "adopt",
+    "pos": "v",
+    "senses": [
+      {"gloss": "take a child as one's own", "cue": "legally make child one's offspring"},
+      {"gloss": "take by choice; embrace", "cue": "accept and use as one's own"}
+    ]
+  },
+  {
+    "word": "years",
+    "pos": "n",
+    "senses": [
+      {"gloss": "period of 365 or 366 days", "cue": "calendar measure of time"},
+      {"gloss": "prolonged or long period", "cue": "extended length of time"}
+    ]
+  },
+  {
+    "word": "became",
+    "pos": "v",
+    "senses": [
+      {"gloss": "enter or assume a state", "cue": "come to be or turn into"},
+      {"gloss": "undergo change or transformation", "cue": "transform or develop into"}
+    ]
+  },
+  {
+    "word": "cleaning",
+    "pos": "v",
+    "senses": [
+      {"gloss": "remove dirt or unwanted material", "cue": "make clean by scrubbing or washing"},
+      {"gloss": "tidy up or make neat", "cue": "organize or put in order"}
+    ]
+  },
+  {
+    "word": "right",
+    "pos": "a",
+    "senses": [
+      {"gloss": "correct or accurate", "cue": "free from error or mistake"},
+      {"gloss": "morally just or virtuous", "cue": "conforming to justice or morality"},
+      {"gloss": "appropriate or suitable", "cue": "fitting for purpose or situation"}
+    ]
+  }
+]

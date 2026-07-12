@@ -1,0 +1,226 @@
+[
+  {"word": "after", "senses": [
+    {"gloss": "following in time; subsequent to", "cue": "after the release; after 2010"},
+    {"gloss": "behind in position; to the rear", "cue": "came tumbling after; farther aft"}
+  ]},
+  {"word": "season", "senses": [
+    {"gloss": "a recurring period marked by activity or weather", "cue": "hockey season; holiday season; rainy season"},
+    {"gloss": "to add flavor to food", "cue": "season the chicken; season with salt"}
+  ]},
+  {"word": "early", "senses": [
+    {"gloss": "before the expected or usual time", "cue": "graduated early; an early start"},
+    {"gloss": "belonging to a beginning stage or distant past", "cue": "early forms of life; early inhabitants"}
+  ]},
+  {"word": "august", "senses": [
+    {"gloss": "the eighth month of the year", "cue": "released in August; August 1943"},
+    {"gloss": "dignified, revered, or noble", "cue": "of august lineage; august assembly"}
+  ]},
+  {"word": "now", "senses": [
+    {"gloss": "at the present moment", "cue": "gone now; called now; now on sale"},
+    {"gloss": "used to introduce a statement or command", "cue": "now hear this; now the next problem"}
+  ]},
+  {"word": "built", "senses": [
+    {"gloss": "constructed or made physically", "cue": "built in 1873; built of stone"},
+    {"gloss": "developed or established something abstract", "cue": "build a reputation; build confidence"}
+  ]},
+  {"word": "despite", "senses": [
+    {"gloss": "in spite of; although", "cue": "despite the difficulty; despite criticism"}
+  ]},
+  {"word": "produced", "senses": [
+    {"gloss": "created, made, or brought into existence", "cue": "produced by Sega; produced a book"},
+    {"gloss": "caused an effect or result to occur", "cue": "produces a curious effect"}
+  ]},
+  {"word": "australia", "senses": [
+    {"gloss": "the country and continent of Australia", "cue": "off northern Australia; Western Australia"}
+  ]},
+  {"word": "western", "senses": [
+    {"gloss": "relating to the west or western regions", "cue": "western frontier; Western Australia"},
+    {"gloss": "relating to Western (non-Asian) culture", "cue": "Japanese and western critics"}
+  ]},
+  {"word": "sea", "senses": [
+    {"gloss": "a body of salt water; ocean", "cue": "lost at sea; the Adriatic Sea"},
+    {"gloss": "a vast quantity or expanse", "cue": "a sea of troubles"}
+  ]},
+  {"word": "performed", "senses": [
+    {"gloss": "carried out a task, duty, or action", "cue": "work was performed; performed guard duty"},
+    {"gloss": "gave a performance before an audience", "cue": "performed at a concert; performed the percussion"}
+  ]},
+  {"word": "caused", "senses": [
+    {"gloss": "made something happen; brought about", "cue": "caused by the gold rush; caused a delay"}
+  ]},
+  {"word": "coast", "senses": [
+    {"gloss": "the land bordering the sea; shoreline", "cue": "the southern coast; the Montenegrin coast"},
+    {"gloss": "to move or glide without effort or power", "cue": "coasted down the hill"}
+  ]},
+  {"word": "hours", "senses": [
+    {"gloss": "units or periods of clock time", "cue": "delayed for hours; hours flown"}
+  ]},
+  {"word": "met", "senses": [
+    {"gloss": "came together with or encountered someone", "cue": "met her mother; representatives met"},
+    {"gloss": "satisfied or fulfilled a requirement", "cue": "met minimal opposition; met the standard"}
+  ]},
+  {"word": "tower", "senses": [
+    {"gloss": "a tall structure or building", "cue": "the Tower Building; an octagonal tower"},
+    {"gloss": "to rise up impressively above", "cue": "the peak towers over the valley"}
+  ]},
+  {"word": "issue", "senses": [
+    {"gloss": "a topic or problem under discussion", "cue": "the issue of secession; funding is an issue"},
+    {"gloss": "a numbered edition of a periodical", "cue": "the September issue; a 1996 issue"},
+    {"gloss": "official distribution or supply of something", "cue": "ready for issue; issue of ammunition"}
+  ]},
+  {"word": "minister", "senses": [
+    {"gloss": "a government official heading a department", "cue": "Minister of Finance; finance minister"},
+    {"gloss": "a member of clergy leading worship", "cue": "ordained as a minister"}
+  ]},
+  {"word": "score", "senses": [
+    {"gloss": "points earned or tallied in a game", "cue": "score the winning goal; score points"},
+    {"gloss": "a grade or rating of quality", "cue": "scored high on the SAT"},
+    {"gloss": "a written musical composition", "cue": "write a musical score"}
+  ]},
+  {"word": "soldiers", "senses": [
+    {"gloss": "enlisted members of an army", "cue": "Darcsen soldiers; Confederate soldiers"},
+    {"gloss": "a worker caste of ants or termites", "cue": "soldier termites defend the colony"}
+  ]},
+  {"word": "hill", "senses": [
+    {"gloss": "a natural raised landform", "cue": "Wave Hill; the hill rises gently"},
+    {"gloss": "a surname", "cue": "Canon Ingram Hill"}
+  ]},
+  {"word": "cm", "senses": [
+    {"gloss": "centimeter, a unit of length", "cue": "30 cm wide; measured in cm"}
+  ]},
+  {"word": "problems", "senses": [
+    {"gloss": "difficulties needing to be resolved", "cue": "problems with the AI; personal problems"},
+    {"gloss": "exercises or questions to be solved", "cue": "ten problems for homework"}
+  ]},
+  {"word": "lyrics", "senses": [
+    {"gloss": "the words of a song", "cue": "lyrics written by; lyrics of the song"}
+  ]},
+  {"word": "wing", "senses": [
+    {"gloss": "the flight surface of a bird or aircraft", "cue": "fixed wing aircraft; a bird's wing"},
+    {"gloss": "a side section of a structure, ship, or group", "cue": "either wing of the ship; party's wing"},
+    {"gloss": "a player positioned on the side (sports)", "cue": "hockey wing; soccer winger"}
+  ]},
+  {"word": "books", "senses": [
+    {"gloss": "printed works of bound pages", "cue": "published books; Flower Fairy books"},
+    {"gloss": "to reserve or schedule in advance", "cue": "booked for concerts"}
+  ]},
+  {"word": "leader", "senses": [
+    {"gloss": "a person who leads, guides, or is in charge", "cue": "team leader; leader of the revolution"}
+  ]},
+  {"word": "closed", "senses": [
+    {"gloss": "shut; not open or operating", "cue": "school closed; kindergarten closed"},
+    {"gloss": "drew near or approached", "cue": "the ship closed to within miles"},
+    {"gloss": "finished or concluded", "cue": "closed out the month"}
+  ]},
+  {"word": "attempted", "senses": [
+    {"gloss": "tried to do something", "cue": "attempted to trade him; attempted to engage"}
+  ]},
+  {"word": "audience", "senses": [
+    {"gloss": "spectators or listeners at a performance", "cue": "the audience applauded; TV audience"},
+    {"gloss": "a formal meeting with an important person", "cue": "granted an audience with the king"}
+  ]},
+  {"word": "tried", "senses": [
+    {"gloss": "made an effort or attempt", "cue": "tried to recover; tried to paint"},
+    {"gloss": "judged in a court of law", "cue": "tried for murder"}
+  ]},
+  {"word": "accepted", "senses": [
+    {"gloss": "agreed to or received favorably", "cue": "accepted the offer; accepted invitation"}
+  ]},
+  {"word": "sixth", "senses": [
+    {"gloss": "coming after the fifth in order", "cue": "the sixth century; sixth competitor"},
+    {"gloss": "one of six equal parts", "cue": "one sixth of the troops"}
+  ]},
+  {"word": "amount", "senses": [
+    {"gloss": "a quantity of something", "cue": "a large amount of trial and error"},
+    {"gloss": "to add up to or equal", "cue": "amounted to a rebellion"}
+  ]},
+  {"word": "potential", "senses": [
+    {"gloss": "possible but not yet actual", "cue": "potential players; potential candidate"},
+    {"gloss": "an inherent capacity or ability", "cue": "Personal Potential skills"}
+  ]},
+  {"word": "temple", "senses": [
+    {"gloss": "a building for worship of a deity", "cue": "Egyptian temple rituals"},
+    {"gloss": "the side of the forehead", "cue": "veins in his temple"}
+  ]},
+  {"word": "represented", "senses": [
+    {"gloss": "acted as delegate or representative for", "cue": "represented her country; represented the team"},
+    {"gloss": "symbolized or stood for something", "cue": "deities represented natural forces"}
+  ]},
+  {"word": "border", "senses": [
+    {"gloss": "the boundary between two regions or countries", "cue": "crossed the border; Italian border"},
+    {"gloss": "a decorative edge or strip", "cue": "a border on the tablecloth"}
+  ]},
+  {"word": "visit", "senses": [
+    {"gloss": "a short trip to see someone or a place", "cue": "visit her father; visit the site"}
+  ]},
+  {"word": "grew", "senses": [
+    {"gloss": "increased, developed, or became more", "cue": "grew more sophisticated; grew widespread"},
+    {"gloss": "increased in size through natural growth", "cue": "grew a beard; crops grew"}
+  ]},
+  {"word": "increasing", "senses": [
+    {"gloss": "becoming greater in amount or degree", "cue": "increasing number; increasing frequency"}
+  ]},
+  {"word": "honor", "senses": [
+    {"gloss": "respect, tribute, or recognition given", "cue": "named in honor of; in honor of Osiris"},
+    {"gloss": "to fulfill or keep an obligation", "cue": "honor a contract; honor checks"}
+  ]},
+  {"word": "consecutive", "senses": [
+    {"gloss": "one after another without a gap", "cue": "three consecutive seasons"}
+  ]},
+  {"word": "intelligence", "senses": [
+    {"gloss": "gathered information about an enemy", "cue": "Military Intelligence Service"},
+    {"gloss": "mental ability to understand and learn", "cue": "a place of intelligence"}
+  ]},
+  {"word": "males", "senses": [
+    {"gloss": "male individuals of a species", "cue": "males and females; males weigh"}
+  ]},
+  {"word": "rear", "senses": [
+    {"gloss": "the back part or position of something", "cue": "rear door; rear porches; rear legs"},
+    {"gloss": "a naval officer rank (Rear Admiral)", "cue": "Rear Admiral Du Pont"},
+    {"gloss": "to raise (children) or rise on hind legs", "cue": "reared in terror; rear a family"}
+  ]},
+  {"word": "lady", "senses": [
+    {"gloss": "a woman (polite or formal term)", "cue": "leading lady; a nice lady"},
+    {"gloss": "title for the Virgin Mary or nobility", "cue": "Our Lady of Guadalupe"}
+  ]},
+  {"word": "convoy", "senses": [
+    {"gloss": "a group of vehicles or ships traveling together", "cue": "an escorted convoy; French convoy"}
+  ]},
+  {"word": "vietnamese", "senses": [
+    {"gloss": "relating to Vietnam, its people, or language", "cue": "Vietnamese government; Vietnamese forces"}
+  ]},
+  {"word": "normal", "senses": [
+    {"gloss": "usual, standard, or expected", "cue": "normal weight; normal devices"},
+    {"gloss": "(geometry) perpendicular; at a right angle", "cue": "normal to the surface"}
+  ]},
+  {"word": "tail", "senses": [
+    {"gloss": "the rear appendage of an animal", "cue": "the ray's tail; a whip like tail"},
+    {"gloss": "the rear part of a vehicle or object", "cue": "tail of a plane; tail of the storm"},
+    {"gloss": "to secretly follow and observe someone", "cue": "tailed by a detective"}
+  ]},
+  {"word": "connected", "senses": [
+    {"gloss": "associated or linked in meaning or idea", "cue": "connected with divinity; connected with the Nile"},
+    {"gloss": "physically joined or attached", "cue": "connected to a lever; wires connected"}
+  ]},
+  {"word": "typical", "senses": [
+    {"gloss": "characteristic of its type or category", "cue": "typical of Neolithic sites; typical reagents"}
+  ]},
+  {"word": "delivered", "senses": [
+    {"gloss": "brought, supplied, or carried out", "cue": "delivered to Haiti; delivered on its threat"},
+    {"gloss": "gave a speech or spoken address", "cue": "delivered a homily"}
+  ]},
+  {"word": "guy", "senses": [
+    {"gloss": "an informal term for a man or person", "cue": "a nice guy; the same guy"}
+  ]},
+  {"word": "outer", "senses": [
+    {"gloss": "on the outside; farther from the center", "cue": "outer corners; outer layer"}
+  ]},
+  {"word": "cruiser", "senses": [
+    {"gloss": "a fast, mid-sized warship", "cue": "light cruiser SMS Breslau"},
+    {"gloss": "a police patrol car or motorboat", "cue": "police cruiser"}
+  ]},
+  {"word": "identity", "senses": [
+    {"gloss": "the defining character of who or what something is", "cue": "national identity; a god's identity"},
+    {"gloss": "(math) an element or equation that stays unchanged", "cue": "the identity operator"}
+  ]}
+]

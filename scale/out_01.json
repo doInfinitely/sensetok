@@ -1,0 +1,228 @@
+[
+ {"word": "a", "senses": [
+   {"gloss": "indefinite article marking a non-specific noun", "cue": "a/an before a singular countable noun"}
+ ]},
+ {"word": "most", "senses": [
+   {"gloss": "forming the superlative; to the greatest degree", "cue": "most dangerous, most used, most welcome"},
+   {"gloss": "the greatest part or majority of a group", "cue": "most of the/these operations, most of X"}
+ ]},
+ {"word": "several", "senses": [
+   {"gloss": "an indefinite number, more than a few", "cue": "several + plural noun, several years/species"}
+ ]},
+ {"word": "long", "senses": [
+   {"gloss": "of great length in space; extending far", "cue": "long fin, long walls, X cm long"},
+   {"gloss": "of great duration in time", "cue": "as long as, a long time, long overdue"},
+   {"gloss": "to yearn or desire strongly", "cue": "long for something, long to do X"}
+ ]},
+ {"word": "six", "senses": [
+   {"gloss": "the cardinal number 6", "cue": "six + noun, a count of six"}
+ ]},
+ {"word": "record", "senses": [
+   {"gloss": "a team's or player's win-loss statistics", "cue": "team's record, worst record in the league"},
+   {"gloss": "a document or account preserving facts", "cue": "legal record, historical record, criminal record"},
+   {"gloss": "to set down or capture in permanent form", "cue": "record a sound, register data electronically"}
+ ]},
+ {"word": "death", "senses": [
+   {"gloss": "the event of dying; end of life", "cue": "his/her death, death of a person"},
+   {"gloss": "figurative end of something abstract", "cue": "death of a plan, hopes, or idea"}
+ ]},
+ {"word": "history", "senses": [
+   {"gloss": "the aggregate of past events", "cue": "history of a city, institution's history"},
+   {"gloss": "the academic study of the past", "cue": "teaches history, history class"}
+ ]},
+ {"word": "development", "senses": [
+   {"gloss": "the process of creating or building something", "cue": "game development, product development"},
+   {"gloss": "growth or advancement through stages", "cue": "child's development, economic development"},
+   {"gloss": "a notable recent event or update", "cue": "recent developments in a situation"}
+ ]},
+ {"word": "father", "senses": [
+   {"gloss": "a male parent", "cue": "his/her father, a person's dad"},
+   {"gloss": "title of address for a priest", "cue": "Father + name, a clergyman's title"},
+   {"gloss": "founder or originator of something", "cue": "father of a country or institution"}
+ ]},
+ {"word": "young", "senses": [
+   {"gloss": "in an early stage of life; not old", "cue": "young woman, young man, young player"},
+   {"gloss": "immature offspring of an animal", "cue": "litters of young, animal's young"}
+ ]},
+ {"word": "full", "senses": [
+   {"gloss": "complete or entire; to the maximum extent", "cue": "full development, full second, full genus"},
+   {"gloss": "filled to capacity with something", "cue": "a full glass, a full stomach"}
+ ]},
+ {"word": "campaign", "senses": [
+   {"gloss": "organized effort to promote a cause", "cue": "fundraising campaign, campaign to end X"},
+   {"gloss": "series of military operations toward a goal", "cue": "Vicksburg campaign, wartime campaign against X"}
+ ]},
+ {"word": "points", "senses": [
+   {"gloss": "specific ideas, topics, or aspects discussed", "cue": "points about gameplay, points criticized"},
+   {"gloss": "units of score or measurement in a system", "cue": "health points, experience points, scored X points"}
+ ]},
+ {"word": "average", "senses": [
+   {"gloss": "a statistical mean or typical value", "cue": "average cost, goals-against average, average traffic"},
+   {"gloss": "ordinary, typical, or unexceptional", "cue": "an average person, average size"}
+ ]},
+ {"word": "real", "senses": [
+   {"gloss": "actually existing; genuine, not fake", "cue": "real reason, real names, real time"}
+ ]},
+ {"word": "summer", "senses": [
+   {"gloss": "the warmest season of the year", "cue": "in (the) summer, summer of a year"}
+ ]},
+ {"word": "required", "senses": [
+   {"gloss": "necessary or needed for something", "cue": "required trial and error, required greater range"},
+   {"gloss": "made obligatory by a rule or authority", "cue": "required by the charter/law"}
+ ]},
+ {"word": "turned", "senses": [
+   {"gloss": "changed into a different state; became", "cue": "turned vegetarian, turned nasty, turned out"},
+   {"gloss": "rotated, changed direction, or turned to someone", "cue": "turned to the Navy, turn the key"},
+   {"gloss": "rejected an offer or proposal", "cue": "turned down the deal"},
+   {"gloss": "handed over or transferred to another party", "cue": "turned over to the state"}
+ ]},
+ {"word": "committee", "senses": [
+   {"gloss": "a group delegated to consider a matter", "cue": "congressional committee, committee members"}
+ ]},
+ {"word": "limited", "senses": [
+   {"gloss": "restricted in extent, scope, or amount", "cue": "limited access, limited distribution/role"}
+ ]},
+ {"word": "regular", "senses": [
+   {"gloss": "official or standard, not irregular", "cue": "regular army, regular issue coin"},
+   {"gloss": "customary or occurring routinely", "cue": "regular season, regular vocal style"}
+ ]},
+ {"word": "always", "senses": [
+   {"gloss": "at all times; invariably", "cue": "always does X, always ready"}
+ ]},
+ {"word": "date", "senses": [
+   {"gloss": "a specific day or point in calendar time", "cue": "the date of an event, till date"},
+   {"gloss": "a romantic or social meeting", "cue": "go on a date"}
+ ]},
+ {"word": "got", "senses": [
+   {"gloss": "obtained or received something", "cue": "got a gift, got a lot of X"},
+   {"gloss": "became or entered a state", "cue": "got angry, got sick"},
+   {"gloss": "arrived or reached a place", "cue": "got home, got to Chicago"},
+   {"gloss": "modal: have to, must", "cue": "there's got to be, gotta"}
+ ]},
+ {"word": "lord", "senses": [
+   {"gloss": "title or epithet for a deity or god", "cue": "Lord Shiva, lord of the sky"},
+   {"gloss": "a titled nobleman or peer", "cue": "an English lord"}
+ ]},
+ {"word": "removed", "senses": [
+   {"gloss": "took away or eliminated something", "cue": "removed elements, removed an obstacle"},
+   {"gloss": "relocated or moved to another place", "cue": "removed to Arkadelphia"}
+ ]},
+ {"word": "earned", "senses": [
+   {"gloss": "gained money or profit through work", "cue": "earned US million, earned a wage"},
+   {"gloss": "gained or deserved something through effort", "cue": "earned a reputation, nickname, or reaction"}
+ ]},
+ {"word": "religious", "senses": [
+   {"gloss": "relating to religion or sacred matters", "cue": "religious works, religious themed book"}
+ ]},
+ {"word": "stating", "senses": [
+   {"gloss": "expressing or declaring something in words", "cue": "a letter stating that..."}
+ ]},
+ {"word": "source", "senses": [
+   {"gloss": "the origin or place something comes from", "cue": "source of inspiration, source novel"},
+   {"gloss": "a person or document providing information", "cue": "depending on the source consulted"}
+ ]},
+ {"word": "covered", "senses": [
+   {"gloss": "performed one's own version of a song", "cue": "covered the song, has covered the track"},
+   {"gloss": "protected, defended, or provided for", "cue": "covered by anti-aircraft guns"},
+   {"gloss": "physically spread over or concealed", "cue": "paint/grass covered the surface"}
+ ]},
+ {"word": "concert", "senses": [
+   {"gloss": "a live musical performance", "cue": "concert tour, concert review"}
+ ]},
+ {"word": "remain", "senses": [
+   {"gloss": "continue to exist in the same state or place", "cue": "remain unaltered, remain with the team"}
+ ]},
+ {"word": "bond", "senses": [
+   {"gloss": "a chemical link between atoms", "cue": "double bond, Sb-Sb bond"},
+   {"gloss": "a government or corporate debt security", "cue": "bond issue, million in bonds"},
+   {"gloss": "an emotional connection between people", "cue": "close bond with family"}
+ ]},
+ {"word": "quality", "senses": [
+   {"gloss": "degree of excellence or standard of goodness", "cue": "high/low/excellent quality"},
+   {"gloss": "a distinguishing characteristic or attribute", "cue": "a quality that defines someone"}
+ ]},
+ {"word": "direction", "senses": [
+   {"gloss": "the spatial course along which something points", "cue": "direction of the wind, north-south direction"},
+   {"gloss": "guidance or a course of action to follow", "cue": "new direction, court's direction"}
+ ]},
+ {"word": "prevent", "senses": [
+   {"gloss": "to stop something from happening", "cue": "prevent a collision, prevent X from Y"}
+ ]},
+ {"word": "escape", "senses": [
+   {"gloss": "to get free from danger or confinement", "cue": "escape civil unrest, escape the country"}
+ ]},
+ {"word": "says", "senses": [
+   {"gloss": "to state, assert, or claim something", "cue": "she says, he says that..."},
+   {"gloss": "to be worded or read as", "cue": "a sign that says X"}
+ ]},
+ {"word": "cavalry", "senses": [
+   {"gloss": "troops that fight on horseback or in vehicles", "cue": "cavalry regiment, cavalry corps"}
+ ]},
+ {"word": "gas", "senses": [
+   {"gloss": "a fuel or substance used for energy or lighting", "cue": "natural gas, gas lights"},
+   {"gloss": "a toxic gaseous substance used as a weapon", "cue": "mustard gas, poisoned by gas"}
+ ]},
+ {"word": "planet", "senses": [
+   {"gloss": "a celestial body that orbits a star", "cue": "the planet WASP, an orbiting planet"}
+ ]},
+ {"word": "cars", "senses": [
+   {"gloss": "motor vehicles for road transport", "cue": "cars sustained damage, fancy cars"},
+   {"gloss": "a compartment or unit of a train", "cue": "rail cars, double-stacked cars"}
+ ]},
+ {"word": "arms", "senses": [
+   {"gloss": "weapons, especially firearms, collectively", "cue": "arms depot, supply of arms"},
+   {"gloss": "the human limbs from shoulder to hand", "cue": "her arms, his arms"}
+ ]},
+ {"word": "justice", "senses": [
+   {"gloss": "fairness or moral rightness as a principle", "cue": "social justice, precepts of justice"},
+   {"gloss": "the legal system, courts, or its officials", "cue": "Justice Center, Court of Justice"}
+ ]},
+ {"word": "settlement", "senses": [
+   {"gloss": "a place where people live; a community", "cue": "hill settlement, ancient settlement"},
+   {"gloss": "an agreement that resolves a dispute", "cue": "divorce settlement, million-dollar settlement"}
+ ]},
+ {"word": "determined", "senses": [
+   {"gloss": "found out or concluded through investigation", "cue": "it was determined that..."},
+   {"gloss": "firmly resolved or resolute in purpose", "cue": "determined to keep in touch"}
+ ]},
+ {"word": "lane", "senses": [
+   {"gloss": "a narrow road or path", "cue": "Coldrum Lane, a country lane"},
+   {"gloss": "a marked strip of road for traffic", "cue": "two-lane highway, right-hand lane"}
+ ]},
+ {"word": "families", "senses": [
+   {"gloss": "groups of people related by kinship", "cue": "officers and their families"}
+ ]},
+ {"word": "rated", "senses": [
+   {"gloss": "assigned a technical output or capacity value", "cue": "rated at X horsepower/watts"},
+   {"gloss": "assigned a rank or grade of quality", "cue": "rated highly, well-rated"}
+ ]},
+ {"word": "contributed", "senses": [
+   {"gloss": "gave money, ideas, or effort to a cause", "cue": "contributed to the soundtrack, contributed ideas"},
+   {"gloss": "helped cause or bring about a result", "cue": "contributed to flooding, contributed to a storm"}
+ ]},
+ {"word": "jersey", "senses": [
+   {"gloss": "the US state of New Jersey (place name)", "cue": "New Jersey, offshore of New Jersey"},
+   {"gloss": "a sports team shirt or uniform top", "cue": "wore jersey number X"}
+ ]},
+ {"word": "finding", "senses": [
+   {"gloss": "coming to discover or realize something", "cue": "finding him weakened, finding no response"},
+   {"gloss": "a conclusion or result of an investigation", "cue": "the findings of a study/report"}
+ ]},
+ {"word": "semi", "senses": [
+   {"gloss": "prefix meaning partly or half", "cue": "semi-detached, semi-ruined, semi-stabilized"},
+   {"gloss": "a large tractor-trailer truck", "cue": "a semi on the highway"}
+ ]},
+ {"word": "reasons", "senses": [
+   {"gloss": "causes, motives, or justifications for something", "cue": "for these reasons, personal reasons"}
+ ]},
+ {"word": "connection", "senses": [
+   {"gloss": "a relationship or link between things/people", "cue": "connection between gods, connection with government"}
+ ]},
+ {"word": "rank", "senses": [
+   {"gloss": "a position or level within a hierarchy", "cue": "rank of major, rank of full genus"},
+   {"gloss": "having a strong unpleasant smell; profuse", "cue": "a rank cigar, rank vegetation"}
+ ]},
+ {"word": "rural", "senses": [
+   {"gloss": "relating to the countryside, not the city", "cue": "rural areas, rural farmland"}
+ ]}
+]

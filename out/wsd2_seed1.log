@@ -1,0 +1,49 @@
+examples: 3,248,119
+Loading weights:   0%|          | 0/100 [00:00<?, ?it/s]Loading weights:  65%|██████▌   | 65/100 [00:00<00:00, 648.32it/s]Loading weights: 100%|██████████| 100/100 [00:00<00:00, 739.52it/s]
+[transformers] [1mDistilBertModel LOAD REPORT[0m from: distilbert-base-uncased
+Key                     | Status     |  | 
+------------------------+------------+--+-
+vocab_layer_norm.weight | UNEXPECTED |  | 
+vocab_transform.bias    | UNEXPECTED |  | 
+vocab_layer_norm.bias   | UNEXPECTED |  | 
+vocab_transform.weight  | UNEXPECTED |  | 
+vocab_projector.bias    | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+  step 500 loss 0.593
+  step 1000 loss 0.860
+  step 1500 loss 0.529
+  step 2000 loss 0.321
+  step 2500 loss 0.471
+  step 3000 loss 0.409
+  [eval@3000] all 0.825 balanced 0.716
+  step 3500 loss 0.529
+  step 4000 loss 0.484
+  step 4500 loss 0.482
+  step 5000 loss 0.353
+  step 5500 loss 0.563
+  step 6000 loss 0.550
+  [eval@6000] all 0.830 balanced 0.726
+  step 6500 loss 0.317
+  step 7000 loss 0.386
+  step 7500 loss 0.516
+  step 8000 loss 0.499
+  step 8500 loss 0.454
+  step 9000 loss 0.549
+  [eval@9000] all 0.840 balanced 0.741
+  step 9500 loss 0.512
+  step 10000 loss 0.201
+  step 10500 loss 0.425
+  step 11000 loss 0.740
+  step 11500 loss 0.343
+  step 12000 loss 0.374
+  [eval@12000] all 0.841 balanced 0.741
+
+WSD cross-encoder v2 (cased + target-token, 3,218,119 labels, 12000 steps):
+  all        acc 0.839  (n=30,000)
+  balanced   acc 0.743  (n=10,576)
+  skewed     acc 0.891  (n=19,424)
+
+v1 (uncased+[CLS], 3k steps): 0.794 all / 0.679 balanced
+propagator: 0.879 all / 0.686 balanced

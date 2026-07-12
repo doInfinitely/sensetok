@@ -1,0 +1,9 @@
+.venv
+__pycache__/
+*.pyc
+# large binaries / regenerable
+*.pt
+out/batches/tag_reqs.json
+out/batches/*_map.json
+*.npy
+nohup.out

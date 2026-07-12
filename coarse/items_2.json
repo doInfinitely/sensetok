@@ -1,0 +1,1064 @@
+[
+ {
+  "id": 200,
+  "sentence": "Here is [[truly]] a `` Great Recording of the Century '' , and its greatness is by no means diminished by the fact that it is not quite perfect .",
+  "target": "truly",
+  "pos": "r",
+  "senses": [
+   "0: genuinely or in accordance with fact  [cue: really or in truth]"
+  ]
+ },
+ {
+  "id": 201,
+  "sentence": "As one would surmise , the procedure , however , could be repeated with the same [[object]] or with the same type of object often enough , so that the corresponding visual blots and the merest beginning of the tracing movement would provide clues as to the actual shape , which the patient then immediately could determine by a kind of inference .",
+  "target": "object",
+  "pos": "n",
+  "senses": [
+   "0: Tangible physical thing  [cue: Concrete entity you can see or touch]",
+   "1: Goal or aim intended  [cue: Purpose or target of action]",
+   "2: Grammatical constituent  [cue: Word receiving action in sentence]"
+  ]
+ },
+ {
+  "id": 202,
+  "sentence": "The Communists [[wield]] a power unknown to Hitler .",
+  "target": "wield",
+  "pos": "v",
+  "senses": [
+   "0: Handle or use skillfully.  [cue: Manipulate tool or weapon with control; use effectively.]",
+   "1: Exercise authority or influence.  [cue: Metaphorical; command or control power or authority.]"
+  ]
+ },
+ {
+  "id": 203,
+  "sentence": "Thus , besides the training provided to [[youth]] in school , the existence of the school program can have supplementary benefits to industry which make it an asset to industrial development efforts .",
+  "target": "youth",
+  "pos": "n",
+  "senses": [
+   "0: Young person  [cue: Young man; young woman; adolescent; teenager]",
+   "1: Young people collectively  [cue: Young people; youth group; young generation]",
+   "2: Period of life; young age  [cue: Adolescence; early life; young age; immaturity]",
+   "3: Early development period  [cue: Early stage; early phase; beginning; inception]"
+  ]
+ },
+ {
+  "id": 204,
+  "sentence": "It would be made in three waves - the first to lay down a smokescreen , the second to [[drop]] the gas bombs , the third to shower incendiaries which would burn everything below .",
+  "target": "drop",
+  "pos": "v",
+  "senses": [
+   "0: fall or let fall to ground  [cue: move downward or release]",
+   "1: decrease in value or level  [cue: reduce or go down]",
+   "2: stop or abandon activity  [cue: cease pursuing or doing]"
+  ]
+ },
+ {
+  "id": 205,
+  "sentence": "Half crazed by the weight dragging , the dust , and the heat , the horse leaped our wall , dashing out the rider 's brains against it , and leaving him lying there among us - while the horse crashed away through the [[brush]] .",
+  "target": "brush",
+  "pos": "n",
+  "senses": [
+   "0: Tool with bristles for cleaning  [cue: Implement for brushing hair or paint]",
+   "1: Wild shrubby vegetation  [cue: Dense growth of bushes or undergrowth]",
+   "2: Brief encounter or contact  [cue: Quick or passing interaction]"
+  ]
+ },
+ {
+  "id": 206,
+  "sentence": "Recently I was struck anew by the divergent approaches , when in the course of one afternoon and evening I [[listened]] to no fewer than ten different performances .",
+  "target": "listened",
+  "pos": "v",
+  "senses": [
+   "0: Hear with attention; pay close heed.  [cue: Actively focus on sound; give consideration to.]"
+  ]
+ },
+ {
+  "id": 207,
+  "sentence": "Thus , the energy [[transferred]] from the arc to the anode was partly fed back into the arc .",
+  "target": "transferred",
+  "pos": "v",
+  "senses": [
+   "0: Move to different location  [cue: Move; relocate; shift position; change place]",
+   "1: Change ownership or possession  [cue: Give ownership; pass to another; convey]",
+   "2: Transmit or convey  [cue: Send; pass; communicate; deliver message]",
+   "3: Move to new context  [cue: Transplant; adapt to new setting; relocate culturally]"
+  ]
+ },
+ {
+  "id": 208,
+  "sentence": "And so the authors conclude : `` The conduct of the [[patient]] in his every-day life and in his work , even more than the foregoing facts [ mentioned above under 1 ] , leave positively no room for doubt that the sense of touch , in the ordinary sense of the word , was unaffected ; or , to put the same thing in physiological terms , that the performance capacity of the tactual apparatus , from the periphery up to the tactual centers in the brain , - that is , from one end to the other - was unimpaired '' .",
+  "target": "patient",
+  "pos": "n",
+  "senses": [
+   "0: person receiving medical care  [cue: someone under doctor or healthcare treatment]"
+  ]
+ },
+ {
+  "id": 209,
+  "sentence": "Not [[Louis / 15]] , , since even he obeys .",
+  "target": "Louis / 15",
+  "pos": "n",
+  "senses": [
+   "0: Historical or textual reference  [cue: Specific name or designation]"
+  ]
+ },
+ {
+  "id": 210,
+  "sentence": "Another girl from a relatively large midwestern [[city]] described herself as `` the only Orthodox girl in town '' .",
+  "target": "city",
+  "pos": "n",
+  "senses": [
+   "0: Large densely populated urban area.  [cue: Geography; metropolis with many inhabitants and infrastructure.]",
+   "1: People or inhabitants of a city.  [cue: Collective; citizens or residents of urban place.]"
+  ]
+ },
+ {
+  "id": 211,
+  "sentence": "And one of the best services available to the people who try to raise and can meat , to plant , grow vegetables and [[put]] them up .",
+  "target": "put",
+  "pos": "v",
+  "senses": [
+   "0: Place in location  [cue: Place; locate; position; set down]",
+   "1: Put into state or condition  [cue: Cause; create condition; put in state]",
+   "2: Express or formulate  [cue: State; word; express; say; formulate]",
+   "3: Attribute or assign  [cue: Ascribe; give; assign; attribute]",
+   "4: Invest or commit  [cue: Invest money; commit; place funds]"
+  ]
+ },
+ {
+  "id": 212,
+  "sentence": "The underlying assumption , of course , is that only sight and touch enable us , in any precise and fully dependable way , to locate objects in [[space]] beyond us , the other senses being decidedly inferior , if not totally inadequate , in this regard .",
+  "target": "space",
+  "pos": "n",
+  "senses": [
+   "0: expanse or distance between things  [cue: area or interval separating objects]",
+   "1: empty area or gap  [cue: blank or available area]",
+   "2: region beyond Earth's atmosphere  [cue: outer space or universe]",
+   "3: opportunity or freedom to act  [cue: scope or room for action]"
+  ]
+ },
+ {
+  "id": 213,
+  "sentence": "Only [[confusion]] , failure and anarchy result when the effort is made to impose upon the civil authority the impossible task of policing private homes to preclude the possibility of sin .",
+  "target": "confusion",
+  "pos": "n",
+  "senses": [
+   "0: Lack of clarity or order  [cue: Disorder or disorderly state]",
+   "1: Mistaking one thing for another  [cue: Error from confusing distinct items]",
+   "2: Embarrassment or shame  [cue: Feeling of being confused]"
+  ]
+ },
+ {
+  "id": 214,
+  "sentence": "She is [[even]] prone to regard the college girl as immature .",
+  "target": "even",
+  "pos": "r",
+  "senses": [
+   "0: Emphasize or intensify; especially for contrast.  [cue: Surprising or extreme example; 'even a child knows'.]",
+   "1: To a greater degree; further in comparison.  [cue: Comparative use; more extreme than before; 'even stronger'.]",
+   "2: Notwithstanding; despite or in spite of.  [cue: Concessive; but still true; 'even so', 'even when'.]"
+  ]
+ },
+ {
+  "id": 215,
+  "sentence": "Again , Henley 's attitude of defiance which colors his ideal of self mastery is [[far]] from characteristic of a Stoic thinker like Marcus Aurelius , whose gentle acquiescence is almost Christian , comparable to the patience expressed in Milton 's sonnet on his own blindness .",
+  "target": "far",
+  "pos": "a",
+  "senses": [
+   "0: Distant in space  [cue: Remote; distant; far away; great distance]",
+   "1: Distant in time  [cue: Far past; far future; long ago; remote time]",
+   "2: Extreme or untypical  [cue: Far from norm; extreme; not typical; far from]"
+  ]
+ },
+ {
+  "id": 216,
+  "sentence": "With U. S. Coast Guard cooperation , the American Boat and Yacht Council was formed to [[develop]] recommended practices and standards for boats and their equipment with reference to safety .",
+  "target": "develop",
+  "pos": "v",
+  "senses": [
+   "0: create or make something new  [cue: produce or invent]",
+   "1: progress or evolve through stages  [cue: grow or become more advanced]",
+   "2: become visible or apparent  [cue: emerge or unfold gradually]"
+  ]
+ },
+ {
+  "id": 217,
+  "sentence": "The front of their column had already passed us , when another officer [[came]] riding down the side of the road , not five paces from where we were .",
+  "target": "came",
+  "pos": "v",
+  "senses": [
+   "0: Move toward or arrive at place  [cue: Travel to or reach destination]",
+   "1: Reach state or condition  [cue: Come to be or become]",
+   "2: Originate or result from  [cue: Have source in or stem from]",
+   "3: Happen or occur in sequence  [cue: Take place in order]"
+  ]
+ },
+ {
+  "id": 218,
+  "sentence": "As expected , most of the activity was found in Fraction * * f , with slight activity [[seen]] in Fraction 4 , - 1 .",
+  "target": "seen",
+  "pos": "v",
+  "senses": [
+   "0: Perceive with eyes; observe visually.  [cue: Visual perception; observe something with sight.]",
+   "1: Understand mentally; comprehend or interpret.  [cue: Cognitive; grasp meaning; 'I see what you mean'.]",
+   "2: Meet or encounter; have contact with.  [cue: Social interaction; come together with someone.]",
+   "3: Visit; go to see a place or person.  [cue: Travel or attend; seek out for meeting or visit.]"
+  ]
+ },
+ {
+  "id": 219,
+  "sentence": "The potato chip industry these days is growing , not only as a result of population increase and public acceptance of convenience foods , but also because of a combination of circumstances that has [[led]] to growth by merger .",
+  "target": "led",
+  "pos": "v",
+  "senses": [
+   "0: Guide or conduct someone to place  [cue: Person takes another somewhere]",
+   "1: Result in or cause as consequence  [cue: Action or circumstance produces outcome]",
+   "2: Be in charge of or head group  [cue: Direct or manage people or project]"
+  ]
+ },
+ {
+  "id": 220,
+  "sentence": "The Roman Catholic natural-law tradition regards as self-evident that the primary objective purpose of the conjugal [[act]] is procreation and that the fostering of the mutual love of the spouses is the secondary and subjective end .",
+  "target": "act",
+  "pos": "n",
+  "senses": [
+   "0: Deed or action  [cue: Action; deed; doing; something done]",
+   "1: Legal statute or legislation  [cue: Law; legislation; statute; legal document]",
+   "2: Division of play or opera  [cue: Act of play; opera act; theatrical division]",
+   "3: Theatrical performance  [cue: Performer act; performance piece; stage act]",
+   "4: Display or pretense  [cue: Put on act; false behavior; pretense; display]"
+  ]
+ },
+ {
+  "id": 221,
+  "sentence": "Funeral services will [[be]] at 2 p. m. Tuesday at Blanchard 's Chapel with the Rev. J. H. Hearn officiating .",
+  "target": "be",
+  "pos": "v",
+  "senses": [
+   "0: Link subject to predicate or attribute.  [cue: Followed by adjective, noun, or predicate: 'is rich', 'is a doctor'.]",
+   "1: Auxiliary for passive voice or continuous aspect.  [cue: With past participle or -ing form: 'was saved', 'is walking'.]",
+   "2: Exist; occur; take place.  [cue: Existential or locative; often 'there is/are' or 'is there'.]"
+  ]
+ },
+ {
+  "id": 222,
+  "sentence": "After a short time , both George and Donald joined the class with me so they would n't feel lonely , and we used to hang a sign on the door of the Brush-off [[reading]] `` out to work '' .",
+  "target": "reading",
+  "pos": "v",
+  "senses": [
+   "0: interpret written or printed text  [cue: understand written material]",
+   "1: speak aloud written words  [cue: recite or pronounce text]",
+   "2: interpret meaning or significance  [cue: understand the sense or implication]"
+  ]
+ },
+ {
+  "id": 223,
+  "sentence": "The departure of the Giants and the Dodgers to California left New York with [[only]] the Yankees .",
+  "target": "only",
+  "pos": "r",
+  "senses": [
+   "0: And nothing more or else  [cue: Exclusively or solely]",
+   "1: Except or but  [cue: With exception that]",
+   "2: As recently as  [cue: Just before now]"
+  ]
+ },
+ {
+  "id": 224,
+  "sentence": "Everywhere there seems to be a growing recognition of the fact that governments and religious institutions alike [[are]] too fallible and corruptible - in a word , too human - to warrant any claim of maintaining partnership with the divine .",
+  "target": "are",
+  "pos": "v",
+  "senses": [
+   "0: Copula: express quality or identity  [cue: Links subject to adjective or noun (is happy, is John)]",
+   "1: Locative: exist or be located in place  [cue: Indicates where something is (is here, is in the back)]",
+   "2: Auxiliary: form perfect or progressive  [cue: Helps form tense (are playing, are found)]"
+  ]
+ },
+ {
+  "id": 225,
+  "sentence": "It is repeated at intervals in some rather sadly desperate word-games for insomniacs , the hospitalized , and others forced to rely on inner resources , [[including]] ( in the P 's alone ) `` palindromes '' , `` paraphrases '' , and `` parodies '' .",
+  "target": "including",
+  "pos": "v",
+  "senses": [
+   "0: Have as part; comprise or contain.  [cue: Inclusive; include within a group or set.]"
+  ]
+ },
+ {
+  "id": 226,
+  "sentence": "The small amount of [[insoluble]] material which precipitated during dialysis was suspended in approximately 5 ml of starting buffer , centrifuged , resuspended in 2.5 ml of isotonic saline and tested for antibody activity .",
+  "target": "insoluble",
+  "pos": "a",
+  "senses": [
+   "0: Cannot dissolve in liquid  [cue: Undissolvable; insoluble in water; won't dissolve]",
+   "1: Cannot be solved  [cue: No solution; unsolvable; cannot be resolved]"
+  ]
+ },
+ {
+  "id": 227,
+  "sentence": "A contrast of the scripture reading of , let us say , St. Augustine , John Bunyan , and Thomas Jefferson , all three of whom found in such study a real source of [[enlightenment]] , can tell us a great deal about these three men and the age that each represented and helped bring to conscious expression .",
+  "target": "enlightenment",
+  "pos": "n",
+  "senses": [
+   "0: education resulting in understanding  [cue: knowledge or intellectual awakening]",
+   "1: spiritual transcendence or clarity  [cue: spiritual awakening or insight]"
+  ]
+ },
+ {
+  "id": 228,
+  "sentence": "Some of this trend toward area vocational schools has been related to the problems of [[persistent]] labor surplus areas and their desire to attract new industry .",
+  "target": "persistent",
+  "pos": "s",
+  "senses": [
+   "0: Refusing to stop or give up  [cue: Continuing despite difficulty]",
+   "1: Regularly recurring in mind  [cue: Happening repeatedly or constantly]",
+   "2: Lasting or enduring  [cue: Remaining over time]"
+  ]
+ },
+ {
+  "id": 229,
+  "sentence": "Ever since he had [[first]] begun to study music and to teach it , Rousseau had dreamed of piercing through to fame as the result of a successful opera .",
+  "target": "first",
+  "pos": "r",
+  "senses": [
+   "0: Before anything else in sequence.  [cue: Temporal order; initial action or stage.]",
+   "1: In front or ahead in space or importance.  [cue: Priority or forward position; foremost.]"
+  ]
+ },
+ {
+  "id": 230,
+  "sentence": "One might , indeed , argue that the history of ideas , in so far as it includes the literatures , must [[center on]] characterizations of human nature and that the great periods of literary achievement may be distinguished from one another by reference to the images of human nature that they succeed in fashioning .",
+  "target": "center on",
+  "pos": "v",
+  "senses": [
+   "0: Focus or concentrate on  [cue: Center on; focus on; concentrate; center attention]"
+  ]
+ },
+ {
+  "id": 231,
+  "sentence": "If there is adequate information on job opportunities for skilled [[jobs]] elsewhere , many more workers can be expected to respond .",
+  "target": "jobs",
+  "pos": "n",
+  "senses": [
+   "0: employment or occupation  [cue: work one does to earn money]",
+   "1: specific task or piece of work  [cue: particular assignment or duty]"
+  ]
+ },
+ {
+  "id": 232,
+  "sentence": "This must be due to a [[completely]] identical response to the weather , in the plant and the animal .",
+  "target": "completely",
+  "pos": "r",
+  "senses": [
+   "0: Thoroughly or to full extent  [cue: In every part or aspect]",
+   "1: Totally or utterly  [cue: To extreme degree]"
+  ]
+ },
+ {
+  "id": 233,
+  "sentence": "Rosburg had started early in the day , and by the time Palmer and Player were on the course - separated , as they were destined to be for the rest of the weekend , by about half an hour - they could [[see]] on the numerous scoreboards spotted around the course that Rosburg , who ended with a 73 , was not having a good day .",
+  "target": "see",
+  "pos": "v",
+  "senses": [
+   "0: Perceive with eyes; visual perception  [cue: Look at; watch; observe with sight; witness]",
+   "1: Understand mentally; comprehend  [cue: Grasp meaning; perceive idea; realize; get point]",
+   "2: Meet or visit in person  [cue: Encounter; visit somebody; go to see; social visit]"
+  ]
+ },
+ {
+  "id": 234,
+  "sentence": "Such was the impromptu that Voltaire gave to howls of laughter at Sans Souci and that was soon circulated in manuscript throughout the literary circles of Europe , to be printed sometime later , but with the name of Timon of Athens , the famous misanthrope , [[substituted]] for that of Rousseau .",
+  "target": "substituted",
+  "pos": "v",
+  "senses": [
+   "0: Put one thing in place of another.  [cue: Exchange or replace; trade or swap out.]",
+   "1: Act in place of someone or something.  [cue: Serve as replacement; fill role temporarily.]"
+  ]
+ },
+ {
+  "id": 235,
+  "sentence": "The assisting musicians from the Vienna Octet are somewhat lacking in expertise , but their contribution is rustic and [[appealing]] .",
+  "target": "appealing",
+  "pos": "a",
+  "senses": [
+   "0: Attractive or engaging  [cue: Interesting; attractive; appealing; engaging]",
+   "1: Sympathetic or evocative  [cue: Sympathetic; evoking empathy; touching; moving]"
+  ]
+ },
+ {
+  "id": 236,
+  "sentence": "The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth ; hence , these figures apply immediately above the [[Earth]] 's atmosphere .",
+  "target": "Earth",
+  "pos": "n",
+  "senses": [
+   "0: planet we live on; the world  [cue: celestial body orbiting the sun]",
+   "1: land or ground surface  [cue: soil or solid matter of world]"
+  ]
+ },
+ {
+  "id": 237,
+  "sentence": "In addition , Mr. and Mrs. Allan Goodman are controllers , Mrs. Paul Stone is treasurer and Mrs. Albert Quell [[is]] in charge of admittance for the dancing at 9 P. M. .",
+  "target": "is",
+  "pos": "v",
+  "senses": [
+   "0: link subject with adjective or noun  [cue: predicate + quality or identity]",
+   "1: exist in a location or position  [cue: Where is / in/at prepositional phrase]",
+   "2: occur or have existence  [cue: something happens or is present]"
+  ]
+ },
+ {
+  "id": 238,
+  "sentence": "Skorich was considered the logical choice after the [[club]] gave Norm Van Brocklin permission to seek the head coaching job with the Minnesota Vikings , the newest National Football League entry .",
+  "target": "club",
+  "pos": "n",
+  "senses": [
+   "0: Team or sports organization  [cue: Group of athletes playing together]",
+   "1: Association or group with shared interest  [cue: Members joining for common purpose]",
+   "2: Weapon or implement for hitting  [cue: Stick or bludgeon]",
+   "3: Golf equipment  [cue: Implement to strike golf ball]"
+  ]
+ },
+ {
+  "id": 239,
+  "sentence": "For prevention of these diseases during periods of stress such as shipping , excessive [[handling]] , vaccination , extreme weather conditions : 350 milligrams per head per day for 30 days only .",
+  "target": "handling",
+  "pos": "n",
+  "senses": [
+   "0: Physical touching or manipulating with hands.  [cue: Manual contact; tactile use of hands on object.]",
+   "1: Management or care of something.  [cue: Administration; how something is managed or treated.]"
+  ]
+ },
+ {
+  "id": 240,
+  "sentence": "His fear of making some inane or [[inappropriate]] remark .",
+  "target": "inappropriate",
+  "pos": "a",
+  "senses": [
+   "0: Not suitable for situation  [cue: Improper; unfit; unsuitable; wrong for occasion]",
+   "1: Adult or indecent content  [cue: Sexual; indecent; adult; improper content]"
+  ]
+ },
+ {
+  "id": 241,
+  "sentence": "Thus , man can [[readily]] deduce that the primary objective end of the conjugal act is procreation , the propagation of the race .",
+  "target": "readily",
+  "pos": "r",
+  "senses": [
+   "0: easily or without difficulty  [cue: without impediment or effort]"
+  ]
+ },
+ {
+  "id": 242,
+  "sentence": "If nothing is done , the prospect [[is]] that that road will be in default of interest in 1962 .",
+  "target": "is",
+  "pos": "v",
+  "senses": [
+   "0: link subject with adjective or noun  [cue: predicate + quality or identity]",
+   "1: exist in a location or position  [cue: Where is / in/at prepositional phrase]",
+   "2: occur or have existence  [cue: something happens or is present]"
+  ]
+ },
+ {
+  "id": 243,
+  "sentence": "his scrawny , tottering sound [[adds]] a delightful hilarity to the performance . )",
+  "target": "adds",
+  "pos": "v",
+  "senses": [
+   "0: Join or combine with others  [cue: Include something more]",
+   "1: State or say further  [cue: Continue speaking with more]",
+   "2: Increase amount or quality  [cue: Make more or greater]"
+  ]
+ },
+ {
+  "id": 244,
+  "sentence": "Certainly one of the most important comments that can be made upon the spiritual and cultural [[life]] of any period of Western civilization during the past sixteen or seventeen centuries has to do with the way in which its leaders have read and interpreted the Bible .",
+  "target": "life",
+  "pos": "n",
+  "senses": [
+   "0: State of being alive; biological existence.  [cue: Refers to animation, living organisms, or the property of vitality.]",
+   "1: One's lifespan or individual existence.  [cue: A person's history, experiences, or period from birth to death.]",
+   "2: A particular sphere or aspect of existence.  [cue: Modifiers like 'social life', 'work life', 'family life'.]"
+  ]
+ },
+ {
+  "id": 245,
+  "sentence": "Stimulates rumen [[activity]] .",
+  "target": "activity",
+  "pos": "n",
+  "senses": [
+   "0: Specific action or behavior.  [cue: What someone or something does; particular conduct.]",
+   "1: State of being active; energetic motion.  [cue: Level of functioning; degree of busyness or action.]",
+   "2: Organic or chemical process.  [cue: Biological or scientific; function within system.]"
+  ]
+ },
+ {
+  "id": 246,
+  "sentence": "[[Today]] , the Roman Catholic and Orthodox Churches stand virtually alone in holding that conviction .",
+  "target": "Today",
+  "pos": "n",
+  "senses": [
+   "0: Current or present day  [cue: This day; current day; today specifically]",
+   "1: Present era or time  [cue: Modern times; contemporary; present time]"
+  ]
+ },
+ {
+  "id": 247,
+  "sentence": "The mass scale used in Table 5 - 1 was derived on the assumption that the motion of the glowing trail is related to the momentum transfer to the trail by the meteorite , permitting the [[calculation]] of the mass if the velocity is known ( Cook and Whipple , 1958 ) .",
+  "target": "calculation",
+  "pos": "n",
+  "senses": [
+   "0: mathematical computation or reckoning  [cue: figuring out numbers or amounts]",
+   "1: deliberate planning or strategy  [cue: calculated or intentional action]"
+  ]
+ },
+ {
+  "id": 248,
+  "sentence": "Notable in this category are the Jupiter and Thor [[intermediate]] range ballistic missiles , which have been successfully developed , produced , and deployed , but the relative importance of which has diminished with the increasing availability of the Atlas intercontinental ballistic missile .",
+  "target": "intermediate",
+  "pos": "a",
+  "senses": [
+   "0: Between two extremes  [cue: In the middle of range]",
+   "1: Of middle rank or degree  [cue: Neither highest nor lowest]"
+  ]
+ },
+ {
+  "id": 249,
+  "sentence": "The maximum amount of payments which may be made pursuant to this Act on account of sales of newly mined ores or concentrates produced therefrom made during the calendar year 1962 shall not exceed $ 4500000 ; the maximum amount of such payments which may be made on account of such sales [[made]] during the calendar year 1963 shall not exceed $ 4500000 ; the maximum amount of such payments which may be made on account of such sales made during the calendar year 1964 shall not exceed $ 4000000 ; and the maximum amount of such payments which may be made on account of such sales made during the calendar year 1965 shall not exceed $ 3500000 .",
+  "target": "made",
+  "pos": "v",
+  "senses": [
+   "0: Create or produce something new.  [cue: Manufacturing; construct or fashion an object.]",
+   "1: Cause something to become or occur.  [cue: Causation; bring about a state or change.]",
+   "2: Perform or carry out an action.  [cue: Do or execute; 'made a decision', 'made an effort'.]",
+   "3: Reach or achieve a goal or destination.  [cue: Attain; succeed in reaching; 'made it home'.]",
+   "4: Earn money or gain benefit.  [cue: Financial; generate income or profit.]"
+  ]
+ },
+ {
+  "id": 250,
+  "sentence": "Her mother , now dead , was my good friend and when she came to [[tell]] us about her plans and to show off her ring I had a sobering wish to say something meaningful to her , something her mother would wish said .",
+  "target": "tell",
+  "pos": "v",
+  "senses": [
+   "0: Express or communicate  [cue: Say; speak; inform; tell someone; say to]",
+   "1: Narrate or recount  [cue: Tell story; recount; describe; give account]",
+   "2: Direct or order  [cue: Command; instruct; order; direct; tell to]",
+   "3: Discern or distinguish  [cue: Notice; perceive difference; tell apart; see]",
+   "4: Have effect or make difference  [cue: Matter; have effect; show; be apparent]"
+  ]
+ },
+ {
+  "id": 251,
+  "sentence": "There are three principal feed bunk [[types]] for dairy and beef cattle : ( 1 ) Fence-line bunks - cattle eat from one side while feed is put in from the opposite side of the fence by self unloading wagons ; ( 2 ) Mechanized bunks - they sit within the feed lot , are filled by a mechanical conveyor above feeding surface ; ( 3 ) Special bunks - as discussed here , they permit cattle to eat from all sides .",
+  "target": "types",
+  "pos": "n",
+  "senses": [
+   "0: Categories or kinds of things  [cue: Groups distinguished by characteristics]",
+   "1: Printed characters or symbols  [cue: Shapes representing letters or glyphs]"
+  ]
+ },
+ {
+  "id": 252,
+  "sentence": "How , then , do the kinesthetic [[sensations]] function in all this ?",
+  "target": "sensations",
+  "pos": "n",
+  "senses": [
+   "0: physical feeling from stimulation  [cue: bodily sensation or perception]",
+   "1: state of emotional excitement  [cue: feeling of interest or arousal]"
+  ]
+ },
+ {
+  "id": 253,
+  "sentence": "This right of the State , its upholders contended , was essential to [[maintain]] the federal balance and protect the liberty of the people from the danger of centralizing power in the Union government .",
+  "target": "maintain",
+  "pos": "v",
+  "senses": [
+   "0: Keep in certain state or condition  [cue: Preserve or sustain]",
+   "1: Support with necessities  [cue: Provide for or feed]",
+   "2: Assert or declare firmly  [cue: Claim or state positively]"
+  ]
+ },
+ {
+  "id": 254,
+  "sentence": "Another anode [[holder]] used in the experiments is shown in figure 3 .",
+  "target": "holder",
+  "pos": "n",
+  "senses": [
+   "0: Device or container for holding something.  [cue: Physical object designed to contain or support.]",
+   "1: Person who possesses or holds something.  [cue: Owner or keeper; one maintaining control.]"
+  ]
+ },
+ {
+  "id": 255,
+  "sentence": "Everybody had accepted her for what she [[was]] - a very charming girl .",
+  "target": "was",
+  "pos": "v",
+  "senses": [
+   "0: Copula: quality, identity, equation  [cue: Links subject to adjective, noun, or predicate; be + complement]",
+   "1: Existential or locative: exist, be located  [cue: Indicates existence or position; where is X? there is/was X]",
+   "2: Event: occur or take place  [cue: Something happened; during a time; temporal situation]"
+  ]
+ },
+ {
+  "id": 256,
+  "sentence": "[[Using]] the strings that manipulate the puppet , suspend him from the light fixture by tying the strings to the lamp base .",
+  "target": "Using",
+  "pos": "v",
+  "senses": [
+   "0: Put into service or employ  [cue: Employ; use; utilize; put to use]",
+   "1: Consume or use up  [cue: Use up; consume; deplete; expend]",
+   "2: Exploit or manipulate  [cue: Use to advantage; exploit; manipulate; take advantage]"
+  ]
+ },
+ {
+  "id": 257,
+  "sentence": "Then , a group of eggs is deposited in a cavity in the beebread [[loaf]] and the egg compartment is closed .",
+  "target": "loaf",
+  "pos": "n",
+  "senses": [
+   "0: shaped mass of baked bread  [cue: bread formed in one piece]"
+  ]
+ },
+ {
+  "id": 258,
+  "sentence": "Why had not this success come to him before he had plunged into his Discourse , and before he had committed himself to a [[life]] of austerity and denial ?",
+  "target": "life",
+  "pos": "n",
+  "senses": [
+   "0: State of being alive; biological existence.  [cue: Refers to animation, living organisms, or the property of vitality.]",
+   "1: One's lifespan or individual existence.  [cue: A person's history, experiences, or period from birth to death.]",
+   "2: A particular sphere or aspect of existence.  [cue: Modifiers like 'social life', 'work life', 'family life'.]"
+  ]
+ },
+ {
+  "id": 259,
+  "sentence": "From the standpoint of the army of duffers , however , this was easily the most heartening exhibition they had had since Ben Hogan fell upon evil [[ways]] during his heyday and scored an 11 in the Texas open .",
+  "target": "ways",
+  "pos": "n",
+  "senses": [
+   "0: Plural: methods or paths  [cue: Different means or routes]",
+   "1: Distance or journey  [cue: Space traveled]",
+   "2: Manner or mode of behavior  [cue: Habitual conduct or action]"
+  ]
+ },
+ {
+  "id": 260,
+  "sentence": "After all , social [[life]] in the group of the bees is by no means general , although it certainly is a striking feature .",
+  "target": "life",
+  "pos": "n",
+  "senses": [
+   "0: State of being alive; biological existence.  [cue: Refers to animation, living organisms, or the property of vitality.]",
+   "1: One's lifespan or individual existence.  [cue: A person's history, experiences, or period from birth to death.]",
+   "2: A particular sphere or aspect of existence.  [cue: Modifiers like 'social life', 'work life', 'family life'.]"
+  ]
+ },
+ {
+  "id": 261,
+  "sentence": "It is as follows : `` The usual sensitivity tests showed that the specific qualities of skin-perceptiveness ( pressure , pain , temperature ) , as well as the kinesthetic sensations ( muscular feelings , feelings in the tendons and joints ) , were , as such , essentially intact , although they seemed , in comparison with normal reactions , to be somewhat diminished over the entire [[body]] .",
+  "target": "body",
+  "pos": "n",
+  "senses": [
+   "0: Physical structure of organism; flesh and bones.  [cue: Anatomy; the material form of living being.]",
+   "1: Main or central part of something.  [cue: The bulk; core section distinct from extremities.]",
+   "2: Group or organization of people.  [cue: Collective; organization with shared purpose.]",
+   "3: Corpse; dead body of person or animal.  [cue: Death context; remains of living being.]"
+  ]
+ },
+ {
+  "id": 262,
+  "sentence": "With Skorich at the helm , the Eagles are expected to put more emphasis on running , rather than [[passing]] .",
+  "target": "passing",
+  "pos": "n",
+  "senses": [
+   "0: Throwing in football  [cue: Football pass; throwing play; forward pass]",
+   "1: Moving past or going by  [cue: Overtaking; transition; moving past; passage]",
+   "2: Death or dying  [cue: Death; dying; end of life; death (euphemism)]",
+   "3: Success or approval  [cue: Pass test; success; approval; passing grade]"
+  ]
+ },
+ {
+  "id": 263,
+  "sentence": "The anode [[ablation]] could be reduced to a negligible amount .",
+  "target": "ablation",
+  "pos": "n",
+  "senses": [
+   "0: surgical removal of body part  [cue: medical removal by operation]",
+   "1: erosion or wearing away  [cue: gradual loss by melting or vaporization]"
+  ]
+ },
+ {
+  "id": 264,
+  "sentence": "Soon after 10 A. M. , when police reached the 1 - 1 2 - story brick home in the Franklin Manor section , 15 miles south of here on the bay , in response to a call from the Dresbach 's other son , Lee , 14 , they [[found]] Mrs. Dresbach 's body on the first-floor bedroom floor .",
+  "target": "found",
+  "pos": "v",
+  "senses": [
+   "0: Establish or institute an organization or institution.  [cue: Founding a company, school, program; setting up anew.]",
+   "1: Come upon or locate after searching.  [cue: Discover the location of something lost or hidden.]"
+  ]
+ },
+ {
+  "id": 265,
+  "sentence": "Because , honey , I thought silently , there [[are]] plenty of desert islands in every marriage - long periods when you 're hopelessly stranded , together .",
+  "target": "are",
+  "pos": "v",
+  "senses": [
+   "0: Copula: express quality or identity  [cue: Links subject to adjective or noun (is happy, is John)]",
+   "1: Locative: exist or be located in place  [cue: Indicates where something is (is here, is in the back)]",
+   "2: Auxiliary: form perfect or progressive  [cue: Helps form tense (are playing, are found)]"
+  ]
+ },
+ {
+  "id": 266,
+  "sentence": "Admitting that main streets and the central business district should have priority , the Councilman said it [[is]] also essential that small shopping areas `` not be overlooked if our small merchants are to survive '' .",
+  "target": "is",
+  "pos": "v",
+  "senses": [
+   "0: link subject with adjective or noun  [cue: predicate + quality or identity]",
+   "1: exist in a location or position  [cue: Where is / in/at prepositional phrase]",
+   "2: occur or have existence  [cue: something happens or is present]"
+  ]
+ },
+ {
+  "id": 267,
+  "sentence": "Because of his brain injury and the extreme damage [[suffered]] to his sight , the patient had to train himself for a new line of work , that of a portfolio maker , an occupation requiring a great deal of precision in the making of measurements and a fairly well developed sense of form and contour .",
+  "target": "suffered",
+  "pos": "v",
+  "senses": [
+   "0: Undergo hardship or pain  [cue: Experience hurt or distress]",
+   "1: Endure or put up with  [cue: Bear or tolerate something unpleasant]",
+   "2: Be harmed or damaged  [cue: Have condition worsen]"
+  ]
+ },
+ {
+  "id": 268,
+  "sentence": "English philosopher Samuel Alexander 's [[debt]] to Wordsworth and Meredith is a recent interesting example , as also A. N. Whitehead 's understanding of the English romantics , chiefly Shelley and Wordsworth .",
+  "target": "debt",
+  "pos": "n",
+  "senses": [
+   "0: Money or obligation owed to another.  [cue: Financial; owing something of value to someone.]"
+  ]
+ },
+ {
+  "id": 269,
+  "sentence": "The National Manpower Council of Columbia University has [[estimated]] that three out of five skilled workers and one out of five technicians have not been formally trained .",
+  "target": "estimated",
+  "pos": "v",
+  "senses": [
+   "0: Calculate or judge amount  [cue: Estimate; calculate; reckon; judge amount]",
+   "1: Judge likely or probable  [cue: Think likely; suppose; judge probable; estimate]"
+  ]
+ },
+ {
+  "id": 270,
+  "sentence": "Investors , however , still [[see]] an element of more-than-ordinary risk in the toll-road bonds .",
+  "target": "see",
+  "pos": "v",
+  "senses": [
+   "0: Perceive with eyes; visual perception  [cue: Look at; watch; observe with sight; witness]",
+   "1: Understand mentally; comprehend  [cue: Grasp meaning; perceive idea; realize; get point]",
+   "2: Meet or visit in person  [cue: Encounter; visit somebody; go to see; social visit]"
+  ]
+ },
+ {
+  "id": 271,
+  "sentence": "Kern began reading a lot about the history and philosophy of Communism , but never [[felt]] there was anything he , as an individual , could do about it .",
+  "target": "felt",
+  "pos": "v",
+  "senses": [
+   "0: undergo or experience emotion  [cue: sense or feel something emotionally]",
+   "1: perceive by touch or sense  [cue: detect or sense physically]"
+  ]
+ },
+ {
+  "id": 272,
+  "sentence": "And everyone went to [[work]] to learn the parts which he wrote .",
+  "target": "work",
+  "pos": "v",
+  "senses": [
+   "0: Perform labor; be employed.  [cue: Subject is a person doing a job or task for pay or duty.]",
+   "1: Function or operate; produce desired effect.  [cue: About device, process, or plan; does it achieve its purpose?]",
+   "2: Shape, form, or manipulate material.  [cue: Handling clay, dough, metal; physically transform something.]"
+  ]
+ },
+ {
+  "id": 273,
+  "sentence": "Pope Pius 12 , [[declared]] in 1951 that it is possible to be exempt from the normal obligation of parenthood for a long time and even for the whole duration of married life , if there are serious reasons , such as those often mentioned in the so-called medical , eugenic , economic and social `` indications '' .",
+  "target": "declared",
+  "pos": "v",
+  "senses": [
+   "0: State or assert formally  [cue: Announce with certainty or authority]",
+   "1: Make official announcement  [cue: Publicly proclaim or reveal]",
+   "2: Designate or choose  [cue: Formally specify or select]"
+  ]
+ },
+ {
+  "id": 274,
+  "sentence": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled , That the [[Secretary of the Interior]] is hereby authorized and directed to make or cause to be made a study covering -",
+  "target": "Secretary of the Interior",
+  "pos": "n",
+  "senses": [
+   "0: US government official overseeing interior department.  [cue: Government title; administrative position in cabinet.]"
+  ]
+ },
+ {
+  "id": 275,
+  "sentence": "It is this sort of [[experience]] that makes the concept of high fidelity of real musical significance for the home music listener .",
+  "target": "experience",
+  "pos": "n",
+  "senses": [
+   "0: Accumulated knowledge or skill  [cue: Learning; expertise; knowledge; experience gained]",
+   "1: Event or occurrence  [cue: Incident; happening; event; occurrence; experience]",
+   "2: Activity or engagement  [cue: Activity; activity performed; engagement; participation]"
+  ]
+ },
+ {
+  "id": 276,
+  "sentence": "In purchasing Louisiana , Jefferson had to [[adopt]] Hamilton 's broad construction of the Constitution , and so did Madison in advocating the rechartering of Hamilton 's bank , which he had so strenuously opposed at its inception , and in adopting a Hamiltonian protective tariff .",
+  "target": "adopt",
+  "pos": "v",
+  "senses": [
+   "0: take a child as one's own  [cue: legally make child one's offspring]",
+   "1: take by choice; embrace  [cue: accept and use as one's own]"
+  ]
+ },
+ {
+  "id": 277,
+  "sentence": "When she succeeds , she usually manages to slip in unobtrusively , to deposit an egg on a [[completed]] loaf of beebread before the bumblebees seal the egg compartment .",
+  "target": "completed",
+  "pos": "s",
+  "senses": [
+   "0: Finished or brought to end  [cue: No more work needed]"
+  ]
+ },
+ {
+  "id": 278,
+  "sentence": "These [[involve]] more the mechanics employed in adjusting to fiscal uniformity than they do actual actual disadvantages to the principle .",
+  "target": "involve",
+  "pos": "v",
+  "senses": [
+   "0: Have as a necessary part or component.  [cue: Include; this process involves several steps.]",
+   "1: Engage someone in activity or responsibility.  [cue: Draw in; implicate; cause participation in something.]",
+   "2: Make intricate or complex.  [cue: Complicate; make harder to understand or manage.]"
+  ]
+ },
+ {
+  "id": 279,
+  "sentence": "It [[is]] they who read - and make - Jewish best-sellers and then persuade their husbands to read them .",
+  "target": "is",
+  "pos": "v",
+  "senses": [
+   "0: link subject with adjective or noun  [cue: predicate + quality or identity]",
+   "1: exist in a location or position  [cue: Where is / in/at prepositional phrase]",
+   "2: occur or have existence  [cue: something happens or is present]"
+  ]
+ },
+ {
+  "id": 280,
+  "sentence": "The Louisiana city is known , of course , for its fine food , good music and its colorful hospitality `` and , when guests arrive at Philmont that night '' , says Mrs. Grinsfelder , `` that is exactly what we expect to [[offer]] them .",
+  "target": "offer",
+  "pos": "v",
+  "senses": [
+   "0: Make available or provide  [cue: Provide; furnish; make available; supply]",
+   "1: Present for acceptance  [cue: Propose; tender; present; offer to]",
+   "2: Volunteer or agree freely  [cue: Volunteer; proffer; offer to help; agree freely]",
+   "3: Offer for sale  [cue: Sell; put on sale; offer for purchase]",
+   "4: Present in performance  [cue: Perform; present; stage; dedicate; perform work]"
+  ]
+ },
+ {
+  "id": 281,
+  "sentence": "Named by Mayor Wagner three [[years]] ago to head a committee that included James A. Farley , Bernard Gimbel and Clint Blume , Shea worked relentlessly .",
+  "target": "years",
+  "pos": "n",
+  "senses": [
+   "0: period of 365 or 366 days  [cue: calendar measure of time]",
+   "1: prolonged or long period  [cue: extended length of time]"
+  ]
+ },
+ {
+  "id": 282,
+  "sentence": "Nine of the league 's teams play in baseball parks and therefore face an [[early]] season conflict in dates .",
+  "target": "early",
+  "pos": "a",
+  "senses": [
+   "0: Before expected or usual time  [cue: Sooner than anticipated; ahead of schedule; premature]",
+   "1: In initial phase or stage  [cue: Near start of period; beginning of development; nascent]"
+  ]
+ },
+ {
+  "id": 283,
+  "sentence": "But having lived with the disc for some time now , I find the performance less exciting than either Schnabel 's or Fleisher 's ( whose superb performance with the Budapest Quartet has still to be recorded ) and a good deal [[less]] filled with humor than Curzon 's .",
+  "target": "less",
+  "pos": "r",
+  "senses": [
+   "0: Smaller in amount or degree  [cue: Comparative form of little]",
+   "1: Not as much  [cue: Reduced quantity or extent]"
+  ]
+ },
+ {
+  "id": 284,
+  "sentence": "The second step is to recognize the [[substantial]] agreement - frequently blurred by emotionalism and inaccurate newspaper reporting - already existing between Catholics and non-Catholics concerning the over-all objectives of family planning .",
+  "target": "substantial",
+  "pos": "s",
+  "senses": [
+   "0: Large in size, amount, or importance.  [cue: Significant; considerable; noteworthy in scale or value.]",
+   "1: Real, actual, or material in substance.  [cue: Not imaginary; solid; physically existing.]",
+   "2: Solid, strong, or firmly constructed.  [cue: Durable; well-built; substantial in quality or structure.]"
+  ]
+ },
+ {
+  "id": 285,
+  "sentence": "The last few years have [[witnessed]] what have been perhaps the most rapid advances in military technology in history .",
+  "target": "witnessed",
+  "pos": "v",
+  "senses": [
+   "0: Be witness to; observe  [cue: See; observe; witness; testify to; be present]",
+   "1: Be contemporaneous with  [cue: Occur during; happen during; be contemporaneous]"
+  ]
+ },
+ {
+  "id": 286,
+  "sentence": "With the return of our soldiers , it soon [[became]] apparent that the belief was not shared by the great majority of citizens .",
+  "target": "became",
+  "pos": "v",
+  "senses": [
+   "0: enter or assume a state  [cue: come to be or turn into]",
+   "1: undergo change or transformation  [cue: transform or develop into]"
+  ]
+ },
+ {
+  "id": 287,
+  "sentence": "The percentage of Jewish girls who attend college is almost as high as that of [[boys]] .",
+  "target": "boys",
+  "pos": "n",
+  "senses": [
+   "0: Male children or young men  [cue: Youth of male gender]",
+   "1: Male friends or companions  [cue: Associates or peers]"
+  ]
+ },
+ {
+  "id": 288,
+  "sentence": "Moreover , the current information on what types of training are needed and possible is too [[limited]] and fragmentary .",
+  "target": "limited",
+  "pos": "s",
+  "senses": [
+   "0: Restricted or confined within boundaries.  [cue: Having limits; not unlimited or abundant.]"
+  ]
+ },
+ {
+  "id": 289,
+  "sentence": "acquire secret processes , technical data , inventions , patent [[applications]] , patents , licenses , land and interests in land ( including water rights ) , plants and facilities , and other property or rights by purchase , license , lease , or donation ;",
+  "target": "applications",
+  "pos": "n",
+  "senses": [
+   "0: Formal request for job or admission  [cue: Application form; request; formal petition]",
+   "1: Act of applying or using  [cue: Application; practical use; application of]",
+   "2: Computer program or software  [cue: Software; app; computer program; application software]",
+   "3: Topical preparation or medicine  [cue: Medicine; lotion; topical; preparation; treatment]"
+  ]
+ },
+ {
+  "id": 290,
+  "sentence": "The firm is prominent in making equipment for [[cleaning]] seed cotton , driers , and heaters , and they lay claim to being the first maker ( 1910 ) of boil extraction equipment .",
+  "target": "cleaning",
+  "pos": "v",
+  "senses": [
+   "0: remove dirt or unwanted material  [cue: make clean by scrubbing or washing]",
+   "1: tidy up or make neat  [cue: organize or put in order]"
+  ]
+ },
+ {
+  "id": 291,
+  "sentence": "She regarded them as signs that she was nearing the glen she sought , and she was glad to at last be [[doing]] something positive in her unenunciated , undefined struggle with the mountain and its darkling inhabitants .",
+  "target": "doing",
+  "pos": "v",
+  "senses": [
+   "0: Engage in or perform action  [cue: Carry out activity or task]",
+   "1: Manage or proceed  [cue: Get along or handle]",
+   "2: Create or make  [cue: Produce or construct]"
+  ]
+ },
+ {
+  "id": 292,
+  "sentence": "`` I refused '' , [[Duclos]] said .",
+  "target": "Duclos",
+  "pos": "n",
+  "senses": [
+   "0: A person's name; proper noun.  [cue: Personal identifier; refers to individual named Duclos.]"
+  ]
+ },
+ {
+  "id": 293,
+  "sentence": "Insofar as its own governing documents are concerned , Emory University could now consider applications from prospective students , and others [[seeking]] applications from prospective students , and others seeking the opportunity to study or work at the university , irrespective of race , color or creed .",
+  "target": "seeking",
+  "pos": "v",
+  "senses": [
+   "0: Try to find or locate  [cue: Search; look for; seek out; search for]",
+   "1: Try to obtain or achieve  [cue: Pursue; seek; aim for; strive for]",
+   "2: Inquire or ask for  [cue: Request; ask for; inquire for; request]"
+  ]
+ },
+ {
+  "id": 294,
+  "sentence": "He 'll even bull head-on into the rules when he is sure he 's [[right]] .",
+  "target": "right",
+  "pos": "a",
+  "senses": [
+   "0: correct or accurate  [cue: free from error or mistake]",
+   "1: morally just or virtuous  [cue: conforming to justice or morality]",
+   "2: appropriate or suitable  [cue: fitting for purpose or situation]"
+  ]
+ },
+ {
+  "id": 295,
+  "sentence": "( 1 ) When an object was placed in the patient 's hand , he had no difficulty determining whether it was warm or cold , sharp or blunt , [[rough]] or smooth , flexible , soft , or hard ; and he could tell , simply by the feel of it , whether it was made of wood , iron , cloth , rubber , and so on .",
+  "target": "rough",
+  "pos": "a",
+  "senses": [
+   "0: Uneven or not smooth  [cue: Irregular surface or texture]",
+   "1: Approximate or inexact  [cue: Not precise or detailed]",
+   "2: Turbulent or violent  [cue: Agitated or forceful]",
+   "3: Crude or unrefined  [cue: Lacking polish or sophistication]",
+   "4: Difficult or harsh  [cue: Trying or unpleasant]"
+  ]
+ },
+ {
+  "id": 296,
+  "sentence": "They keep their wings and feet pressed tightly against their bodies , and in spite of their often colorful attire you may [[very]] well mistake them for lumps of dirt .",
+  "target": "very",
+  "pos": "r",
+  "senses": [
+   "0: to a high degree; intensifier  [cue: modifies adjective or adverb to emphasize]"
+  ]
+ },
+ {
+  "id": 297,
+  "sentence": "Some of this trend toward area vocational schools has been related to the problems of persistent labor surplus areas and their desire to attract [[new]] industry .",
+  "target": "new",
+  "pos": "a",
+  "senses": [
+   "0: Recently made, created, or discovered.  [cue: Recent origin; freshly produced or found.]",
+   "1: Different from before; current versus former.  [cue: Replacement; changed; 'new car', 'new leader'.]",
+   "2: Unfamiliar or strange; not previously known.  [cue: Novel; new to experience; 'new idea', 'new place'.]"
+  ]
+ },
+ {
+  "id": 298,
+  "sentence": "In the United States Department of Agriculture 's Yearbook of Agriculture , 1952 , which is devoted entirely to insects , George E. Bohart mentions a site in Utah which was estimated to contain 200000 nesting [[females]] .",
+  "target": "females",
+  "pos": "n",
+  "senses": [
+   "0: Female animal  [cue: Animal; female creature; produces ova; animal female]",
+   "1: Female person  [cue: Woman; girl; female person; female human]"
+  ]
+ },
+ {
+  "id": 299,
+  "sentence": "Pope Pius 12 , declared in 1951 that it [[is]] possible to be exempt from the normal obligation of parenthood for a long time and even for the whole duration of married life , if there are serious reasons , such as those often mentioned in the so-called medical , eugenic , economic and social `` indications '' .",
+  "target": "is",
+  "pos": "v",
+  "senses": [
+   "0: link subject with adjective or noun  [cue: predicate + quality or identity]",
+   "1: exist in a location or position  [cue: Where is / in/at prepositional phrase]",
+   "2: occur or have existence  [cue: something happens or is present]"
+  ]
+ }
+]

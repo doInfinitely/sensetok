@@ -1,0 +1,1655 @@
+[
+ {
+  "id": 100,
+  "sentence": "It was an alien land , and she hated it intensely ; she was already considering putting in rebellious requests for duty at San Diego , Bremerton , the Great Lakes , Pensacola - any place the Navy [[had]] a hospital - with a threat to resign her commission if the request were not granted .",
+  "target": "had",
+  "pos": "v",
+  "senses": [
+   "0: have or possess, either in a concrete or an abstract sense ; She has $1,000 in the bank ; He has got two beautiful daughters",
+   "1: have as a feature ; This restaurant features the most famous chefs in France",
+   "2: go through (mental or physical states or experiences) ; get an idea ; experience vertigo",
+   "3: have ownership or possession of ; He owns three houses in Florida ; How many cars does she have?",
+   "4: cause to move; cause to be in a certain position or condition ; He got his squad on the ball ; This let me in for a big surprise",
+   "5: serve oneself to, or consume regularly ; Have another bowl of chicken soup! ; I don't take sugar in my coffee",
+   "6: have a personal or business relationship with someone ; have a postdoc ; have an assistant",
+   "7: organize or be responsible for ; hold a reception ; have, throw, or make a party",
+   "8: have left ; I have two years left ; I don't have any money left",
+   "9: be confronted with ; What do we have here? ; Now we have a fine mess",
+   "10: undergo ; The stocks had a fast run-up",
+   "11: suffer from; be ill with ; She has arthritis",
+   "12: cause to do; cause to act in a specified manner ; The ads induced me to buy a VCR ; My children finally got me to buy a computer",
+   "13: receive willingly something given or offered ; The only girl who would have him was the miller's daughter ; I won't have this dog in my house!",
+   "14: get something; come into possession of ; receive payment ; receive a gift",
+   "15: undergo (as of injuries and illnesses) ; She suffered a fracture in the accident ; He had an insulin shock after eating three candy bars",
+   "16: achieve a point or goal ; Nicklaus had a 70 ; The Brazilian team got 4 goals",
+   "17: cause to be born ; My wife had twins yesterday!",
+   "18: have sex with; archaic use ; He had taken this woman when she was most vulnerable"
+  ]
+ },
+ {
+  "id": 101,
+  "sentence": "I had come [[prepared]] to worship at the feet of this classic , and he turned out to be a rather bitter old man who smelled of dead cigars .",
+  "target": "prepared",
+  "pos": "v",
+  "senses": [
+   "0: make ready or suitable or equip in advance for a particular purpose or for some use, event, etc ; Get the children ready for school! ; prepare for war",
+   "1: prepare for eating by applying heat ; Cook me dinner, please ; can you make me an omelette?",
+   "2: to prepare verbally, either for written or spoken delivery ; prepare a report ; prepare a speech",
+   "3: arrange by systematic planning and united effort ; machinate a plot ; organize a strike",
+   "4: educate for a future role or function ; He is grooming his son to become his successor ; The prince was prepared to become King one day",
+   "5: create by training and teaching ; The old master is training world-class violinists ; we develop the leaders for the future",
+   "6: lead up to and soften by sounding the dissonant note in it as a consonant note in the preceding chord ; prepare the discord in bar 139",
+   "7: undergo training or instruction in preparation for a particular role, function, or profession ; She is training to be a teacher ; He trained as a legal aid"
+  ]
+ },
+ {
+  "id": 102,
+  "sentence": "But before we can do this , we must first find answers to our [[original]] questions 1 and 2 ; then we shall perhaps be in a position to provide something like a complete answer to the question at hand .",
+  "target": "original",
+  "pos": "s",
+  "senses": [
+   "0: preceding all others in time or being as first made or performed ; the original inhabitants of the Americas ; the book still has its original binding",
+   "1: (of e.g. information) not secondhand or by way of something intermediary ; his work is based on only original, not secondary, sources",
+   "2: not derived or copied or translated from something else ; the play is original; not an adaptation ; he kept the original copy and gave her only a xerox"
+  ]
+ },
+ {
+  "id": 103,
+  "sentence": "Investors who wanted 100 shares in many cases ended up with 25 , and customers who had put in a bid to buy 400 shares [[found]] themselves with 100 and counted themselves lucky to get that many .",
+  "target": "found",
+  "pos": "v",
+  "senses": [
+   "0: come upon, as if by accident; meet with ; We find this idea in Plato ; I happened upon the most wonderful bakery not very far from here",
+   "1: discover or determine the existence, presence, or fact of ; She detected high levels of lead in her drinking water ; We found traces of lead in the paint",
+   "2: come upon after searching; find the location of something that was missed or lost ; Did you find your glasses? ; I cannot find my gloves!",
+   "3: establish after a calculation, investigation, experiment, survey, or study ; find the product of two numbers ; The physicist who found the elusive particle won the Nobel Prize",
+   "4: come to believe on the basis of emotion, intuitions, or indefinite grounds ; I feel that he doesn't like me ; I find him to be obnoxious",
+   "5: perceive or be contemporaneous with ; We found Republicans winning the offices ; You'll see a lot of cheating in this school",
+   "6: get something or somebody for a specific purpose ; I found this gadget that will serve as a bottle opener ; I got hold of these tools to fix our plumbing",
+   "7: make a discovery, make a new finding ; Roentgen discovered X-rays ; Physicists believe they found a new elementary particle",
+   "8: make a discovery ; She found that he had lied to her ; The story is false, so far as I can discover",
+   "9: obtain through effort or management ; She found the time and energy to take care of her aging parents ; We found the money to send our sons to college",
+   "10: decide on and make a declaration about ; find someone guilty",
+   "11: receive a specified treatment (abstract) ; These aspects of civilization do not find expression or receive an interpretation ; His movie received a good review",
+   "12: perceive oneself to be in a certain condition or place ; I found myself in a difficult situation ; When he woke up, he found himself in a hospital room",
+   "13: get or find back; recover the use of ; She regained control of herself ; She found her voice and replied quickly",
+   "14: succeed in reaching; arrive at ; The arrow found its mark",
+   "15: accept and make use of one's personality, abilities, and situation ; My son went to Berkeley to find himself"
+  ]
+ },
+ {
+  "id": 104,
+  "sentence": "The Poynting-Robertson effect ( Robertson , 1937 ; Wyatt and [[Whipple]] , 1950 ) , which is a retardation of the orbital motion of particles by the relativistic aberration of the repulsive force of the impinging solar radiation , causes the dust to spiral into the sun in times much shorter than the age of the Earth .",
+  "target": "Whipple",
+  "pos": "n",
+  "senses": [
+   "0: a human being ; there was too much for one person to do",
+   "1: a human body (usually including the clothing) ; a weapon was hidden on his person",
+   "2: a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party ; stop talking about yourself in the third person"
+  ]
+ },
+ {
+  "id": 105,
+  "sentence": "Courses are provided mainly for post high school day programs ; but sometimes arrangements also are made for high school students to [[attend]] , and evening extension courses also may be conducted .",
+  "target": "attend",
+  "pos": "v",
+  "senses": [
+   "0: be present at (meetings, church services, university), etc. ; She attends class regularly ; I rarely attend services at my church",
+   "1: take charge of or deal with ; Could you see about lunch? ; I must attend to this matter",
+   "2: to accompany as a circumstance or follow as a result ; Menuhin's playing was attended by a 15-minute standing ovation",
+   "3: work for or be a servant to ; May I serve you? ; She attends the old lady in the wheelchair",
+   "4: give heed (to) ; The children in the audience attended the recital quietly ; She hung on his every word"
+  ]
+ },
+ {
+  "id": 106,
+  "sentence": "Autosuggestibility , the reaction of the subject in such a way as to conform to his own expectations of the outcome ( i. e. , that the arm-rise is a reaction to the pressure exerted in the voluntary contraction , because of his knowledge that `` to every reaction there is an equal and opposite reaction '' ) also seems inadequate as an explanation for the following reasons : ( 1 ) the subjects ' apparently genuine experience of surprise when their arms rose , and ( 2 ) manifestations of the phenomenon despite anticipations of something else [[happening]] ( e. g. , of becoming dizzy and maybe falling , an expectation spontaneously volunteered by one of the subjects ) .",
+  "target": "happening",
+  "pos": "v",
+  "senses": [
+   "0: come to pass ; What is happening? ; The meeting took place off without an incidence",
+   "1: happen, occur, or be the case in the course of events or by chance; ;  (Santayana) ; It happens that today is my birthday ; These things befell",
+   "2: chance to be or do something, without intention or causation ; I happen to have just what you need!",
+   "3: come into being; become reality ; Her dream really materialized",
+   "4: come upon, as if by accident; meet with ; We find this idea in Plato ; I happened upon the most wonderful bakery not very far from here"
+  ]
+ },
+ {
+  "id": 107,
+  "sentence": "I have been loath to [[believe]] that any nation , even our present enemies , could or would be willing to loose upon mankind such terrible and inhumane weapons .",
+  "target": "believe",
+  "pos": "v",
+  "senses": [
+   "0: accept as true; take to be true ; I believed his report ; We didn't believe his stories from the War",
+   "1: judge or regard; look upon; judge ; I think he is very smart ; I believe her to be very smart",
+   "2: be confident about something ; I believe that he will come back from the war",
+   "3: follow a credo; have a faith; be a believer ; When you hear his sermons, you will be able to believe, too",
+   "4: credit with veracity ; You cannot believe this man ; Should we believe a publication like the National Enquirer?"
+  ]
+ },
+ {
+  "id": 108,
+  "sentence": "Shea , the chairman of Mayor Wagner 's Baseball Committee , will be joined on the dais by Warren Spahn , the southpaw pitching ace of the Milwaukee Braves ; Frank Graham , the Journal-American sports columnist ; Bill Mazeroski , the World Series hero of the Pittsburgh Pirates , and Casey Stengel , the former manager of the [[Yankees]] .",
+  "target": "Yankees",
+  "pos": "n",
+  "senses": [
+   "0: any number of entities (members) considered as a unit",
+   "1: (chemistry) two or more atoms bound together as a single unit and forming part of a molecule",
+   "2: a set that is closed, associative, has an identity element and every element has an inverse"
+  ]
+ },
+ {
+  "id": 109,
+  "sentence": "However , three of the managers did say that they would agree to attend the proposed meeting if all of the other managers [[decided]] to attend .",
+  "target": "decided",
+  "pos": "v",
+  "senses": [
+   "0: reach, make, or come to a decision about something ; We finally decided after lengthy deliberations",
+   "1: bring to an end; settle conclusively ; The case was decided ; The judge decided the case in favor of the plaintiff",
+   "2: cause to decide ; This new development finally decided me!",
+   "3: influence or determine ; The vote in New Hampshire often decides the outcome of the Presidential election"
+  ]
+ },
+ {
+  "id": 110,
+  "sentence": "The general board declared : `` Most of the Protestant churches hold contraception and periodic continence to be [[morally]] right when the motives are right .",
+  "target": "morally",
+  "pos": "r",
+  "senses": [
+   "0: with respect to moral principles ; morally unjustified",
+   "1: in a moral manner ; he acted morally under the circumstances"
+  ]
+ },
+ {
+  "id": 111,
+  "sentence": "Instructions to relax , i. e. , to be `` spontaneous '' , and react immediately to whatever impulse they might have , was not sufficiently reassuring until some idea of the possibilities of normal reactions had been [[given]] .",
+  "target": "given",
+  "pos": "v",
+  "senses": [
+   "0: cause to have, in the abstract sense or physical sense ; She gave him a black eye ; The draft gave me a cold",
+   "1: be the cause or source of ; He gave me a lot of trouble ; Our meeting afforded much interesting information",
+   "2: transfer possession of something concrete or abstract to somebody ; I gave her my money ; can you give me lessons?",
+   "3: convey or reveal information ; Give one's name",
+   "4: convey, as of a compliment, regards, attention, etc.; bestow ; Don't pay him any mind ; give the orders",
+   "5: organize or be responsible for ; hold a reception ; have, throw, or make a party",
+   "6: convey or communicate; of a smile, a look, a physical gesture ; Throw a glance ; She gave me a dirty look",
+   "7: give as a present; make a gift of ; What will you give her for her birthday?",
+   "8: cause to happen or be responsible for ; His two singles gave the team the victory",
+   "9: dedicate ; give thought to ; give priority to",
+   "10: give or supply ; The cow brings in 5 liters of milk ; This year's crop yielded 1,000 bushels of corn",
+   "11: transmit (knowledge or skills) ; give a secret to the Russians ; leave your name and address here",
+   "12: bring about ; The trompe l'oeil-illusion establishes depth",
+   "13: leave with; give temporarily ; Can I give you my keys while I go in the pool? ; Can I give you the children for the weekend?",
+   "14: emit or utter ; Give a gulp ; give a yelp",
+   "15: endure the loss of ; He gave his life for his children ; I gave two sons to the war",
+   "16: place into the hands or custody of ; hand me the spoon, please ; Turn the files over to me, please",
+   "17: give entirely to a specific person, activity, or cause ; She committed herself to the work of God ; give one's talents to a good cause",
+   "18: give (as medicine) ; I gave him the drug",
+   "19: give or convey physically ; She gave him First Aid ; I gave him a punch in the nose",
+   "20: bestow ; give homage ; render thanks",
+   "21: bestow, especially officially ; grant a degree ; give a divorce",
+   "22: move in order to make room for someone for something ; The park gave way to a supermarket ; `Move over,' he told the crowd",
+   "23: give food to ; Feed the starving children in India ; don't give the child this tough meat",
+   "24: contribute to some cause ; I gave at the office",
+   "25: break down, literally or metaphorically ; The wall collapsed ; The business collapsed",
+   "26: estimate the duration or outcome of something ; He gave the patient three months to live ; I gave him a very good chance at success",
+   "27: execute and deliver ; Give bond",
+   "28: deliver in exchange or recompense ; I'll give you three books for four CDs",
+   "29: afford access to ; the door opens to the patio ; The French doors give onto a terrace",
+   "30: present to view ; He gave the sign to start",
+   "31: perform for an audience ; Pollini is giving another concert in New York",
+   "32: be flexible under stress of physical force ; This material doesn't give",
+   "33: propose ; He gave the first of many toasts at the birthday party",
+   "34: accord by verdict ; give a decision for the plaintiff",
+   "35: manifest or show ; This student gives promise of real creativity ; The office gave evidence of tampering",
+   "36: offer in good faith ; He gave her his word",
+   "37: submit for consideration, judgment, or use ; give one's opinion ; give an excuse",
+   "38: guide or direct, as by behavior of persuasion ; You gave me to think that you agreed with me",
+   "39: allow to have or take ; I give you two minutes to respond",
+   "40: inflict as a punishment ; She gave the boy a good spanking ; The judge gave me 10 years",
+   "41: occur ; what gives?",
+   "42: consent to engage in sexual intercourse with a man ; She gave herself to many men",
+   "43: proffer (a body part) ; She gave her hand to her little sister"
+  ]
+ },
+ {
+  "id": 112,
+  "sentence": "This would mean , it can readily be seen , that , again , for each new [[visual]] experience the tracing motions would have to be repeated because of the absence of visual imagery .",
+  "target": "visual",
+  "pos": "a",
+  "senses": [
+   "0: relating to or using sight ; ocular inspection ; an optical illusion",
+   "1: visible; - Shakespeare ; be sure of it; give me the ocular proof ; a visual presentation"
+  ]
+ },
+ {
+  "id": 113,
+  "sentence": "When [[asked]] how this was different from being a good Protestant , the boy answered , `` It 's the same thing '' .",
+  "target": "asked",
+  "pos": "v",
+  "senses": [
+   "0: inquire about ; I asked about their special today ; He had to ask directions several times",
+   "1: make a request or demand for something to somebody ; She asked him for a loan",
+   "2: direct or put; seek an answer to ; ask a question",
+   "3: consider obligatory; request and expect ; We require our secretary to be on time ; Aren't we asking too much of these children?",
+   "4: address a question to and expect an answer from ; Ask your teacher about trigonometry ; The children asked me about their dead grandmother",
+   "5: require as useful, just, or proper ; It takes nerve to do what she did ; success usually requires hard work",
+   "6: require or ask for as a price or condition ; He is asking $200 for the table ; The kidnappers are asking a million dollars in return for the release of their hostage"
+  ]
+ },
+ {
+  "id": 114,
+  "sentence": "`` I 'd simply [[like]] to know if it is as good as you kind people seem to think '' , he said .",
+  "target": "like",
+  "pos": "v",
+  "senses": [
+   "0: prefer or wish to do something ; Do you care to try this dish? ; Would you like to come along to the movies?",
+   "1: find enjoyable or agreeable ; I like jogging ; She likes to read Russian novels",
+   "2: be fond of ; I like my nephews",
+   "3: feel about or towards; consider, evaluate, or regard ; How did you like the President's speech last night?",
+   "4: want to have ; I'd like a beer now!"
+  ]
+ },
+ {
+  "id": 115,
+  "sentence": "They discovered that , although 42 per cent of a [[sample]] of Catholic students and 15 per cent of the Protestants believed it important to live in accordance with the teachings of their religion , only 8 per cent of the Jewish students had this conviction .",
+  "target": "sample",
+  "pos": "n",
+  "senses": [
+   "0: a small part of something intended as representative of the whole",
+   "1: items selected at random from a population and used to test hypotheses about the population",
+   "2: all or part of a natural object that is collected and preserved as an example of its class"
+  ]
+ },
+ {
+  "id": 116,
+  "sentence": "This article assumes that the rations you are feeding your beef , dairy cattle , and [[sheep]] are adequately balanced with protein , vitamins , and minerals .",
+  "target": "sheep",
+  "pos": "n",
+  "senses": [
+   "0: woolly usually horned ruminant mammal related to the goat",
+   "1: a timid defenseless simpleton who is readily preyed upon",
+   "2: a docile and vulnerable person who would rather follow than make an independent decision ; his students followed him like sheep"
+  ]
+ },
+ {
+  "id": 117,
+  "sentence": "If we [[break]] the minister to our bit , we are buying back our own sins .",
+  "target": "break",
+  "pos": "v",
+  "senses": [
+   "0: terminate ; She interrupted her pregnancy ; break a lucky streak",
+   "1: become separated into pieces or fragments ; The figurine broke ; The freshly baked loaf fell apart",
+   "2: render inoperable or ineffective ; You broke the alarm clock when you took it apart!",
+   "3: ruin completely ; He busted my radio!",
+   "4: destroy the integrity of; usually by force; cause to separate into pieces or fragments ; He broke the glass plate ; She broke the match",
+   "5: act in disregard of laws, rules, contracts, or promises ; offend all laws of humanity ; violate the basic laws or human civilization",
+   "6: move away or escape suddenly ; The horses broke from the stable ; Three inmates broke jail",
+   "7: scatter or part ; The clouds broke after the heavy downpour",
+   "8: force out or release suddenly and often violently something pent up ; break into tears ; erupt in anger",
+   "9: prevent completion ; stop the project ; break off the negotiations",
+   "10: enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act ; Someone broke in while I was on vacation ; They broke into my car and stole my radio!",
+   "11: make submissive, obedient, or useful ; The horse was tough to break ; I broke in the new intern",
+   "12: fail to agree with; be in violation of; as of rules or patterns ; This sentence violates the rules of syntax",
+   "13: surpass in excellence ; She bettered her own record ; break a record",
+   "14: make known to the public information that was previously known only to a few people or that was meant to be kept a secret ; The auction house would not disclose the price at which the van Gogh had sold ; The actress won't reveal how old she is",
+   "15: come into being ; light broke over the horizon ; Voices broke in the air",
+   "16: stop operating or functioning ; The engine finally went ; The car died on the road",
+   "17: interrupt a continued activity ; She had broken with the traditional patterns",
+   "18: make a rupture in the ranks of the enemy or one's own by quitting or fleeing ; The ranks broke",
+   "19: curl over and fall apart in surf or foam, of waves ; The surf broke",
+   "20: lessen in force or effect ; soften a shock ; break a fall",
+   "21: be broken in ; If the new teacher won't break, we'll add some stress",
+   "22: come to an end ; The heat wave finally broke yesterday",
+   "23: vary or interrupt a uniformity or continuity ; The flat plain was broken by tall mesas",
+   "24: cause to give up a habit ; She finally broke herself of smoking cigarettes",
+   "25: give up ; break cigarette smoking",
+   "26: come forth or begin from a state of latency ; The first winter storm broke over New York",
+   "27: happen or take place ; Things have been breaking pretty well for us in the past few months",
+   "28: cause the failure or ruin of ; His peccadilloes finally broke his marriage ; This play will either make or break the playwright",
+   "29: invalidate by judicial action ; The will was broken",
+   "30: discontinue an association or relation; go different ways ; The business partners broke over a tax question ; The couple separated after 25 years of marriage",
+   "31: assign to a lower position; reduce in rank ; She was demoted because she always speaks up ; He was broken down to Sergeant",
+   "32: reduce to bankruptcy ; My daughter's fancy wedding is going to break me! ; The slump in the financial markets smashed him",
+   "33: change directions suddenly",
+   "34: emerge from the surface of a body of water ; The whales broke",
+   "35: break down, literally or metaphorically ; The wall collapsed ; The business collapsed",
+   "36: do a break dance ; Kids were break-dancing at the street corner",
+   "37: exchange for smaller units of money ; I had to break a $100 bill just to buy the candy",
+   "38: destroy the completeness of a set of related items ; The book dealer would not break the set",
+   "39: make the opening shot that scatters the balls",
+   "40: separate from a clinch, in boxing ; The referee broke the boxers",
+   "41: go to pieces ; The lawn mower finally broke ; The gears wore out",
+   "42: break a piece from a whole ; break a branch from a tree",
+   "43: become punctured or penetrated ; The skin broke",
+   "44: pierce or penetrate ; The blade broke her skin",
+   "45: be released or become known; of news ; News of her death broke in the morning",
+   "46: cease an action temporarily ; We pause for station identification ; let's break for lunch",
+   "47: interrupt the flow of current in ; break a circuit",
+   "48: undergo breaking ; The simple vowels broke in many Germanic languages",
+   "49: find a flaw in ; break an alibi ; break down a proof",
+   "50: find the solution or key to ; break the code",
+   "51: change suddenly from one tone quality or register to another ; Her voice broke to a whisper when she started to talk about her children",
+   "52: happen ; Report the news as it develops ; These political movements recrudesce from time to time",
+   "53: become fractured; break or crack on the surface only ; The glass cracked when it was heated",
+   "54: crack; of the male voice in puberty ; his voice is breaking--he should no longer sing in the choir",
+   "55: fall sharply ; stock prices broke",
+   "56: fracture a bone of ; I broke my foot while playing hockey",
+   "57: diminish or discontinue abruptly ; The patient's fever broke last night",
+   "58: weaken or destroy in spirit or body ; His resistance was broken ; a man broken by the terrible experience of near-death"
+  ]
+ },
+ {
+  "id": 118,
+  "sentence": "`` All too frequently '' , points out [[James O' Gara]] , managing editor of Commonweal , `` Catholics run roughshod over Protestant sensibilities in this matter , by failure to consider the reasoning behind the Protestant position and , particularly , by their jibes at the fact that Protestant opinion on birth control has changed in recent decades '' .",
+  "target": "James O' Gara",
+  "pos": "n",
+  "senses": [
+   "0: a human being ; there was too much for one person to do",
+   "1: a human body (usually including the clothing) ; a weapon was hidden on his person",
+   "2: a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party ; stop talking about yourself in the third person"
+  ]
+ },
+ {
+  "id": 119,
+  "sentence": "Yet every Sunday we sinners go to that emergency room to receive first aid , and we [[leave]] unmindful that the man who ministered to us is a human being who suffers , too .",
+  "target": "leave",
+  "pos": "v",
+  "senses": [
+   "0: go away from a place ; At what time does your train leave? ; She didn't leave until midnight",
+   "1: go and leave behind, either intentionally or by neglect or forgetfulness ; She left a mess when she moved out ; His good luck finally left him",
+   "2: act or be so as to become in a specified state ; The inflation left them penniless ; The president's remarks left us speechless",
+   "3: leave unchanged or undisturbed or refrain from taking ; leave it as is ; leave the young fawn alone",
+   "4: move out of or depart from ; leave the room ; the fugitive has left the country",
+   "5: make a possibility or provide opportunity for; permit to be attainable or cause to remain ; This leaves no room for improvement ; The evidence allows only one conclusion",
+   "6: have as a result or residue ; The water left a mark on the silk dress ; Her blood left a stain on the napkin",
+   "7: remove oneself from an association with or participation in ; She wants to leave ; The teenager left home",
+   "8: put into the care or protection of someone ; He left the decision to his deputy ; leave your child the nurse's care",
+   "9: leave or give by will after one's death ; My aunt bequeathed me all her jewelry ; My grandfather left me his entire estate",
+   "10: have left or have as a remainder ; That left the four of us ; 19 minus 8 leaves 11",
+   "11: be survived by after one's death ; He left six children ; At her death, she left behind her husband and 11 cats",
+   "12: transmit (knowledge or skills) ; give a secret to the Russians ; leave your name and address here",
+   "13: leave behind unintentionally ; I forgot my umbrella in the restaurant ; I left my keys inside the car and locked the doors"
+  ]
+ },
+ {
+  "id": 120,
+  "sentence": "The unstained strips were then marked , using the stained ones as a guide , and [[cut]] transversely so as to separate the various protein bands .",
+  "target": "cut",
+  "pos": "v",
+  "senses": [
+   "0: separate with or as if with an instrument ; Cut the rope",
+   "1: cut down on; make a reduction in ; reduce your daily fat intake ; The employer wants to cut back health benefits",
+   "2: turn sharply; change direction abruptly ; The car cut to the left at the intersection ; The motorbike veered to the right",
+   "3: make an incision or separation ; cut along the dotted line",
+   "4: discharge from a group ; The coach cut two players from the team",
+   "5: form by probing, penetrating, or digging ; cut a hole ; cut trenches",
+   "6: style and tailor in a certain fashion ; cut a dress",
+   "7: hit (a ball) with a spin so that it turns in the opposite direction ; cut a Ping-Pong ball",
+   "8: make out and issue ; write out a check ; cut a ticket",
+   "9: cut and assemble the components of ; edit film ; cut recording tape",
+   "10: intentionally fail to attend ; cut class",
+   "11: be able to manage or manage successfully ; I can't hack it anymore ; she could not cut the long days in the office",
+   "12: give the appearance or impression of ; cut a nice figure",
+   "13: move (one's fist) ; his opponent cut upward toward his chin",
+   "14: pass directly and often in haste ; We cut through the neighbor's yard to get home sooner",
+   "15: pass through or across ; The boat cut the water",
+   "16: make an abrupt change of image or sound ; cut from one scene to another",
+   "17: stop filming ; cut a movie scene",
+   "18: make a recording of ; cut the songs ; She cut all of her major titles again",
+   "19: record a performance on (a medium) ; cut a record",
+   "20: create by duplicating data ; cut a disk ; burn a CD",
+   "21: form or shape by cutting or incising ; cut paper dolls",
+   "22: perform or carry out ; cut a caper",
+   "23: function as a cutting instrument ; This knife cuts well",
+   "24: allow incision or separation ; This bread cuts easily",
+   "25: divide a deck of cards at random into two parts to make selection difficult ; Wayne cut ; She cut the deck for a long time",
+   "26: cause to stop operating by disengaging a switch ; Turn off the stereo, please ; cut the engine",
+   "27: reap or harvest ; cut grain",
+   "28: fell by sawing; hew ; The Vietnamese cut a lot of timber while they occupied Cambodia",
+   "29: penetrate injuriously ; The glass from the shattered windshield cut into her forehead",
+   "30: refuse to acknowledge ; She cut him dead at the meeting",
+   "31: shorten as if by severing the edges or ends of ; cut my hair",
+   "32: weed out unwanted or unnecessary things ; We had to lose weight, so we cut the sugar from our diet",
+   "33: dissolve by breaking down the fat of ; soap cuts grease",
+   "34: have a reducing effect ; This cuts into my earnings",
+   "35: cease, stop ; cut the noise ; We had to cut short the conversation",
+   "36: reduce in scope while retaining essential elements ; The manuscript must be shortened",
+   "37: lessen the strength or flavor of a solution or mixture ; cut bourbon",
+   "38: have grow through the gums ; The baby cut a tooth",
+   "39: grow through the gums ; The new tooth is cutting",
+   "40: cut off the testicles (of male animals such as horses) ; the vet gelded the young horse"
+  ]
+ },
+ {
+  "id": 121,
+  "sentence": "Those are the nectaries or [[honey]] glands ( Fig. 26 , page 74 ) .",
+  "target": "honey",
+  "pos": "n",
+  "senses": [
+   "0: a sweet yellow liquid produced by bees",
+   "1: a beloved person; used as terms of endearment"
+  ]
+ },
+ {
+  "id": 122,
+  "sentence": "When the early part of the gradient was flattened , either by using the gradient shown in Fig. 2 or by allowing the `` cone sphere '' gradient to become established more slowly , Region 2 activity could sometimes be separated into two areas ( donors [[P. J.]] and R. S. , Fig. 1 and E. M. , Fig. 2 ) .",
+  "target": "P. J.",
+  "pos": "n",
+  "senses": [
+   "0: a human being ; there was too much for one person to do",
+   "1: a human body (usually including the clothing) ; a weapon was hidden on his person",
+   "2: a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party ; stop talking about yourself in the third person"
+  ]
+ },
+ {
+  "id": 123,
+  "sentence": "Union Oil Co. of California Tuesday [[offered]] $ 120 million in debentures to the public through a group of underwriters headed by Dillon , Read + Co. , to raise money to retire a similar amount held by Gulf Oil Corp. .",
+  "target": "offered",
+  "pos": "v",
+  "senses": [
+   "0: make available or accessible, provide or furnish ; The conference center offers a health spa ; The hotel offers private meeting rooms",
+   "1: present for acceptance or rejection ; She offered us all a cold drink",
+   "2: agree freely ; She volunteered to drive the old lady home ; I offered to help with the dishes but the hostess would not hear of it",
+   "3: put forward for consideration ; He offered his opinion",
+   "4: offer verbally ; extend my greetings ; He offered his sympathy",
+   "5: make available for sale ; The stores are offering specials on sweaters this week",
+   "6: propose a payment ; The Swiss dealer offered $2 million for the painting",
+   "7: produce or introduce on the stage ; The Shakespeare Company is offering `King Lear' this month",
+   "8: present as an act of worship ; offer prayers to the gods",
+   "9: mount or put up ; put up a good fight ; offer resistance",
+   "10: make available; provide ; extend a loan ; The bank offers a good deal on new mortgages",
+   "11: ask (someone) to marry you ; he popped the question on Sunday night ; she proposed marriage to the man she had known for only two months",
+   "12: threaten to do something ; I offered to leave the committee if they did not accept my proposal"
+  ]
+ },
+ {
+  "id": 124,
+  "sentence": "Besides the bundle centers where contributions may be made there will [[be]] facilities at Philmont Country Club for those who would like to bring the bundles on the night of the party .",
+  "target": "be",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 125,
+  "sentence": "Individual differences in Kohnstamm reactivity to controlled Kohnstamm situations were found among the subjects [[used]] in the study .",
+  "target": "used",
+  "pos": "v",
+  "senses": [
+   "0: put into service; make work or employ for a particular purpose or for its inherent or natural purpose ; use your head! ; we only use Spanish at home",
+   "1: take or consume (regularly or habitually) ; She uses drugs rarely",
+   "2: use up, consume fully ; The legislature expended its time on school questions",
+   "3: seek or achieve an end by using to one's advantage ; She uses her influential friends to get jobs ; The president's wife used her good connections",
+   "4: avail oneself to ; apply a principle ; practice a religion",
+   "5: habitually do something (use only in the past tense) ; She used to call her mother every week but now she calls only occasionally ; I used to get sick when I ate in that dining hall"
+  ]
+ },
+ {
+  "id": 126,
+  "sentence": "It appears that an Orthodox girl in the community [[disrupted]] plans for an outing sponsored by one of the Jewish service groups because she would not travel on Saturday and , in addition , required kosher food .",
+  "target": "disrupted",
+  "pos": "v",
+  "senses": [
+   "0: make a break in ; We interrupt the program for the following messages",
+   "1: throw into disorder ; This event disrupted the orderly process",
+   "2: interfere in someone else's activity ; Please don't interrupt me while I'm on the phone"
+  ]
+ },
+ {
+  "id": 127,
+  "sentence": "A measure of how hot the stock [[was]] , can be found in what happened to it on the market as soon as trading began .",
+  "target": "was",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 128,
+  "sentence": "At the same time , there is a good deal of self congratulation at attending a good college - they are even inclined to exaggerate its not inconsiderable virtues - and they express pleasure at the cozy in-group feeling that the [[college]] generates .",
+  "target": "college",
+  "pos": "n",
+  "senses": [
+   "0: the body of faculty and students of a college",
+   "1: an institution of higher education created to educate and grant degrees; often a part of a university",
+   "2: a complex of buildings in which an institution of higher education is housed"
+  ]
+ },
+ {
+  "id": 129,
+  "sentence": "That after [[all]] his years of effort to become a composer , he should now , now when he was still stoutly replying to the critics of his Discourse on the Arts and Sciences , be so close to a success in music and have to reject it .",
+  "target": "all",
+  "pos": "a",
+  "senses": [
+   "0: quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class ; we sat up all night ; ate all the food",
+   "1: completely given to or absorbed by ; became all attention"
+  ]
+ },
+ {
+  "id": 130,
+  "sentence": "This circumstance in the patient 's case plus the fact that his tactual capacity remained basically in sound working order constitutes its exceptional value for the problem at hand since the evidence presented by the [[authors]] is overwhelming that , when the patient closed his eyes , he had absolutely no spatial ( that is , third-dimensional ) awareness whatsoever .",
+  "target": "authors",
+  "pos": "n",
+  "senses": [
+   "0: writes (books or stories or articles or the like) professionally (for pay)",
+   "1: someone who originates or causes or initiates something ; he was the generator of several complaints"
+  ]
+ },
+ {
+  "id": 131,
+  "sentence": "Currently , marina is used to indicate a municipal or commercially operated facility where a pleasure boat may dock and [[find]] some or all of the following available : gasoline , fresh water , electricity , telephone service , ice , repair facilities , restaurants , sleeping accommodations , a general store , and a grocery store .",
+  "target": "find",
+  "pos": "v",
+  "senses": [
+   "0: come upon, as if by accident; meet with ; We find this idea in Plato ; I happened upon the most wonderful bakery not very far from here",
+   "1: discover or determine the existence, presence, or fact of ; She detected high levels of lead in her drinking water ; We found traces of lead in the paint",
+   "2: come upon after searching; find the location of something that was missed or lost ; Did you find your glasses? ; I cannot find my gloves!",
+   "3: establish after a calculation, investigation, experiment, survey, or study ; find the product of two numbers ; The physicist who found the elusive particle won the Nobel Prize",
+   "4: come to believe on the basis of emotion, intuitions, or indefinite grounds ; I feel that he doesn't like me ; I find him to be obnoxious",
+   "5: perceive or be contemporaneous with ; We found Republicans winning the offices ; You'll see a lot of cheating in this school",
+   "6: get something or somebody for a specific purpose ; I found this gadget that will serve as a bottle opener ; I got hold of these tools to fix our plumbing",
+   "7: make a discovery, make a new finding ; Roentgen discovered X-rays ; Physicists believe they found a new elementary particle",
+   "8: make a discovery ; She found that he had lied to her ; The story is false, so far as I can discover",
+   "9: obtain through effort or management ; She found the time and energy to take care of her aging parents ; We found the money to send our sons to college",
+   "10: decide on and make a declaration about ; find someone guilty",
+   "11: receive a specified treatment (abstract) ; These aspects of civilization do not find expression or receive an interpretation ; His movie received a good review",
+   "12: perceive oneself to be in a certain condition or place ; I found myself in a difficult situation ; When he woke up, he found himself in a hospital room",
+   "13: get or find back; recover the use of ; She regained control of herself ; She found her voice and replied quickly",
+   "14: succeed in reaching; arrive at ; The arrow found its mark",
+   "15: accept and make use of one's personality, abilities, and situation ; My son went to Berkeley to find himself"
+  ]
+ },
+ {
+  "id": 132,
+  "sentence": "He [[was]] there one season before rejoining the Steelers as an assistant coach .",
+  "target": "was",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 133,
+  "sentence": "In 1920 , the Lambeth Conference repeated its 1908 condemnation of contraception and issued `` an emphatic warning against the [[use]] of unnatural means for the avoidance of conception , together with the grave dangers - physical , moral , and religious - thereby incurred , and against the evils which the extension of such use threaten the race '' .",
+  "target": "use",
+  "pos": "n",
+  "senses": [
+   "0: the act of using ; he warned against the use of narcotic drugs ; skilled in the utilization of computers",
+   "1: what something is used for ; the function of an auger is to bore holes ; ballet is beautiful but what use is it?",
+   "2: a particular service ; he put his knowledge to good use ; patrons have their uses",
+   "3: (economics) the utilization of economic goods to satisfy needs or in manufacturing ; the consumption of energy has increased steadily",
+   "4: (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition ; owls have nocturnal habits ; she had a habit twirling the ends of her hair",
+   "5: exerting shrewd or devious influence especially for one's own advantage ; his manipulation of his friends was scandalous",
+   "6: (law) the exercise of the legal right to enjoy the benefits of owning property ; we were given the use of his boat"
+  ]
+ },
+ {
+  "id": 134,
+  "sentence": "A crowd of 1400 is expected for the ceremonies , which will be followed by the [[show]] in which the writers will lampoon baseball personalities in skit , dance and song .",
+  "target": "show",
+  "pos": "n",
+  "senses": [
+   "0: the act of publicly exhibiting or entertaining ; a remarkable show of skill",
+   "1: something intended to communicate a particular impression ; made a display of strength ; a show of impatience",
+   "2: a social event involving a public performance or entertainment ; they wanted to see some of the shows on Broadway",
+   "3: pretending that something is the case in order to make a good impression ; they try to keep up appearances ; that ceremony is just for show"
+  ]
+ },
+ {
+  "id": 135,
+  "sentence": "Can you visualize [[being]] stranded with him on a desert island for years and years and still find him fascinating ?",
+  "target": "being",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 136,
+  "sentence": "Afraid at one and the same time that his work might be turned down - which would be a blow to his pride even though no one knew he was the author - and that the work would be accepted , and then that his violent feelings in the matter would certainly betray how deeply concerned he [[was]] in spite of himself .",
+  "target": "was",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 137,
+  "sentence": "Hence , the flow conditions at the [[anode]] of free burning arcs resemble those near a stagnation point .",
+  "target": "anode",
+  "pos": "n",
+  "senses": [
+   "0: a positively charged electrode by which electrons leave an electrical device",
+   "1: the negatively charged terminal of a voltaic cell or storage battery that supplies current"
+  ]
+ },
+ {
+  "id": 138,
+  "sentence": "The ball went off in a majestic [[arc]] , an out-of-bounds slice .",
+  "target": "arc",
+  "pos": "n",
+  "senses": [
+   "0: electrical conduction through a gas in an applied electric field",
+   "1: a continuous portion of a circle",
+   "2: something curved in shape"
+  ]
+ },
+ {
+  "id": 139,
+  "sentence": "In their first two years in high school , Jewish boys in this town make strenuous exertions to win positions on the school [[teams]] .",
+  "target": "teams",
+  "pos": "n",
+  "senses": [
+   "0: a cooperative unit (especially in sports)",
+   "1: two or more draft animals that work together to pull something"
+  ]
+ },
+ {
+  "id": 140,
+  "sentence": "The latter [[involved]] hitting a full four-wood out to the first fairway and toward the clubhouse , hoping to slice it back to the deeply bunkered 9 th green .",
+  "target": "involved",
+  "pos": "v",
+  "senses": [
+   "0: connect closely and often incriminatingly ; This new ruling affects your business",
+   "1: engage as a participant ; Don't involve me in your family affairs!",
+   "2: have as a necessary feature ; This decision involves many changes",
+   "3: require as useful, just, or proper ; It takes nerve to do what she did ; success usually requires hard work",
+   "4: contain as a part ; Dinner at Joe's always involves at least six courses",
+   "5: occupy or engage the interest of ; His story completely involved me during the entire afternoon",
+   "6: make complex or intricate or complicated ; The situation was rather involved"
+  ]
+ },
+ {
+  "id": 141,
+  "sentence": "Mr. and Mrs. Harry D. Hoaps , Jr. have [[returned]] to their home in Drexel Park , after spending some time in Delray Beach Fla. .",
+  "target": "returned",
+  "pos": "v",
+  "senses": [
+   "0: go or come back to place, condition, or activity where one has been before ; return to your native land ; the professor returned to his teaching position after serving as Dean",
+   "1: give back ; render money",
+   "2: go back to a previous state ; We reverted to the old rules",
+   "3: go back to something earlier ; This harks back to a previous remark of his",
+   "4: bring back to the point of departure",
+   "5: return in kind ; return a compliment ; return her love",
+   "6: make a return ; return a kickback",
+   "7: answer back",
+   "8: be restored ; Her old vigor returned",
+   "9: pay back ; Please refund me my money",
+   "10: pass down ; render a verdict ; deliver a judgment",
+   "11: elect again",
+   "12: be inherited by ; The estate fell to my sister ; The land returned to the family",
+   "13: return to a previous position; in mathematics ; The point returned to the interior of the figure",
+   "14: give or supply ; The cow brings in 5 liters of milk ; This year's crop yielded 1,000 bushels of corn",
+   "15: submit (a report, etc.) to someone in authority ; submit a bill to a legislative body"
+  ]
+ },
+ {
+  "id": 142,
+  "sentence": "It is significant , too , that the older teen-agers I interviewed [[believed]] , unlike the younger ones , that Jewish students tend to do better academically than their gentile counterparts .",
+  "target": "believed",
+  "pos": "v",
+  "senses": [
+   "0: accept as true; take to be true ; I believed his report ; We didn't believe his stories from the War",
+   "1: judge or regard; look upon; judge ; I think he is very smart ; I believe her to be very smart",
+   "2: be confident about something ; I believe that he will come back from the war",
+   "3: follow a credo; have a faith; be a believer ; When you hear his sermons, you will be able to believe, too",
+   "4: credit with veracity ; You cannot believe this man ; Should we believe a publication like the National Enquirer?"
+  ]
+ },
+ {
+  "id": 143,
+  "sentence": "As we have already seen in the first chapter , bumblebees are bigger , hairier , and much more colorful than honeybees , exhibiting various combinations of [[black]] , yellow , white and orange .",
+  "target": "black",
+  "pos": "n",
+  "senses": [
+   "0: the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)",
+   "1: total absence of light ; they fumbled around in total darkness ; in the black of night",
+   "2: British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)",
+   "3: popular child actress of the 1930's (born in 1928)",
+   "4: a person with dark skin who comes from Africa (or whose ancestors came from Africa)",
+   "5: (board games) the darker pieces",
+   "6: black clothing (worn as a sign of mourning) ; the widow wore black"
+  ]
+ },
+ {
+  "id": 144,
+  "sentence": "Recounting personal observations of clearance work , the Councilman cited instances of inefficient use of equipment or supplies by poorly trained workers and urged that plow blades be [[set]] so they do not leave behind a thin layer of snow which eventually freezes .",
+  "target": "set",
+  "pos": "v",
+  "senses": [
+   "0: put into a certain place or abstract location ; Put your things here ; Set the tray down",
+   "1: fix conclusively or authoritatively ; set the rules",
+   "2: decide upon or fix definitely ; fix the variables ; specify the parameters",
+   "3: establish as the highest level or best performance ; set a record",
+   "4: put into a certain state; cause to be in a certain state ; set the house afire",
+   "5: fix in a border ; The goldsmith set the diamond",
+   "6: make ready or suitable or equip in advance for a particular purpose or for some use, event, etc ; Get the children ready for school! ; prepare for war",
+   "7: set to a certain position or cause to operate correctly ; set clocks or instruments",
+   "8: locate ; The film is set in Africa",
+   "9: disappear beyond the horizon ; the sun sets early these days",
+   "10: adapt for performance in a different way ; set this poem to music",
+   "11: put or set (seeds, seedlings, or plants) into the ground ; Let's plant flowers in the garden",
+   "12: apply or start ; set fire to a building",
+   "13: become gelatinous ; the liquid jelled after we added the enzyme",
+   "14: set in type ; My book will be typeset nicely ; set these words in italics",
+   "15: put into a position that will restore a normal state ; set a broken bone",
+   "16: insert (a nail or screw below the surface, as into a countersink)",
+   "17: give a fine, sharp edge to a knife or razor",
+   "18: urge to attack someone ; The owner sicked his dogs on the intruders ; the shaman sics sorcerers on the evil spirits",
+   "19: estimate ; We put the time of arrival at 8 P.M.",
+   "20: equip with sails or masts ; rig a ship",
+   "21: get ready for a particular purpose or event ; set up an experiment ; set the table",
+   "22: alter or regulate so as to achieve accuracy or conform to a standard ; Adjust the clock, please ; correct the alignment of the front wheels",
+   "23: bear fruit ; the apple trees fructify",
+   "24: arrange attractively ; dress my hair for the wedding"
+  ]
+ },
+ {
+  "id": 145,
+  "sentence": "Upon the expiration of a period deemed adequate for [[demonstration]] purposes for each plant , but not to exceed such twelve year period , the Secretary shall proceed as promptly as practicable to dispose of any plants so constructed by sale to the highest bidder , or as may otherwise be directed by Act of Congress .",
+  "target": "demonstration",
+  "pos": "n",
+  "senses": [
+   "0: a show or display; the act of presenting something to sight or view ; the presentation of new data ; he gave the customer a demonstration",
+   "1: a show of military force or preparedness ; he confused the enemy with feints and demonstrations",
+   "2: a public display of group feelings (usually of a political nature) ; there were violent demonstrations against the war",
+   "3: proof by a process of argument or a series of proposition proving an asserted conclusion",
+   "4: a visual presentation showing how something works ; the lecture was accompanied by dramatic demonstrations ; the lecturer shot off a pistol as a demonstration of the startle response"
+  ]
+ },
+ {
+  "id": 146,
+  "sentence": "Mr. Simpkins will move into the post being vacated by Thomas B. Finan , earlier named attorney general to succeed C. Ferdinand Sybert , who will be [[elevated]] to an associate judgeship on the Maryland Court of Appeals .",
+  "target": "elevated",
+  "pos": "v",
+  "senses": [
+   "0: give a promotion to or assign to a higher position ; John was kicked upstairs when a replacement was hired ; Women tend not to advance in the major law firms",
+   "1: raise from a lower to a higher position ; Raise your hands ; Lift a load",
+   "2: raise in rank or condition ; The new law lifted many people from poverty"
+  ]
+ },
+ {
+  "id": 147,
+  "sentence": "Mr. and Mrs. Richard B. McConnell and their son-in-law and daughter , Mr. and Mrs. Raymond B. Walker will [[be]] hosts this Tuesday evening at dinner at the State st. home of the Walkers honoring Mrs. McConnell 's debutante niece , Miss Barbara Williams .",
+  "target": "be",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 148,
+  "sentence": "Turning to the more modern versions , Curzon 's ( London ) offers the most sophisticated [[keyboard]] work .",
+  "target": "keyboard",
+  "pos": "n",
+  "senses": [
+   "0: device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like",
+   "1: holder consisting of an arrangement of hooks on which keys or locks can be hung"
+  ]
+ },
+ {
+  "id": 149,
+  "sentence": "The transpiring gas ejected from the anode formed a [[jet]] directed axially towards the cathode below .",
+  "target": "jet",
+  "pos": "n",
+  "senses": [
+   "0: an airplane powered by one or more jet engines",
+   "1: the occurrence of a sudden discharge (as of liquid)",
+   "2: a hard black form of lignite that takes a brilliant polish and is used in jewelry or ornamentation",
+   "3: atmospheric discharges (lasting 10 msec) bursting from the tops of giant storm clouds in blue cones that widen as they flash upward",
+   "4: street names for ketamine",
+   "5: an artificially produced flow of water"
+  ]
+ },
+ {
+  "id": 150,
+  "sentence": "The night was so clear that Richardson [[had]] no difficulty making out the silhouette .",
+  "target": "had",
+  "pos": "v",
+  "senses": [
+   "0: have or possess, either in a concrete or an abstract sense ; She has $1,000 in the bank ; He has got two beautiful daughters",
+   "1: have as a feature ; This restaurant features the most famous chefs in France",
+   "2: go through (mental or physical states or experiences) ; get an idea ; experience vertigo",
+   "3: have ownership or possession of ; He owns three houses in Florida ; How many cars does she have?",
+   "4: cause to move; cause to be in a certain position or condition ; He got his squad on the ball ; This let me in for a big surprise",
+   "5: serve oneself to, or consume regularly ; Have another bowl of chicken soup! ; I don't take sugar in my coffee",
+   "6: have a personal or business relationship with someone ; have a postdoc ; have an assistant",
+   "7: organize or be responsible for ; hold a reception ; have, throw, or make a party",
+   "8: have left ; I have two years left ; I don't have any money left",
+   "9: be confronted with ; What do we have here? ; Now we have a fine mess",
+   "10: undergo ; The stocks had a fast run-up",
+   "11: suffer from; be ill with ; She has arthritis",
+   "12: cause to do; cause to act in a specified manner ; The ads induced me to buy a VCR ; My children finally got me to buy a computer",
+   "13: receive willingly something given or offered ; The only girl who would have him was the miller's daughter ; I won't have this dog in my house!",
+   "14: get something; come into possession of ; receive payment ; receive a gift",
+   "15: undergo (as of injuries and illnesses) ; She suffered a fracture in the accident ; He had an insulin shock after eating three candy bars",
+   "16: achieve a point or goal ; Nicklaus had a 70 ; The Brazilian team got 4 goals",
+   "17: cause to be born ; My wife had twins yesterday!",
+   "18: have sex with; archaic use ; He had taken this woman when she was most vulnerable"
+  ]
+ },
+ {
+  "id": 151,
+  "sentence": "No drummers here , no pipers , and the red coats were covered with a [[fine]] film of dust .",
+  "target": "fine",
+  "pos": "s",
+  "senses": [
+   "0: being satisfactory or in satisfactory condition ; an all-right movie ; the passengers were shaken up but are all right",
+   "1: minutely precise especially in differences in meaning ; a fine distinction",
+   "2: thin in thickness or diameter ; a fine film of oil ; fine hairs",
+   "3: characterized by elegance or refinement or accomplishment ; fine wine ; looking fine in her Easter suit",
+   "4: free from impurities; having a high or specified degree of purity ; gold 21 carats fine"
+  ]
+ },
+ {
+  "id": 152,
+  "sentence": "It was shown that by proper anode design the net energy loss of the arc to the anode could be reduced to approximately 15 % of the total [[arc]] energy A detailed energy balance of the anode was established .",
+  "target": "arc",
+  "pos": "n",
+  "senses": [
+   "0: electrical conduction through a gas in an applied electric field",
+   "1: a continuous portion of a circle",
+   "2: something curved in shape"
+  ]
+ },
+ {
+  "id": 153,
+  "sentence": "The 1958 military pay act departed from this established [[formula]] by providing for a 6 % increase rather than a proportionate increase for everyone retired prior to its effective date of June 1 , 1958 .",
+  "target": "formula",
+  "pos": "n",
+  "senses": [
+   "0: a group of symbols that make a mathematical statement",
+   "1: directions for making something",
+   "2: a conventionalized statement expressing some fundamental principle",
+   "3: a representation of a substance using symbols for its constituent elements",
+   "4: something regarded as a normative example ; the convention of not naming the main character ; violence is the rule not the exception",
+   "5: a liquid food for infants",
+   "6: (mathematics) a standard procedure for solving a class of mathematical problems ; he determined the upper bound with Descartes' rule of signs ; he gave us a general formula for attacking polynomials"
+  ]
+ },
+ {
+  "id": 154,
+  "sentence": "Additional courses can readily be [[added]] and special cooperative programs worked out with any new industry if the basic facilities , staff and program are in being .",
+  "target": "added",
+  "pos": "v",
+  "senses": [
+   "0: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of ; We added two students to that dorm room ; She added a personal note to her letter",
+   "1: state or say further ; `It doesn't matter,' he supplied",
+   "2: bestow a quality on ; Her presence lends a certain cachet to the company ; The music added a lot to the play",
+   "3: make an addition by combining numbers ; Add 27 and 49, please!",
+   "4: determine the sum of ; Add all the people in this town to those of the neighboring town",
+   "5: constitute an addition ; This paper will add to her reputation"
+  ]
+ },
+ {
+  "id": 155,
+  "sentence": "`` He has the magical [[eye]] .",
+  "target": "eye",
+  "pos": "n",
+  "senses": [
+   "0: the organ of sight",
+   "1: good discernment (either visually or as if visually) ; she has an eye for fresh talent ; he has an artist's eye",
+   "2: attention to what is seen ; he tried to catch her eye",
+   "3: an area that is approximately central within some larger region ; it is in the center of town ; they ran forward into the heart of the struggle",
+   "4: a small hole or loop (as in a needle) ; the thread wouldn't go through the eye"
+  ]
+ },
+ {
+  "id": 156,
+  "sentence": "Thus Burns 's `` My love is like a red , red rose '' and Hopkins ' `` The thunder-purple sea beach , plumed purple of thunder '' although clearly intelligible in [[content]] , hardly present ideas of the sort with which we are here concerned .",
+  "target": "content",
+  "pos": "n",
+  "senses": [
+   "0: everything that is included in a collection and that is held or included in something ; he emptied the contents of his pockets ; the two groups were similar in content",
+   "1: what a communication that is about something is about",
+   "2: the proportion of a substance that is contained in a mixture or alloy etc.",
+   "3: the amount that can be contained ; the gas tank has a capacity of 12 gallons",
+   "4: the sum or range of what has been perceived, discovered, or learned",
+   "5: the state of being contented with your situation in life ; he relaxed in sleepy contentedness ; they could read to their heart's content",
+   "6: something (a person or object or scene) selected by an artist or photographer for graphic representation ; a moving picture of a train is more dramatic than a still picture of the same subject"
+  ]
+ },
+ {
+  "id": 157,
+  "sentence": "An analysis of the fiscal-tax collection year calendars throughout the state indicates that transition may not [[be]] as painful as is commonly thought .",
+  "target": "be",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 158,
+  "sentence": "In plasma generators as currently commercially available for industrial use or as high temperature research tools often more than 50 % of the total energy input is being transferred to the cooling [[medium]] of the anode .",
+  "target": "medium",
+  "pos": "n",
+  "senses": [
+   "0: a means or instrumentality for storing or communicating information",
+   "1: the surrounding environment ; fish require an aqueous medium",
+   "2: an intervening substance through which signals can travel as a means for communication",
+   "3: (bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms",
+   "4: a liquid with which pigment is mixed by a painter",
+   "5: (biology) a substance in which specimens are preserved or displayed",
+   "6: an intervening substance through which something is achieved ; the dissolving medium is called a solvent",
+   "7: a state that is intermediate between extremes; a middle position ; a happy medium",
+   "8: someone who serves as an intermediary between the living and the dead ; he consulted several mediums",
+   "9: (usually plural) transmissions that are disseminated widely to the public",
+   "10: an occupation for which you are especially well suited ; in law he found his true metier"
+  ]
+ },
+ {
+  "id": 159,
+  "sentence": "During World War 2 , about 7.5 million persons were enrolled in courses organized under two special programs administered by state and local school authorities : ( 1 ) Vocational [[Education]] for National Defense , and ( 2 ) War Production Training .",
+  "target": "Education",
+  "pos": "n",
+  "senses": [
+   "0: the activities of educating or instructing; activities that impart knowledge or skill ; he received no formal education ; our instruction was carefully programmed",
+   "1: knowledge acquired by learning and instruction ; it was clear that he had a very broad education",
+   "2: the gradual process of acquiring knowledge ; education is a preparation for life ; a girl's education was less important than a boy's",
+   "3: the profession of teaching (especially at a school or college or university)",
+   "4: the result of good upbringing (especially knowledge of correct social behavior) ; a woman of breeding and refinement",
+   "5: the United States federal department that administers all federal programs dealing with education (including federal aid to educational institutions and students); created 1979"
+  ]
+ },
+ {
+  "id": 160,
+  "sentence": "In 1930 , the Lambeth Conference again [[affirmed]] the primary purpose of marriage to be the procreation of children , but conceded that , in certain limited circumstances , contraception might be morally legitimate .",
+  "target": "affirmed",
+  "pos": "v",
+  "senses": [
+   "0: establish or strengthen as with new evidence or facts ; his story confirmed my doubts ; The evidence supports the defendant",
+   "1: to declare or affirm solemnly and formally as true ; Before God I swear I am innocent",
+   "2: say yes to"
+  ]
+ },
+ {
+  "id": 161,
+  "sentence": "It was predicted that those who [[shifted]] in their Kohnstamm reactivity would differ significantly from those who did not on the factor I which the investigators refer to as the `` Inferiority '' factor .",
+  "target": "shifted",
+  "pos": "v",
+  "senses": [
+   "0: make a shift in or exchange of ; First Joe led; then we switched",
+   "1: change place or direction ; Shift one's position",
+   "2: move around ; transfer the packet from his trouser pockets to a pocket in his jacket",
+   "3: move very slightly ; He shifted in his seat",
+   "4: move from one setting or context to another ; shift the emphasis ; shift one's attention",
+   "5: change in quality ; His tone shifted",
+   "6: move and exchange for another ; shift the date for our class reunion",
+   "7: move sideways or in an unsteady way ; The ship careened out of control",
+   "8: move abruptly ; The ship suddenly lurched to the left",
+   "9: use a shift key on a keyboard ; She could not shift so all her letters are written in lower case",
+   "10: change phonetically as part of a systematic historical change ; Grimm showed how the consonants shifted",
+   "11: change gears ; you have to shift when you go down a steep hill",
+   "12: lay aside, abandon, or leave for another ; switch to a different brand of beer ; She switched psychiatrists"
+  ]
+ },
+ {
+  "id": 162,
+  "sentence": "Homozygous and heterozygous * * f cells , * * f and homozygous and heterozygous * * f cells were used to test each [[sample]] ; however , in the interest of clarity and conciseness only the results obtained with homozygous * * f and homozygous * * f cells will be presented here .",
+  "target": "sample",
+  "pos": "n",
+  "senses": [
+   "0: a small part of something intended as representative of the whole",
+   "1: items selected at random from a population and used to test hypotheses about the population",
+   "2: all or part of a natural object that is collected and preserved as an example of its class"
+  ]
+ },
+ {
+  "id": 163,
+  "sentence": "Accordingly , if it is not repealed by the [[Congress]] at its present session , I shall have no alternative thereafter but to direct the Secretary of Defense to disregard the section unless a court of competent jurisdiction determines otherwise .",
+  "target": "Congress",
+  "pos": "n",
+  "senses": [
+   "0: the legislature of the United States government",
+   "1: a meeting of elected or appointed representatives",
+   "2: a national legislative assembly",
+   "3: the act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur"
+  ]
+ },
+ {
+  "id": 164,
+  "sentence": "As a result , the proportion of males ( which leave the nest ) increases , and eventually the old [[colony]] will die out completely .",
+  "target": "colony",
+  "pos": "n",
+  "senses": [
+   "0: a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government ; the American colony in Paris",
+   "1: a group of organisms of the same type living or growing together",
+   "2: one of the 13 British colonies that formed the original states of the United States",
+   "3: a place where a group of people with the same interest or occupation are concentrated ; a nudist colony ; an artists' colony",
+   "4: a geographical area politically controlled by a distant country",
+   "5: (microbiology) a group of organisms grown from a single parent cell"
+  ]
+ },
+ {
+  "id": 165,
+  "sentence": "As a result , the scope of this [[project]] has been sharply curtailed .",
+  "target": "project",
+  "pos": "n",
+  "senses": [
+   "0: any piece of work that is undertaken or attempted ; he prepared for great undertakings",
+   "1: a planned undertaking"
+  ]
+ },
+ {
+  "id": 166,
+  "sentence": "To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of law and order that was occasioned by the ill-starred Prohibition [[experiment]] .",
+  "target": "experiment",
+  "pos": "n",
+  "senses": [
+   "0: the act of conducting a controlled test or investigation",
+   "1: the testing of an idea ; it was an experiment in living ; not all experimentation is done in laboratories",
+   "2: a venture at something new or different ; as an experiment he decided to grow a beard"
+  ]
+ },
+ {
+  "id": 167,
+  "sentence": "[[Cows]] receiving drug may not be officially tested under breed registry testing programs .",
+  "target": "Cows",
+  "pos": "n",
+  "senses": [
+   "0: domesticated bovine animals as a group regardless of sex or age; ; ; - Bible ; so many head of cattle ; wait till the cows come home",
+   "1: female of domestic cattle: ; `moo-cow' is a child's term",
+   "2: mature female of mammals of which the male is called `bull'",
+   "3: a large unpleasant woman"
+  ]
+ },
+ {
+  "id": 168,
+  "sentence": "I know that I myself felt that it was a mortal shame for a man to be torn open by a British musket ball , as Isaac had been , yet I also felt relieved and lucky that it had [[been]] him and not myself .",
+  "target": "been",
+  "pos": "v",
+  "senses": [
+   "0: have the quality of being; (copula, used with an adjective or a predicate noun) ; John is rich ; This is not a good answer",
+   "1: be identical to; be someone or something ; The president of the company is John Smith ; This is my house",
+   "2: occupy a certain position or area; be somewhere ; Where is my umbrella? ; The toolshed is in the back",
+   "3: have an existence, be extant ; Is there a God?",
+   "4: happen, occur, take place ; I lost my wallet; this was during the visit to my parents' house ; There were two hundred people at his funeral",
+   "5: be identical or equivalent to ; One dollar equals 1,000 rubles these days!",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: work in a specific place, with a specific subject, or in a specific function ; He is a herpetologist ; She is our resident philosopher",
+   "8: represent, as of a character on stage ; Derek Jacobi was Hamlet",
+   "9: spend or use time ; I may be an hour",
+   "10: have life, be alive ; Our great leader is no more ; My grandfather lived until the end of war",
+   "11: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form ; let her be",
+   "12: be priced at ; These shoes cost $100"
+  ]
+ },
+ {
+  "id": 169,
+  "sentence": "Any [[alteration]] of one of these factors is distortion , although we generally use that word only for effects so pronounced that they can be stated quantitatively on the basis of standard tests .",
+  "target": "alteration",
+  "pos": "n",
+  "senses": [
+   "0: an event that occurs when something passes from one state or phase to another ; the change was intended to increase sales ; this storm is certainly a change for the worse",
+   "1: the act of making something different (as e.g. the size of a garment)",
+   "2: the act of revising or altering (involving reconsideration and modification) ; it would require a drastic revision of his opinion"
+  ]
+ },
+ {
+  "id": 170,
+  "sentence": "This was one of the Navy 's crossroads - you [[find]] them all around the world .",
+  "target": "find",
+  "pos": "v",
+  "senses": [
+   "0: come upon, as if by accident; meet with ; We find this idea in Plato ; I happened upon the most wonderful bakery not very far from here",
+   "1: discover or determine the existence, presence, or fact of ; She detected high levels of lead in her drinking water ; We found traces of lead in the paint",
+   "2: come upon after searching; find the location of something that was missed or lost ; Did you find your glasses? ; I cannot find my gloves!",
+   "3: establish after a calculation, investigation, experiment, survey, or study ; find the product of two numbers ; The physicist who found the elusive particle won the Nobel Prize",
+   "4: come to believe on the basis of emotion, intuitions, or indefinite grounds ; I feel that he doesn't like me ; I find him to be obnoxious",
+   "5: perceive or be contemporaneous with ; We found Republicans winning the offices ; You'll see a lot of cheating in this school",
+   "6: get something or somebody for a specific purpose ; I found this gadget that will serve as a bottle opener ; I got hold of these tools to fix our plumbing",
+   "7: make a discovery, make a new finding ; Roentgen discovered X-rays ; Physicists believe they found a new elementary particle",
+   "8: make a discovery ; She found that he had lied to her ; The story is false, so far as I can discover",
+   "9: obtain through effort or management ; She found the time and energy to take care of her aging parents ; We found the money to send our sons to college",
+   "10: decide on and make a declaration about ; find someone guilty",
+   "11: receive a specified treatment (abstract) ; These aspects of civilization do not find expression or receive an interpretation ; His movie received a good review",
+   "12: perceive oneself to be in a certain condition or place ; I found myself in a difficult situation ; When he woke up, he found himself in a hospital room",
+   "13: get or find back; recover the use of ; She regained control of herself ; She found her voice and replied quickly",
+   "14: succeed in reaching; arrive at ; The arrow found its mark",
+   "15: accept and make use of one's personality, abilities, and situation ; My son went to Berkeley to find himself"
+  ]
+ },
+ {
+  "id": 171,
+  "sentence": "Such training would increase the tendency of workers to leave the area and find jobs in [[other]] localities .",
+  "target": "other",
+  "pos": "a",
+  "senses": [
+   "0: not the same one or ones already mentioned or implied; - the White Queen ; today isn't any other day ; the construction of highways and other public works",
+   "1: recently past ; the other evening",
+   "2: belonging to the distant past ; the early inhabitants of Europe ; former generations",
+   "3: very unusual; different in character or quality from the normal or expected; - Lance Morrow ; a strange, other dimension...where his powers seemed to fail"
+  ]
+ },
+ {
+  "id": 172,
+  "sentence": "And in its engineers ' frantic attempts to achieve maximum [[dynamic]] impact and earsplitting brilliance , the recording sounds as though it had been `` doctored for super high fidelity '' .",
+  "target": "dynamic",
+  "pos": "a",
+  "senses": [
+   "0: characterized by action or forcefulness or force of personality ; a dynamic market ; a dynamic speaker",
+   "1: of or relating to dynamics",
+   "2: (used of verbs (e.g. `to run') and participial adjectives (e.g. `running' in `running water')) expressing action rather than a state of being"
+  ]
+ },
+ {
+  "id": 173,
+  "sentence": "Horton Smith of Detroit , a former [[president]] of the Professional Golfers Association , will receive the Ben Hogan Trophy for his comeback following a recent illness .",
+  "target": "president",
+  "pos": "n",
+  "senses": [
+   "0: an executive officer of a firm or corporation",
+   "1: the person who holds the office of head of state of the United States government ; the President likes to jog every morning",
+   "2: the chief executive of a republic",
+   "3: the officer who presides at the meetings of an organization ; address your remarks to the chairperson",
+   "4: the head administrative officer of a college or university",
+   "5: the office of the United States head of state ; a President is elected every four years"
+  ]
+ },
+ {
+  "id": 174,
+  "sentence": "One cannot make a [[very]] satisfactory guess about the micrometeorite flux in space .",
+  "target": "very",
+  "pos": "r",
+  "senses": [
+   "0: used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal ; she was very gifted ; he played very well",
+   "1: precisely so ; on the very next page ; he expected the very opposite"
+  ]
+ },
+ {
+  "id": 175,
+  "sentence": "There simply is not enough material available on the [[types]] of job skills that are in demand and the types of training programs that are required or most suitable .",
+  "target": "types",
+  "pos": "n",
+  "senses": [
+   "0: a subdivision of a particular kind of thing ; what type of sculpture do you prefer?",
+   "1: a person of a specified kind (usually with many eccentricities) ; a real character ; a strange character",
+   "2: (biology) the taxonomic group whose characteristics are used to define the next higher taxon",
+   "3: printed characters ; small type is hard to read",
+   "4: all of the tokens of the same symbol ; the word `element' contains five different types of character",
+   "5: a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper ; he dropped a case of type, so they made him pick them up"
+  ]
+ },
+ {
+  "id": 176,
+  "sentence": "( 1 ) When an object was placed in the patient 's hand , he had no difficulty determining whether it was warm or cold , sharp or blunt , rough or smooth , [[flexible]] , soft , or hard ; and he could tell , simply by the feel of it , whether it was made of wood , iron , cloth , rubber , and so on .",
+  "target": "flexible",
+  "pos": "a",
+  "senses": [
+   "0: capable of being changed ; flexible schedules",
+   "1: able to flex; able to bend easily ; slim flexible birches",
+   "2: able to adjust readily to different conditions ; an adaptable person ; a flexible personality",
+   "3: bending and snapping back readily without breaking",
+   "4: making or willing to make concessions ; loneliness tore through him...whenever he thought of...even the compromising Louis du Tillet"
+  ]
+ },
+ {
+  "id": 177,
+  "sentence": "The U. S. Office of Education continues to stress [[local]] surveys rather than national surveys .",
+  "target": "local",
+  "pos": "a",
+  "senses": [
+   "0: relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area ; local taxes ; local authorities",
+   "1: of or belonging to or characteristic of a particular locality or neighborhood ; local customs ; local schools",
+   "2: affecting only a restricted part or area of the body ; local anesthesia"
+  ]
+ },
+ {
+  "id": 178,
+  "sentence": "In the end , I did the same old picture , the [[naked]] girl and the guy in the doorway , only I put a Lord Byron shirt on the guy , gave him a sword instead of a pistol , and painted in furniture from the stills of a costume movie .",
+  "target": "naked",
+  "pos": "s",
+  "senses": [
+   "0: completely unclothed ; bare bodies ; naked from the waist up",
+   "1: having no protecting or concealing cover; - Shakespeare ; naked to mine enemies",
+   "2: (of the eye or ear e.g.) without the aid of an optical or acoustical device or instrument ; visible to the naked eye",
+   "3: devoid of elaboration or diminution or concealment; bare and pure ; naked ambition ; raw fury",
+   "4: lacking any cover ; naked branches of the trees ; lie on the naked rock"
+  ]
+ },
+ {
+  "id": 179,
+  "sentence": "The direct evidence on the micrometeorite environment near the Earth is obtained from piezoelectric sensors ( essentially microphones ) and from wire gages ; these instruments are [[installed]] on rockets , satellites , and space probes .",
+  "target": "installed",
+  "pos": "v",
+  "senses": [
+   "0: set up for use ; install the washer and dryer ; We put in a new sink",
+   "1: put into an office or a position ; the new president was installed immediately after the election",
+   "2: place ; Her manager had set her up at the Ritz"
+  ]
+ },
+ {
+  "id": 180,
+  "sentence": "coordinate , correlate , and publish information with a view to advancing the development of low-cost saline water conversion projects ; and cooperate with other Federal departments and agencies , with State and local departments , agencies , and instrumentalities , and with interested [[persons]] , firms , institutions , and organizations .",
+  "target": "persons",
+  "pos": "n",
+  "senses": [
+   "0: a human being ; there was too much for one person to do",
+   "1: a human body (usually including the clothing) ; a weapon was hidden on his person",
+   "2: a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party ; stop talking about yourself in the third person"
+  ]
+ },
+ {
+  "id": 181,
+  "sentence": "Chromatography of whole sera revealed that the areas of Rh antibody activity were [[generally]] continuous and wide .",
+  "target": "generally",
+  "pos": "r",
+  "senses": [
+   "0: usually; as a rule ; by and large it doesn't rain much here",
+   "1: without distinction of one from others ; he is interested in snakes in general",
+   "2: without regard to specific details or exceptions ; he interprets the law broadly"
+  ]
+ },
+ {
+  "id": 182,
+  "sentence": "The young queens and drones leave the nest and mate , and after a short period of freedom , the fertilized young queens will [[begin]] to dig in for the winter .",
+  "target": "begin",
+  "pos": "v",
+  "senses": [
+   "0: take the first step or steps in carrying out an action ; We began working at dawn ; Who will start?",
+   "1: have a beginning, in a temporal, spatial, or evaluative sense ; The DMZ begins right over the hill ; The second movement begins after the Allegro",
+   "2: set in motion, cause to start ; The U.S. started a war in the Middle East ; The Iraqis began hostilities",
+   "3: begin to speak or say;  he began ; Now listen, friends,",
+   "4: be the first item or point, constitute the beginning or start, come first in a series ; The number `one' begins the sequence ; A terrible murder begins the novel",
+   "5: have a beginning, of a temporal event ; WW II began in 1939 when Hitler marched into Poland ; The company's Asia tour begins next month",
+   "6: have a beginning characterized in some specified way ; The novel begins with a murder ; My property begins with the three maple trees",
+   "7: begin an event that is implied and limited by the nature or inherent function of the direct object ; begin a cigar ; She started the soup while it was still hot",
+   "8: achieve or accomplish in the least degree, usually used in the negative ; This economic measure doesn't even begin to deal with the problem of inflation ; You cannot even begin to understand the problem we had to deal with during the war",
+   "9: begin to speak, understand, read, and write a language ; She began Russian at an early age ; We started French in fourth grade"
+  ]
+ },
+ {
+  "id": 183,
+  "sentence": "acquire secret [[processes]] , technical data , inventions , patent applications , patents , licenses , land and interests in land ( including water rights ) , plants and facilities , and other property or rights by purchase , license , lease , or donation ;",
+  "target": "processes",
+  "pos": "n",
+  "senses": [
+   "0: a particular course of action intended to achieve a result ; the procedure of obtaining a driver's license ; it was a process of trial and error",
+   "1: (psychology) the performance of some composite cognitive activity; an operation that affects mental contents ; the process of thinking ; the cognitive operation of remembering",
+   "2: a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+   "3: a mental process that you are not directly aware of ; the process of denial",
+   "4: a natural prolongation or projection from a part of an organism either animal or plant ; a bony process",
+   "5: a sustained phenomenon or one marked by gradual changes through a series of states ; events now in process ; the process of calcification begins later for boys than for girls"
+  ]
+ },
+ {
+  "id": 184,
+  "sentence": "study methods for the recovery and [[marketing]] of commercially valuable byproducts resulting from the conversion of saline water ; and undertake economic studies and surveys to determine present and prospective costs of producing water for beneficial consumptive purposes in various parts of the United States by the leading saline water processes as compared with other standard methods .",
+  "target": "marketing",
+  "pos": "n",
+  "senses": [
+   "0: the exchange of goods for an agreed sum of money",
+   "1: the commercial processes involved in promoting and selling and distributing a product or service ; most companies have a manager in charge of marketing",
+   "2: shopping at a market ; does the weekly marketing at the supermarket"
+  ]
+ },
+ {
+  "id": 185,
+  "sentence": "Still another suggested that he would join a temple `` for social [[reasons]] , since I 'll be living in a suburb '' .",
+  "target": "reasons",
+  "pos": "n",
+  "senses": [
+   "0: a rational motive for a belief or action ; the reason that war was declared ; the grounds for their declaration",
+   "1: an explanation of the cause of some phenomenon ; the reason a steady state was never reached was that the back pressure built up too slowly",
+   "2: the capacity for rational thought or inference or discrimination ; we are told that man is endowed with reason and capable of distinguishing good from evil",
+   "3: the state of having good sense and sound judgment ; his rationality may have been impaired ; he had to rely less on reason than on rousing their emotions",
+   "4: a justification for something existing or happening ; he had no cause to complain ; they had good reason to rejoice",
+   "5: a fact that logically justifies some premise or conclusion ; there is reason to believe he is lying"
+  ]
+ },
+ {
+  "id": 186,
+  "sentence": "One subject changed when [[given]] only the information that some people have something happen to their arm when they relax .",
+  "target": "given",
+  "pos": "v",
+  "senses": [
+   "0: cause to have, in the abstract sense or physical sense ; She gave him a black eye ; The draft gave me a cold",
+   "1: be the cause or source of ; He gave me a lot of trouble ; Our meeting afforded much interesting information",
+   "2: transfer possession of something concrete or abstract to somebody ; I gave her my money ; can you give me lessons?",
+   "3: convey or reveal information ; Give one's name",
+   "4: convey, as of a compliment, regards, attention, etc.; bestow ; Don't pay him any mind ; give the orders",
+   "5: organize or be responsible for ; hold a reception ; have, throw, or make a party",
+   "6: convey or communicate; of a smile, a look, a physical gesture ; Throw a glance ; She gave me a dirty look",
+   "7: give as a present; make a gift of ; What will you give her for her birthday?",
+   "8: cause to happen or be responsible for ; His two singles gave the team the victory",
+   "9: dedicate ; give thought to ; give priority to",
+   "10: give or supply ; The cow brings in 5 liters of milk ; This year's crop yielded 1,000 bushels of corn",
+   "11: transmit (knowledge or skills) ; give a secret to the Russians ; leave your name and address here",
+   "12: bring about ; The trompe l'oeil-illusion establishes depth",
+   "13: leave with; give temporarily ; Can I give you my keys while I go in the pool? ; Can I give you the children for the weekend?",
+   "14: emit or utter ; Give a gulp ; give a yelp",
+   "15: endure the loss of ; He gave his life for his children ; I gave two sons to the war",
+   "16: place into the hands or custody of ; hand me the spoon, please ; Turn the files over to me, please",
+   "17: give entirely to a specific person, activity, or cause ; She committed herself to the work of God ; give one's talents to a good cause",
+   "18: give (as medicine) ; I gave him the drug",
+   "19: give or convey physically ; She gave him First Aid ; I gave him a punch in the nose",
+   "20: bestow ; give homage ; render thanks",
+   "21: bestow, especially officially ; grant a degree ; give a divorce",
+   "22: move in order to make room for someone for something ; The park gave way to a supermarket ; `Move over,' he told the crowd",
+   "23: give food to ; Feed the starving children in India ; don't give the child this tough meat",
+   "24: contribute to some cause ; I gave at the office",
+   "25: break down, literally or metaphorically ; The wall collapsed ; The business collapsed",
+   "26: estimate the duration or outcome of something ; He gave the patient three months to live ; I gave him a very good chance at success",
+   "27: execute and deliver ; Give bond",
+   "28: deliver in exchange or recompense ; I'll give you three books for four CDs",
+   "29: afford access to ; the door opens to the patio ; The French doors give onto a terrace",
+   "30: present to view ; He gave the sign to start",
+   "31: perform for an audience ; Pollini is giving another concert in New York",
+   "32: be flexible under stress of physical force ; This material doesn't give",
+   "33: propose ; He gave the first of many toasts at the birthday party",
+   "34: accord by verdict ; give a decision for the plaintiff",
+   "35: manifest or show ; This student gives promise of real creativity ; The office gave evidence of tampering",
+   "36: offer in good faith ; He gave her his word",
+   "37: submit for consideration, judgment, or use ; give one's opinion ; give an excuse",
+   "38: guide or direct, as by behavior of persuasion ; You gave me to think that you agreed with me",
+   "39: allow to have or take ; I give you two minutes to respond",
+   "40: inflict as a punishment ; She gave the boy a good spanking ; The judge gave me 10 years",
+   "41: occur ; what gives?",
+   "42: consent to engage in sexual intercourse with a man ; She gave herself to many men",
+   "43: proffer (a body part) ; She gave her hand to her little sister"
+  ]
+ },
+ {
+  "id": 187,
+  "sentence": "And those without beards would have stood out as not [[dressed]] for the occasion .",
+  "target": "dressed",
+  "pos": "v",
+  "senses": [
+   "0: put on clothes ; we had to dress quickly ; dress the patient",
+   "1: provide with clothes or put clothes on ; Parents must feed and dress their child",
+   "2: put a finish on ; dress the surface smooth",
+   "3: dress in a certain manner ; She dresses in the latest Paris fashion ; he dressed up in a suit and tie",
+   "4: dress or groom with elaborate care ; She likes to dress when going to the opera",
+   "5: kill and prepare for market or consumption ; dress a turkey",
+   "6: arrange in ranks ; dress troops",
+   "7: decorate (food), as with parsley or other ornamental foods",
+   "8: provide with decoration ; dress the windows",
+   "9: put a dressing on ; dress the salads",
+   "10: cultivate, tend, and cut back the growth of ; dress the plants in the garden",
+   "11: cut down rough-hewn (lumber) to standard thickness and width",
+   "12: convert into leather ; dress the tanned skins",
+   "13: apply a bandage or medication to ; dress the victim's wounds",
+   "14: give a neat appearance to ; groom the dogs ; dress the horses",
+   "15: arrange attractively ; dress my hair for the wedding"
+  ]
+ },
+ {
+  "id": 188,
+  "sentence": "Mazeroski , whose [[homer]] beat the Yankees in the final series game , will receive the Babe Ruth Award as the outstanding player in the 1960 world series .",
+  "target": "homer",
+  "pos": "n",
+  "senses": [
+   "0: a base hit on which the batter scores a run",
+   "1: ancient Greek epic poet who is believed to have written the Iliad and the Odyssey (circa 850 BC)",
+   "2: an ancient Hebrew unit of capacity equal to 10 baths or 10 ephahs",
+   "3: United States painter best known for his seascapes (1836-1910)",
+   "4: pigeon trained to return home"
+  ]
+ },
+ {
+  "id": 189,
+  "sentence": "There are three principal feed bunk types for dairy and beef cattle : ( 1 ) Fence-line bunks - cattle eat from one side while feed is put in from the opposite side of the fence by self unloading [[wagons]] ; ( 2 ) Mechanized bunks - they sit within the feed lot , are filled by a mechanical conveyor above feeding surface ; ( 3 ) Special bunks - as discussed here , they permit cattle to eat from all sides .",
+  "target": "wagons",
+  "pos": "n",
+  "senses": [
+   "0: any of various kinds of wheeled vehicles drawn by an animal or a tractor",
+   "1: van used by police to transport prisoners",
+   "2: a group of seven bright stars in the constellation Ursa Major",
+   "3: a child's four-wheeled toy cart sometimes used for coasting",
+   "4: a car that has a long body and rear door with space behind rear seat"
+  ]
+ },
+ {
+  "id": 190,
+  "sentence": "And so the authors conclude : `` The conduct of the patient in his every-day life and in his work , even more than the foregoing facts [ mentioned above under 1 ] , leave positively no [[room]] for doubt that the sense of touch , in the ordinary sense of the word , was unaffected ; or , to put the same thing in physiological terms , that the performance capacity of the tactual apparatus , from the periphery up to the tactual centers in the brain , - that is , from one end to the other - was unimpaired '' .",
+  "target": "room",
+  "pos": "n",
+  "senses": [
+   "0: an area within a building enclosed by walls and floor and ceiling ; the rooms were very small but they had a nice view",
+   "1: space for movement ; room to pass ; make way for",
+   "2: opportunity for ; room for improvement",
+   "3: the people who are present in a room ; the whole room was cheering"
+  ]
+ },
+ {
+  "id": 191,
+  "sentence": "He had [[style]] , a real inner vision of his very own .",
+  "target": "style",
+  "pos": "n",
+  "senses": [
+   "0: how something is done or how it happens ; her dignified manner ; his rapid manner of talking",
+   "1: a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period ; all the reporters were expected to adopt the style of the newspaper",
+   "2: a particular kind (as to appearance) ; this style of shoe is in demand",
+   "3: the popular taste at a given time ; leather is the latest vogue ; he followed current trends",
+   "4: (botany) the narrow elongated part of the pistil between the ovary and the stigma",
+   "5: editorial directions to be followed in spelling and punctuation and capitalization and typographical display",
+   "6: distinctive and stylish elegance ; he wooed her with the confident dash of a cavalry officer",
+   "7: a pointed tool for writing or drawing or engraving ; he drew the design on the stencil with a steel stylus",
+   "8: a slender bristlelike or tubular process ; a cartilaginous style"
+  ]
+ },
+ {
+  "id": 192,
+  "sentence": "conduct engineering research and technical development work to determine , by laboratory and pilot plant testing , the results of the research and [[studies]] aforesaid in order to develop processes and plant designs to the point where they can be demonstrated on a large and practical scale ;",
+  "target": "studies",
+  "pos": "n",
+  "senses": [
+   "0: a detailed critical inspection",
+   "1: applying the mind to learning and understanding a subject (especially by reading) ; mastering a second language requires a lot of work ; no schools offer graduate study in interior design",
+   "2: a written document describing the findings of some individual or group ; this accords with the recent study by Hill and Dale",
+   "3: a state of deep mental absorption ; she is in a deep study",
+   "4: a room used for reading and writing and studying ; he knocked lightly on the closed door of the study",
+   "5: a branch of knowledge ; in what discipline is his doctorate? ; teachers should be well trained in their subject",
+   "6: preliminary drawing for later elaboration ; he made several studies before starting to paint",
+   "7: attentive consideration and meditation ; after much cogitation he rejected the offer",
+   "8: someone who memorizes quickly and easily (as the lines for a part in a play) ; he is a quick study",
+   "9: a composition intended to develop one aspect of the performer's technique ; a study in spiccato bowing"
+  ]
+ },
+ {
+  "id": 193,
+  "sentence": "Washington never had a chance to [[work]] for an extended stretch at the occupation he loved best , plantation management .",
+  "target": "work",
+  "pos": "v",
+  "senses": [
+   "0: exert oneself by doing mental or physical work for a purpose or out of necessity ; I will work hard to improve my grades ; she worked hard for better living conditions for the poor",
+   "1: be employed ; Is your husband working again? ; My wife never worked",
+   "2: have an effect or outcome; often the one desired or expected ; The voting process doesn't work as well as people thought ; How does your idea work in practice?",
+   "3: perform as expected when applied ; The washing machine won't go unless it's plugged in ; Does this old car still run well?",
+   "4: shape, form, or improve a material ; work stone into tools ; process iron",
+   "5: give a workout to ; Some parents exercise their infants ; My personal trainer works me hard",
+   "6: proceed along a path ; work one's way through the crowd ; make one's way into the forest",
+   "7: operate in a certain place, area, or specialty ; She works the night clubs ; The salesman works the Midwest",
+   "8: proceed towards a goal or along a path or through an activity ; work your way through every problem or task ; She was working on her second martini when the guests arrived",
+   "9: move in an agitated manner ; His fingers worked with tension",
+   "10: cause to happen or to occur as a consequence ; I cannot work a miracle ; wreak havoc",
+   "11: cause to work ; he is working his servants hard",
+   "12: prepare for crops ; Work the soil ; cultivate the land",
+   "13: behave in a certain way when handled ; This dough does not work easily ; The soft metal works well",
+   "14: have and exert influence or effect ; The artist's work influenced the young painter ; She worked on her friends to support the political candidate",
+   "15: operate in or through ; Work the phones",
+   "16: cause to operate or function ; This pilot works the controls ; Can you work an electric drill?",
+   "17: provoke or excite ; The rock musician worked the crowd of young girls into a frenzy",
+   "18: gratify and charm, usually in order to influence ; the political candidate worked the crowds",
+   "19: make something, usually for a specific function ; She molded the rice balls carefully ; Form cylinders from the dough",
+   "20: move into or onto ; work the raisins into the dough ; the student worked a few jokes into his presentation",
+   "21: make uniform ; knead dough ; work the clay until it is soft",
+   "22: use or manipulate to one's advantage ; He exploit the new taxation system ; She knows how to work the system",
+   "23: find the solution to (a problem or question) or understand the meaning of ; did you solve the problem? ; Work out your problems with the boss",
+   "24: cause to undergo fermentation ; We ferment the grapes for a very long time to achieve high alcohol content ; The vintner worked the wine in big oak vats",
+   "25: go sour or spoil ; The milk has soured ; The wine worked",
+   "26: arrive at a certain condition through repeated motion ; The stitches of the hem worked loose after she wore the skirt many times"
+  ]
+ },
+ {
+  "id": 194,
+  "sentence": "There are authorized to be appropriated such sums , to remain available until expended , as may be necessary , but not more than $ 75000000 in all , ( a ) to carry out the provisions of this Act during the fiscal years 1962 to 1967 , inclusive ; ( b ) to finance , for not more than two years beyond the end of said period , such grants , contracts , cooperative agreements , and studies as may theretofore have been undertaken pursuant to this Act ; and ( c ) to finance , for not more than three years beyond the end of said period , such activities as are required to correlate , coordinate , and round out the results of studies and research undertaken pursuant to this Act : Provided , That funds available in any one year for research and development may , subject to the approval of the Secretary of State to assure that such activities are consistent with the foreign policy objectives of the United States , be expended in cooperation with [[public]] or private agencies in foreign countries in the development of processes useful to the program in the United States : And provided further , That every such contract or agreement made with any public or private agency in a foreign country shall contain provisions effective to insure that the results or information developed in connection therewith shall be available without cost to the United States for the use of the United States throughout the world and for the use of the general public within the United States .",
+  "target": "public",
+  "pos": "a",
+  "senses": [
+   "0: not private; open to or concerning the people as a whole ; the public good ; public libraries",
+   "1: affecting the people or community as a whole ; community leaders ; community interests"
+  ]
+ },
+ {
+  "id": 195,
+  "sentence": "Analysts saw the move as a continuation of the recovery drive that got under way late Monday afternoon when the list sank to a hoped-for `` support level '' [[represented]] by around 675 in the Dow Jones industrial average .",
+  "target": "represented",
+  "pos": "v",
+  "senses": [
+   "0: take the place of or be parallel or equivalent to ; Because of the sound changes in the course of history, an 'h' in Greek stands for an 's' in Latin",
+   "1: express indirectly by an image, form, or model; be a symbol ; What does the Statue of Liberty symbolize?",
+   "2: be representative or typical for ; This period is represented by Beethoven",
+   "3: be a delegate or spokesperson for; represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute ; I represent the silent majority",
+   "4: serve as a means of expressing something ; The flower represents a young girl",
+   "5: be characteristic of ; This compositional style is exemplified by this fugue",
+   "6: form or compose ; This money is my only income ; The stone wall was the backdrop for the performance",
+   "7: be the defense counsel for someone in a trial ; Ms. Smith will represent the defendant",
+   "8: create an image or likeness of ; The painter represented his wife as a young girl",
+   "9: play a role or part ; Gielgud played Hamlet ; She wants to act Lady Macbeth, but she is too young for the role",
+   "10: perform (a play), especially on a stage ; we are going to stage `Othello'",
+   "11: describe or present, usually with respect to a particular quality ; He represented this book as an example of the Russian 19th century novel",
+   "12: point out or draw attention to in protest or remonstrance ; our parents represented to us the need for more caution",
+   "13: bring forward and present to the mind ; We presented the arguments to him ; We cannot represent this knowledge to our formal reason",
+   "14: to establish a mapping (of mathematical elements or sets)"
+  ]
+ },
+ {
+  "id": 196,
+  "sentence": "The specific instance I have in mind is the Afro-Asian version which has [[gained]] prominence only in this second half of the twentieth century .",
+  "target": "gained",
+  "pos": "v",
+  "senses": [
+   "0: obtain ; derive pleasure from one's garden",
+   "1: win something through one's efforts ; I acquired a passing knowledge of Chinese ; Gain an understanding of international finance",
+   "2: derive a benefit from ; She profited from his vast experience",
+   "3: reach a destination, either real or abstract ; We hit Detroit by noon ; The water reached the doorstep",
+   "4: obtain advantages, such as points, etc. ; The home team was gaining ground ; After defeating the Knicks, the Blazers pulled ahead of the Lakers in the battle for the number-one playoff berth in the Western Conference",
+   "5: rise in rate or price ; The stock market gained 24 points today",
+   "6: increase or develop ; the peace movement gained momentum ; the car gathers speed",
+   "7: earn on some commercial or business transaction; earn as salary or wages ; How much do you make a month in your new job? ; She earns a lot in her new job",
+   "8: increase (one's body weight) ; She gained 20 pounds when she stopped exercising"
+  ]
+ },
+ {
+  "id": 197,
+  "sentence": "On her bureau lay a small , brass ornament of simple design and faded engraving - an object which , Pamela [[believed]] now , had been the property of her great-grandfather , Major Hiram Munroe Culver .",
+  "target": "believed",
+  "pos": "v",
+  "senses": [
+   "0: accept as true; take to be true ; I believed his report ; We didn't believe his stories from the War",
+   "1: judge or regard; look upon; judge ; I think he is very smart ; I believe her to be very smart",
+   "2: be confident about something ; I believe that he will come back from the war",
+   "3: follow a credo; have a faith; be a believer ; When you hear his sermons, you will be able to believe, too",
+   "4: credit with veracity ; You cannot believe this man ; Should we believe a publication like the National Enquirer?"
+  ]
+ },
+ {
+  "id": 198,
+  "sentence": "Believing that God is the Author of this law and of all laws of nature , [[Roman Catholics]] believe that they are obliged to obey those laws , not frustrate or mock them .",
+  "target": "Roman Catholics",
+  "pos": "n",
+  "senses": [
+   "0: a member of the Roman Catholic Church",
+   "1: the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy"
+  ]
+ },
+ {
+  "id": 199,
+  "sentence": "Extrapolation of this [[relationship]] through the thirtieth magnitude covers the range of micrometeorites .",
+  "target": "relationship",
+  "pos": "n",
+  "senses": [
+   "0: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness) ; the relationship between mothers and their children",
+   "1: a state of connectedness between people (especially an emotional connection) ; he didn't want his wife to know of the relationship",
+   "2: a state involving mutual dealings between people or parties or countries",
+   "3: (anthropology) relatedness or connection by blood or marriage or adoption"
+  ]
+ }
+]

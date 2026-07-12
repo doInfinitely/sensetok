@@ -1,0 +1,1034 @@
+[
+ {
+  "word": "be",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Link subject to predicate or attribute.",
+    "cue": "Followed by adjective, noun, or predicate: 'is rich', 'is a doctor'."
+   },
+   {
+    "gloss": "Auxiliary for passive voice or continuous aspect.",
+    "cue": "With past participle or -ing form: 'was saved', 'is walking'."
+   },
+   {
+    "gloss": "Exist; occur; take place.",
+    "cue": "Existential or locative; often 'there is/are' or 'is there'."
+   }
+  ]
+ },
+ {
+  "word": "life",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "State of being alive; biological existence.",
+    "cue": "Refers to animation, living organisms, or the property of vitality."
+   },
+   {
+    "gloss": "One's lifespan or individual existence.",
+    "cue": "A person's history, experiences, or period from birth to death."
+   },
+   {
+    "gloss": "A particular sphere or aspect of existence.",
+    "cue": "Modifiers like 'social life', 'work life', 'family life'."
+   }
+  ]
+ },
+ {
+  "word": "found",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Establish or institute an organization or institution.",
+    "cue": "Founding a company, school, program; setting up anew."
+   },
+   {
+    "gloss": "Come upon or locate after searching.",
+    "cue": "Discover the location of something lost or hidden."
+   }
+  ]
+ },
+ {
+  "word": "arc",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Curved trajectory or path of motion.",
+    "cue": "A ball arcing through the air; a curved line in space."
+   },
+   {
+    "gloss": "Electrical discharge through a gap.",
+    "cue": "Technical or scientific context; refers to electrical phenomenon."
+   }
+  ]
+ },
+ {
+  "word": "work",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Perform labor; be employed.",
+    "cue": "Subject is a person doing a job or task for pay or duty."
+   },
+   {
+    "gloss": "Function or operate; produce desired effect.",
+    "cue": "About device, process, or plan; does it achieve its purpose?"
+   },
+   {
+    "gloss": "Shape, form, or manipulate material.",
+    "cue": "Handling clay, dough, metal; physically transform something."
+   }
+  ]
+ },
+ {
+  "word": "deny",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "State that something is not true.",
+    "cue": "Contradiction of a claim, allegation, or statement."
+   },
+   {
+    "gloss": "Refuse to grant or give something.",
+    "cue": "Refusing permission, resources, or a request."
+   },
+   {
+    "gloss": "Refuse to acknowledge or accept.",
+    "cue": "Disowning, disclaim connection, reject reality of something."
+   }
+  ]
+ },
+ {
+  "word": "area",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Geographic region or locality.",
+    "cue": "Spatial reference; a place, neighborhood, or territory."
+   },
+   {
+    "gloss": "Subject matter or domain of knowledge.",
+    "cue": "Field of study, specialization, or expertise."
+   },
+   {
+    "gloss": "Two-dimensional extent or surface measurement.",
+    "cue": "Mathematical or geometric context; measured in square units."
+   }
+  ]
+ },
+ {
+  "word": "resulted",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "End in a particular way or come to pass.",
+    "cue": "Outcome of events; what happened as a consequence."
+   }
+  ]
+ },
+ {
+  "word": "guarding",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Watch over or keep under observation.",
+    "cue": "Stationed to monitor or protect; maintaining vigilance."
+   },
+   {
+    "gloss": "Protect against harm or unwanted consequence.",
+    "cue": "Taking precautions; preventing or defending against."
+   }
+  ]
+ },
+ {
+  "word": "moments",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "A particular point or instant in time.",
+    "cue": "Specific time when something happens or is measured."
+   },
+   {
+    "gloss": "A brief or indefinitely short span of time.",
+    "cue": "Quick duration; 'just a moment', 'wait a moment'."
+   },
+   {
+    "gloss": "Importance, weight, or significance.",
+    "cue": "An event or matter of consequence or importance."
+   }
+  ]
+ },
+ {
+  "word": "about",
+  "pos": "r",
+  "senses": [
+   {
+    "gloss": "Approximately; roughly or imprecisely close.",
+    "cue": "Modifying a quantity or value; 'about $100', 'about an hour'."
+   },
+   {
+    "gloss": "On all sides; in various directions or places.",
+    "cue": "Scattered or present in multiple locations; 'lying about'."
+   },
+   {
+    "gloss": "Nearly accomplished; almost but not quite.",
+    "cue": "Just short of completion or reality; 'about done'."
+   }
+  ]
+ },
+ {
+  "word": "having",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Possess or own something.",
+    "cue": "Subject has property, item, or relation; ownership or inclusion."
+   },
+   {
+    "gloss": "Undergo or experience something.",
+    "cue": "Subject goes through event, state, or condition."
+   },
+   {
+    "gloss": "Cause or compel to do something.",
+    "cue": "Making someone or something act; 'have him do it'."
+   }
+  ]
+ },
+ {
+  "word": "road",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Physical way or route for travel.",
+    "cue": "Actual street, path, or thoroughfare for transportation."
+   },
+   {
+    "gloss": "Path or way to achieve a goal.",
+    "cue": "Metaphorical journey; 'road to success', 'road to fame'."
+   }
+  ]
+ },
+ {
+  "word": "receipts",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Money or goods received; income.",
+    "cue": "Financial context; revenue or funds collected."
+   },
+   {
+    "gloss": "Proof or acknowledgment of payment.",
+    "cue": "Document or tangible evidence that payment was made."
+   }
+  ]
+ },
+ {
+  "word": "proportional",
+  "pos": "s",
+  "senses": [
+   {
+    "gloss": "Related in size or degree consistently or mathematically.",
+    "cue": "One quantity varies with another; direct or inverse relation."
+   }
+  ]
+ },
+ {
+  "word": "mass",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Physical quantity; amount of matter in object.",
+    "cue": "Physics or science context; property measured in kilograms."
+   },
+   {
+    "gloss": "Large number, quantity, or amount.",
+    "cue": "Bulk or aggregation; 'a mass of people', 'masses of data'."
+   },
+   {
+    "gloss": "Religious ceremony; Eucharistic celebration.",
+    "cue": "Church or spiritual context; Catholic or Christian ritual."
+   }
+  ]
+ },
+ {
+  "word": "allow",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Permit or give permission for something.",
+    "cue": "Grant consent; 'allow someone to go', 'allow an activity'."
+   },
+   {
+    "gloss": "Make possible or provide opportunity for.",
+    "cue": "Conditions enable or facilitate; 'allow for possibility'."
+   },
+   {
+    "gloss": "Acknowledge truth or validity; concede.",
+    "cue": "Admit or accept; 'allow that you might be right'."
+   }
+  ]
+ },
+ {
+  "word": "bought",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Obtain in exchange for money; purchase.",
+    "cue": "Financial transaction; acquiring by paying."
+   },
+   {
+    "gloss": "Accept as true or believe.",
+    "cue": "Informal; credibility or persuasion; 'believe the story'."
+   }
+  ]
+ },
+ {
+  "word": "Brooklyn College",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "University in New York; an educational institution.",
+    "cue": "Proper name; reference to specific college or campus."
+   }
+  ]
+ },
+ {
+  "word": "tools",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Implements or instruments for work or craft.",
+    "cue": "Physical objects; hammer, wrench, saw; instruments of trade."
+   },
+   {
+    "gloss": "Means or methods to achieve an end.",
+    "cue": "Figurative; instrument for accomplishing a goal."
+   }
+  ]
+ },
+ {
+  "word": "approximate",
+  "pos": "s",
+  "senses": [
+   {
+    "gloss": "Close in value but not exactly correct.",
+    "cue": "Not precise; a rough or near estimate; 'approximate answer'."
+   },
+   {
+    "gloss": "Located close together or nearby.",
+    "cue": "Spatial proximity; positioned near one another."
+   }
+  ]
+ },
+ {
+  "word": "suspension",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Temporary stop or cessation of activity.",
+    "cue": "Interruption; pause in something; held in abeyance."
+   },
+   {
+    "gloss": "Particles dispersed in a fluid.",
+    "cue": "Chemistry or physics; solid matter in liquid or gas."
+   },
+   {
+    "gloss": "System of springs supporting vehicle wheels.",
+    "cue": "Mechanical; automotive component for shock absorption."
+   }
+  ]
+ },
+ {
+  "word": "ended",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Reach or come to a finish or conclusion.",
+    "cue": "Terminate; something stops or reaches its close."
+   },
+   {
+    "gloss": "Cause something to stop or finish.",
+    "cue": "Deliberately terminate; bring to an end."
+   }
+  ]
+ },
+ {
+  "word": "pursue",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Follow or chase after someone or something.",
+    "cue": "Chasing; trying to catch up or overtake."
+   },
+   {
+    "gloss": "Engage in or carry on an activity.",
+    "cue": "Undertake; follow a course of action; 'pursue a hobby'."
+   },
+   {
+    "gloss": "Advance or carry further; continue course.",
+    "cue": "Progress along a path; keep on going."
+   }
+  ]
+ },
+ {
+  "word": "communities",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Group of people living in a locality.",
+    "cue": "Geographic; residents of a place sharing location."
+   },
+   {
+    "gloss": "Group sharing common interest or characteristic.",
+    "cue": "Affinity-based; people bound by profession or belief."
+   },
+   {
+    "gloss": "Organisms in same habitat interacting ecologically.",
+    "cue": "Biological or ecological; flora and fauna together."
+   }
+  ]
+ },
+ {
+  "word": "repertory",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Collection of works regularly performed.",
+    "cue": "Artistic or theatrical; plays, songs, operas available."
+   },
+   {
+    "gloss": "Range of skills or resources available.",
+    "cue": "Capability or techniques; what one can do or use."
+   }
+  ]
+ },
+ {
+  "word": "forces",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Military units or armed personnel.",
+    "cue": "Military context; armies, navies, troops, soldiers."
+   },
+   {
+    "gloss": "Physical influence causing acceleration or change.",
+    "cue": "Physics; mechanical power or influence in motion."
+   },
+   {
+    "gloss": "Group of people with power to act.",
+    "cue": "Collective agency; people able to influence or control."
+   }
+  ]
+ },
+ {
+  "word": "attend",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Be present at an event or place.",
+    "cue": "Showing up; participation or presence required."
+   },
+   {
+    "gloss": "Care for or serve someone.",
+    "cue": "Wait upon; provide service; 'attend to needs'."
+   },
+   {
+    "gloss": "Pay attention to; listen or heed.",
+    "cue": "Focusing awareness; listen to and consider."
+   }
+  ]
+ },
+ {
+  "word": "decided",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Reach a conclusion or make a choice.",
+    "cue": "Determine outcome; settle on a course of action."
+   },
+   {
+    "gloss": "Influence or determine an outcome.",
+    "cue": "Tip the balance; settle a question or contest."
+   }
+  ]
+ },
+ {
+  "word": "sheep",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Woolly domesticated ruminant animal.",
+    "cue": "Literal; the actual farm or wild animal."
+   },
+   {
+    "gloss": "Timid, defenseless, or easily led person.",
+    "cue": "Figurative; someone passive or susceptible to influence."
+   }
+  ]
+ },
+ {
+  "word": "cut",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Divide, separate, or sever with instrument.",
+    "cue": "Using knife, scissors; penetrating or dividing surface."
+   },
+   {
+    "gloss": "Reduce in size, amount, or intensity.",
+    "cue": "Lessen; make smaller; 'cut costs', 'cut staff'."
+   },
+   {
+    "gloss": "Shape, form, or carve by cutting.",
+    "cue": "Creating a shape; sculpting or forming from material."
+   },
+   {
+    "gloss": "Stop, interrupt, or move abruptly.",
+    "cue": "Halt; change direction; cease; 'cut the filming', 'cut class'."
+   }
+  ]
+ },
+ {
+  "word": "used",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Put to service or employ for purpose.",
+    "cue": "Application; utilize something as a tool or resource."
+   },
+   {
+    "gloss": "Consume or expend.",
+    "cue": "Use up; deplete; 'used all the sugar'."
+   },
+   {
+    "gloss": "Accustomed or habituated to something.",
+    "cue": "Past tense; familiar through repeated experience; 'used to'."
+   }
+  ]
+ },
+ {
+  "word": "authors",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "People who write books, articles, or works.",
+    "cue": "Profession; writers creating literary or textual work."
+   },
+   {
+    "gloss": "People who originate or cause something.",
+    "cue": "Initiators; those responsible for creating or starting."
+   }
+  ]
+ },
+ {
+  "word": "anode",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Positive electrode in electrical device.",
+    "cue": "Electrical context; where current enters or leaves externally."
+   }
+  ]
+ },
+ {
+  "word": "black",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Darkest color; total absence of light.",
+    "cue": "Color reference; darkest visible state."
+   },
+   {
+    "gloss": "Black cloth worn for mourning or ceremony.",
+    "cue": "Traditional attire; signifies mourning or formal occasion."
+   },
+   {
+    "gloss": "Person of African descent or heritage.",
+    "cue": "Racial or ethnic reference; people of African origin."
+   }
+  ]
+ },
+ {
+  "word": "keyboard",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Set of keys for typing or input.",
+    "cue": "Computer or typewriter; input device with keys."
+   },
+   {
+    "gloss": "Component of musical instrument.",
+    "cue": "Piano, organ, synthesizer; black and white keys."
+   }
+  ]
+ },
+ {
+  "word": "added",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Combine with others; join or unite.",
+    "cue": "Increase total; include something more; mix in."
+   },
+   {
+    "gloss": "State or say something further.",
+    "cue": "Supply information additionally; speak more on topic."
+   }
+  ]
+ },
+ {
+  "word": "Education",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Process of learning and acquiring knowledge.",
+    "cue": "Learning activity; instruction or intellectual development."
+   },
+   {
+    "gloss": "Knowledge or understanding gained through learning.",
+    "cue": "Result of learning; what someone knows or understands."
+   },
+   {
+    "gloss": "System or field of teaching and schooling.",
+    "cue": "Institution or profession; formal programs or practices."
+   }
+  ]
+ },
+ {
+  "word": "colony",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Settlement established in new territory.",
+    "cue": "Geographical; group settling and maintaining home ties."
+   },
+   {
+    "gloss": "Territory controlled by distant country.",
+    "cue": "Political; land under foreign rule or administration."
+   },
+   {
+    "gloss": "Group of organisms living together.",
+    "cue": "Biological; ant colony, coral colony, bacteria colony."
+   }
+  ]
+ },
+ {
+  "word": "been",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Link subject to predicate or attribute.",
+    "cue": "Past participle of be; predicate or copula function."
+   },
+   {
+    "gloss": "Auxiliary for passive voice or perfect aspect.",
+    "cue": "With past participle; 'has been done', 'was being'."
+   },
+   {
+    "gloss": "Exist; occur; take place.",
+    "cue": "Existential or locative past form."
+   }
+  ]
+ },
+ {
+  "word": "president",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Head of state of republic or nation.",
+    "cue": "Political office; chief executive of government."
+   },
+   {
+    "gloss": "Officer presiding over organization.",
+    "cue": "Corporate or institutional leader; head of company."
+   }
+  ]
+ },
+ {
+  "word": "installed",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Set up or put into working order.",
+    "cue": "Physical placement; ready equipment for use."
+   },
+   {
+    "gloss": "Put into office or formal position.",
+    "cue": "Ceremonial; induct someone into role or status."
+   }
+  ]
+ },
+ {
+  "word": "processes",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Course of action; procedure or method.",
+    "cue": "How something is done; step-by-step practice."
+   },
+   {
+    "gloss": "Continuous phenomenon changing through stages.",
+    "cue": "Gradual development; event unfolding over time."
+   },
+   {
+    "gloss": "Natural or biological operation within body.",
+    "cue": "Organic functioning; biological or mental activity."
+   }
+  ]
+ },
+ {
+  "word": "homer",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Home run in baseball.",
+    "cue": "Baseball term; batter reaches home plate."
+   },
+   {
+    "gloss": "Pigeon trained to return home.",
+    "cue": "Animal; homing pigeon bred for navigation."
+   },
+   {
+    "gloss": "Devoted fan of a team.",
+    "cue": "Sports context; biased enthusiast favoring home team."
+   }
+  ]
+ },
+ {
+  "word": "studies",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Learning and understanding a subject.",
+    "cue": "Intellectual work; research or examination of topic."
+   },
+   {
+    "gloss": "Document or report of findings.",
+    "cue": "Written research; formal analysis or investigation."
+   },
+   {
+    "gloss": "Preliminary sketch or work in progress.",
+    "cue": "Artistic; draft or practice piece before final work."
+   },
+   {
+    "gloss": "Room designed for reading and work.",
+    "cue": "Physical space; personal office or study room."
+   }
+  ]
+ },
+ {
+  "word": "Roman Catholics",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Members of Roman Catholic Church.",
+    "cue": "Religious; plural of person following Catholic faith."
+   }
+  ]
+ },
+ {
+  "word": "wield",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Handle or use skillfully.",
+    "cue": "Manipulate tool or weapon with control; use effectively."
+   },
+   {
+    "gloss": "Exercise authority or influence.",
+    "cue": "Metaphorical; command or control power or authority."
+   }
+  ]
+ },
+ {
+  "word": "listened",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Hear with attention; pay close heed.",
+    "cue": "Actively focus on sound; give consideration to."
+   }
+  ]
+ },
+ {
+  "word": "city",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Large densely populated urban area.",
+    "cue": "Geography; metropolis with many inhabitants and infrastructure."
+   },
+   {
+    "gloss": "People or inhabitants of a city.",
+    "cue": "Collective; citizens or residents of urban place."
+   }
+  ]
+ },
+ {
+  "word": "even",
+  "pos": "r",
+  "senses": [
+   {
+    "gloss": "Emphasize or intensify; especially for contrast.",
+    "cue": "Surprising or extreme example; 'even a child knows'."
+   },
+   {
+    "gloss": "To a greater degree; further in comparison.",
+    "cue": "Comparative use; more extreme than before; 'even stronger'."
+   },
+   {
+    "gloss": "Notwithstanding; despite or in spite of.",
+    "cue": "Concessive; but still true; 'even so', 'even when'."
+   }
+  ]
+ },
+ {
+  "word": "seen",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Perceive with eyes; observe visually.",
+    "cue": "Visual perception; observe something with sight."
+   },
+   {
+    "gloss": "Understand mentally; comprehend or interpret.",
+    "cue": "Cognitive; grasp meaning; 'I see what you mean'."
+   },
+   {
+    "gloss": "Meet or encounter; have contact with.",
+    "cue": "Social interaction; come together with someone."
+   },
+   {
+    "gloss": "Visit; go to see a place or person.",
+    "cue": "Travel or attend; seek out for meeting or visit."
+   }
+  ]
+ },
+ {
+  "word": "including",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Have as part; comprise or contain.",
+    "cue": "Inclusive; include within a group or set."
+   }
+  ]
+ },
+ {
+  "word": "first",
+  "pos": "r",
+  "senses": [
+   {
+    "gloss": "Before anything else in sequence.",
+    "cue": "Temporal order; initial action or stage."
+   },
+   {
+    "gloss": "In front or ahead in space or importance.",
+    "cue": "Priority or forward position; foremost."
+   }
+  ]
+ },
+ {
+  "word": "substituted",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Put one thing in place of another.",
+    "cue": "Exchange or replace; trade or swap out."
+   },
+   {
+    "gloss": "Act in place of someone or something.",
+    "cue": "Serve as replacement; fill role temporarily."
+   }
+  ]
+ },
+ {
+  "word": "handling",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Physical touching or manipulating with hands.",
+    "cue": "Manual contact; tactile use of hands on object."
+   },
+   {
+    "gloss": "Management or care of something.",
+    "cue": "Administration; how something is managed or treated."
+   }
+  ]
+ },
+ {
+  "word": "activity",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Specific action or behavior.",
+    "cue": "What someone or something does; particular conduct."
+   },
+   {
+    "gloss": "State of being active; energetic motion.",
+    "cue": "Level of functioning; degree of busyness or action."
+   },
+   {
+    "gloss": "Organic or chemical process.",
+    "cue": "Biological or scientific; function within system."
+   }
+  ]
+ },
+ {
+  "word": "made",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Create or produce something new.",
+    "cue": "Manufacturing; construct or fashion an object."
+   },
+   {
+    "gloss": "Cause something to become or occur.",
+    "cue": "Causation; bring about a state or change."
+   },
+   {
+    "gloss": "Perform or carry out an action.",
+    "cue": "Do or execute; 'made a decision', 'made an effort'."
+   },
+   {
+    "gloss": "Reach or achieve a goal or destination.",
+    "cue": "Attain; succeed in reaching; 'made it home'."
+   },
+   {
+    "gloss": "Earn money or gain benefit.",
+    "cue": "Financial; generate income or profit."
+   }
+  ]
+ },
+ {
+  "word": "holder",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Device or container for holding something.",
+    "cue": "Physical object designed to contain or support."
+   },
+   {
+    "gloss": "Person who possesses or holds something.",
+    "cue": "Owner or keeper; one maintaining control."
+   }
+  ]
+ },
+ {
+  "word": "body",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Physical structure of organism; flesh and bones.",
+    "cue": "Anatomy; the material form of living being."
+   },
+   {
+    "gloss": "Main or central part of something.",
+    "cue": "The bulk; core section distinct from extremities."
+   },
+   {
+    "gloss": "Group or organization of people.",
+    "cue": "Collective; organization with shared purpose."
+   },
+   {
+    "gloss": "Corpse; dead body of person or animal.",
+    "cue": "Death context; remains of living being."
+   }
+  ]
+ },
+ {
+  "word": "debt",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "Money or obligation owed to another.",
+    "cue": "Financial; owing something of value to someone."
+   }
+  ]
+ },
+ {
+  "word": "Secretary of the Interior",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "US government official overseeing interior department.",
+    "cue": "Government title; administrative position in cabinet."
+   }
+  ]
+ },
+ {
+  "word": "involve",
+  "pos": "v",
+  "senses": [
+   {
+    "gloss": "Have as a necessary part or component.",
+    "cue": "Include; this process involves several steps."
+   },
+   {
+    "gloss": "Engage someone in activity or responsibility.",
+    "cue": "Draw in; implicate; cause participation in something."
+   },
+   {
+    "gloss": "Make intricate or complex.",
+    "cue": "Complicate; make harder to understand or manage."
+   }
+  ]
+ },
+ {
+  "word": "substantial",
+  "pos": "s",
+  "senses": [
+   {
+    "gloss": "Large in size, amount, or importance.",
+    "cue": "Significant; considerable; noteworthy in scale or value."
+   },
+   {
+    "gloss": "Real, actual, or material in substance.",
+    "cue": "Not imaginary; solid; physically existing."
+   },
+   {
+    "gloss": "Solid, strong, or firmly constructed.",
+    "cue": "Durable; well-built; substantial in quality or structure."
+   }
+  ]
+ },
+ {
+  "word": "limited",
+  "pos": "s",
+  "senses": [
+   {
+    "gloss": "Restricted or confined within boundaries.",
+    "cue": "Having limits; not unlimited or abundant."
+   }
+  ]
+ },
+ {
+  "word": "Duclos",
+  "pos": "n",
+  "senses": [
+   {
+    "gloss": "A person's name; proper noun.",
+    "cue": "Personal identifier; refers to individual named Duclos."
+   }
+  ]
+ },
+ {
+  "word": "new",
+  "pos": "a",
+  "senses": [
+   {
+    "gloss": "Recently made, created, or discovered.",
+    "cue": "Recent origin; freshly produced or found."
+   },
+   {
+    "gloss": "Different from before; current versus former.",
+    "cue": "Replacement; changed; 'new car', 'new leader'."
+   },
+   {
+    "gloss": "Unfamiliar or strange; not previously known.",
+    "cue": "Novel; new to experience; 'new idea', 'new place'."
+   }
+  ]
+ }
+]
